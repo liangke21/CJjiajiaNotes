@@ -62,10 +62,7 @@ double* dp;    /* 一个 double 型的指针 */
 float* fp;    /* 一个浮点型的指针 */
 char* ch;    /* 一个字符型的指针 */
 
-#include <iostream>
-
 using namespace std;
-
 int main1()
 {
     int  var = 20;   // 实际变量的声明
@@ -100,6 +97,10 @@ int main1()
 auto c2 = 0b0101;
 auto c3 = 0b0100;
 
-int main() {
+int main2() {
     cout << c2;
+    return 0;
 }
+
+//魔术常量 
+//母鸡

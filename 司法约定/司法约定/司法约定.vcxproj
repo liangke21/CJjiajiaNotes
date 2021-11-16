@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="D:\Desktop\Microsoft 专用.cpp" />
     <ClCompile Include="D:\Desktop\注释.cpp" />
+    <ClCompile Include="字符串.cpp" />
     <ClCompile Include="数值_布尔和指针文本.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

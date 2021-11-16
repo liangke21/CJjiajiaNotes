@@ -24,5 +24,8 @@
     <ClCompile Include="数值_布尔和指针文本.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
