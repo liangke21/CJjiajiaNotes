@@ -13,10 +13,33 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\01C++类型系统">
+      <UniqueIdentifier>{716e350e-5aea-4b7c-b20f-6e9c68e8042a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\02范围">
+      <UniqueIdentifier>{8dc99083-3c39-4a9a-a250-31c3d137e781}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03头文件">
+      <UniqueIdentifier>{37e112b4-3d9e-4111-8135-86433e1fe289}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C++类型系统.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="范围.cpp">
+      <Filter>源文件\02范围</Filter>
     </ClCompile>
+    <ClCompile Include="C++类型系统.cpp">
+      <Filter>源文件\01C++类型系统</Filter>
+    </ClCompile>
+    <ClCompile Include="my_class.cpp">
+      <Filter>源文件\03头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="my_program.cpp">
+      <Filter>源文件\03头文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="my_class.h">
+      <Filter>源文件\03头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

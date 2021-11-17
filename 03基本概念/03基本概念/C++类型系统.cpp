@@ -92,7 +92,7 @@ int main3()
 //?
 
 //指针类型
-int main()
+int main4()
 {
 
 	int* pNumber;       // 声明一个指向 int 的指针变量。
