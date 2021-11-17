@@ -377,7 +377,7 @@ int main28()
     return 0;
 }
 //具有通用字符名称的字符串文本
-int main()
+int main29()
 {
     // ASCII 笑脸
     const char* s1 = ":-)";
