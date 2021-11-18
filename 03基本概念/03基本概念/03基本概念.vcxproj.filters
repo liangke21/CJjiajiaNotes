@@ -37,6 +37,12 @@
     <Filter Include="源文件\07左值和右值">
       <UniqueIdentifier>{f9b00a2e-9390-4d52-a79d-1a7ef7a44561}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\08临时对象">
+      <UniqueIdentifier>{5bd794b6-cf2c-441c-8f59-ba9651c028c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\09对齐方式">
+      <UniqueIdentifier>{eca4865c-6d23-4121-876e-61fcbfcc5290}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="范围.cpp">
@@ -65,6 +71,12 @@
     </ClCompile>
     <ClCompile Include="lvalues_and_rvalues2.cpp">
       <Filter>源文件\07左值和右值</Filter>
+    </ClCompile>
+    <ClCompile Include="临时对象.cpp">
+      <Filter>源文件\08临时对象</Filter>
+    </ClCompile>
+    <ClCompile Include="数据对齐的编译器处理.cpp">
+      <Filter>源文件\09对齐方式</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

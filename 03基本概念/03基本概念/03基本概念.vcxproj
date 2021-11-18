@@ -146,6 +146,8 @@
     <ClCompile Include="my_class.cpp" />
     <ClCompile Include="my_program.cpp" />
     <ClCompile Include="using_exit_or_return1.cpp" />
+    <ClCompile Include="临时对象.cpp" />
+    <ClCompile Include="数据对齐的编译器处理.cpp" />
     <ClCompile Include="翻译单元和链接.cpp" />
     <ClCompile Include="范围.cpp" />
   </ItemGroup>

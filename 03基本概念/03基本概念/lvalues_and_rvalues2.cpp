@@ -1,5 +1,5 @@
 // lvalues_and_rvalues2.cpp
-int main()
+int main71()
 {
     int i, j, * p;
 
@@ -34,4 +34,6 @@ int main()
     // 错误用法：常量 ci 是不可修改的左值 (C3892)。
     const int ci = 7;
    // ci = 9; // C3892
+
+    return 0;
 }
