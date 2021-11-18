@@ -79,20 +79,20 @@ struct POD
 	int b;
 };
 
-int main()
+int main102()
 {
 	cout << boolalpha;
 	cout << "A 是微不足道的 " << is_trivial<A>() << endl; // false
-	cout << "A is standard-layout is " << is_standard_layout<A>() << endl;  // false
+	cout << "A 是标准布局 is " << is_standard_layout<A>() << endl;  // false
 
-	cout << "C is trivial is " << is_trivial<C>() << endl; // true
-	cout << "C is standard-layout is " << is_standard_layout<C>() << endl;  // false
+	cout << "C是微不足道的是 " << is_trivial<C>() << endl; // true
+	cout << "C是标准布局是 " << is_standard_layout<C>() << endl;  // false
 
-	cout << "D is trivial is " << is_trivial<D>() << endl;  // false
-	cout << "D is standard-layout is " << is_standard_layout<D>() << endl; // true
+	cout << "D 是微不足道的" << is_trivial<D>() << endl;  // false
+	cout << "D 是标准布局是 " << is_standard_layout<D>() << endl; // true
 
-	cout << "POD is trivial is " << is_trivial<POD>() << endl; // true
-	cout << "POD is standard-layout is " << is_standard_layout<POD>() << endl; // true
+	cout << "POD 是微不足道的 " << is_trivial<POD>() << endl; // true
+	cout << "POD 是标准布局是 " << is_standard_layout<POD>() << endl; // true
 
 	return 0;
 }

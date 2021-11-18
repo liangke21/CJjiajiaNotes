@@ -46,6 +46,12 @@
     <Filter Include="源文件\10Trivial、standard-layout 和 POD 类型">
       <UniqueIdentifier>{02503d28-a159-4d8f-8236-1c694528d3d5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\11值类型的">
+      <UniqueIdentifier>{8ba852e7-463c-408b-a2ed-ba33fa6735f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\12类型转换和类型安全">
+      <UniqueIdentifier>{402dda1d-46ae-4799-ab24-433be3f4c6aa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="范围.cpp">
@@ -83,6 +89,12 @@
     </ClCompile>
     <ClCompile Include="普通类型.cpp">
       <Filter>源文件\10Trivial、standard-layout 和 POD 类型</Filter>
+    </ClCompile>
+    <ClCompile Include="值类型的.cpp">
+      <Filter>源文件\11值类型的</Filter>
+    </ClCompile>
+    <ClCompile Include="类型转换和类型安全.cpp">
+      <Filter>源文件\12类型转换和类型安全</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
