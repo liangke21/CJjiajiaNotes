@@ -1,5 +1,6 @@
 // my_class.h
-#ifndef MY_CLASS_H // °üÀ¨¾¯ÎÀ
+//Include ÁÙ½ç
+#ifndef MY_CLASS_H // 
 #define MY_CLASS_H
 namespace N
 {

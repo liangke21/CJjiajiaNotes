@@ -7,7 +7,7 @@ using namespace N;
 #include "sample.h"
 using namespace M;
 
-int main()
+int main32()
 {
     my_class mc;
     mc.do_something();

@@ -140,12 +140,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++类型系统.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="music.cpp" />
     <ClCompile Include="my_class.cpp" />
     <ClCompile Include="my_program.cpp" />
+    <ClCompile Include="翻译单元和链接.cpp" />
     <ClCompile Include="范围.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="my_class.h" />
+    <ClInclude Include="sample.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

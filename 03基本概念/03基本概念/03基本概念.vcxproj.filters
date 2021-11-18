@@ -22,6 +22,15 @@
     <Filter Include="源文件\03头文件">
       <UniqueIdentifier>{37e112b4-3d9e-4111-8135-86433e1fe289}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04翻译单元和链接">
+      <UniqueIdentifier>{b071868d-6d5f-4bcb-a33f-9d9afc1d201a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05main 函数和命令行参数">
+      <UniqueIdentifier>{0689356f-562a-419b-9270-9ba73a43f327}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05main 函数和命令行参数\命令播放音乐">
+      <UniqueIdentifier>{ffcca9e5-1dc2-4034-9e61-28332a2a8e5e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="范围.cpp">
@@ -36,9 +45,21 @@
     <ClCompile Include="my_program.cpp">
       <Filter>源文件\03头文件</Filter>
     </ClCompile>
+    <ClCompile Include="翻译单元和链接.cpp">
+      <Filter>源文件\04翻译单元和链接</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件\05main 函数和命令行参数</Filter>
+    </ClCompile>
+    <ClCompile Include="music.cpp">
+      <Filter>源文件\05main 函数和命令行参数\命令播放音乐</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="my_class.h">
+      <Filter>源文件\03头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sample.h">
       <Filter>源文件\03头文件</Filter>
     </ClInclude>
   </ItemGroup>
