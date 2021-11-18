@@ -31,6 +31,9 @@
     <Filter Include="源文件\05main 函数和命令行参数\命令播放音乐">
       <UniqueIdentifier>{ffcca9e5-1dc2-4034-9e61-28332a2a8e5e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\06 程序终止">
+      <UniqueIdentifier>{38224073-f625-474d-9377-511dc6f51764}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="范围.cpp">
@@ -53,6 +56,9 @@
     </ClCompile>
     <ClCompile Include="music.cpp">
       <Filter>源文件\05main 函数和命令行参数\命令播放音乐</Filter>
+    </ClCompile>
+    <ClCompile Include="using_exit_or_return1.cpp">
+      <Filter>源文件\06 程序终止</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

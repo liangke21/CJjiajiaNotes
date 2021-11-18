@@ -144,6 +144,7 @@
     <ClCompile Include="music.cpp" />
     <ClCompile Include="my_class.cpp" />
     <ClCompile Include="my_program.cpp" />
+    <ClCompile Include="using_exit_or_return1.cpp" />
     <ClCompile Include="翻译单元和链接.cpp" />
     <ClCompile Include="范围.cpp" />
   </ItemGroup>
