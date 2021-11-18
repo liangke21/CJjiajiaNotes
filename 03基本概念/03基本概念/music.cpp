@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main(int argc, char* argv[])
+int main55(int argc, char* argv[])
 
 {
 	//用 命令行打开

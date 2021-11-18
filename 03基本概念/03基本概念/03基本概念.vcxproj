@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++类型系统.cpp" />
+    <ClCompile Include="lvalues_and_rvalues2.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="music.cpp" />
     <ClCompile Include="my_class.cpp" />

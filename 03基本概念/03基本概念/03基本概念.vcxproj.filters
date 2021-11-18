@@ -34,6 +34,9 @@
     <Filter Include="源文件\06 程序终止">
       <UniqueIdentifier>{38224073-f625-474d-9377-511dc6f51764}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\07左值和右值">
+      <UniqueIdentifier>{f9b00a2e-9390-4d52-a79d-1a7ef7a44561}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="范围.cpp">
@@ -59,6 +62,9 @@
     </ClCompile>
     <ClCompile Include="using_exit_or_return1.cpp">
       <Filter>源文件\06 程序终止</Filter>
+    </ClCompile>
+    <ClCompile Include="lvalues_and_rvalues2.cpp">
+      <Filter>源文件\07左值和右值</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
