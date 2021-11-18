@@ -43,6 +43,9 @@
     <Filter Include="源文件\09对齐方式">
       <UniqueIdentifier>{eca4865c-6d23-4121-876e-61fcbfcc5290}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\10Trivial、standard-layout 和 POD 类型">
+      <UniqueIdentifier>{02503d28-a159-4d8f-8236-1c694528d3d5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="范围.cpp">
@@ -77,6 +80,9 @@
     </ClCompile>
     <ClCompile Include="数据对齐的编译器处理.cpp">
       <Filter>源文件\09对齐方式</Filter>
+    </ClCompile>
+    <ClCompile Include="普通类型.cpp">
+      <Filter>源文件\10Trivial、standard-layout 和 POD 类型</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

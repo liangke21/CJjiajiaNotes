@@ -20,7 +20,8 @@ struct alignas(16) Bar
     short s;          // 2 bytes
 };
 
-int main()
+int main91()
 {
     std::cout << alignof(Bar) << std::endl; // output: 16
+    return 0;
 }
