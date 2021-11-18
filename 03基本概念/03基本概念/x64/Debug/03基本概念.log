@@ -1,8 +1,5 @@
-﻿  类型转换和类型安全.cpp
-G:\C++Notes\03基本概念\03基本概念\类型转换和类型安全.cpp(10,21): warning C4307: “+”: 有符号整型常量溢出
-G:\C++Notes\03基本概念\03基本概念\类型转换和类型安全.cpp(12,12): warning C4244: “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
-G:\C++Notes\03基本概念\03基本概念\类型转换和类型安全.cpp(14,30): warning C4305: “初始化”: 从“int”到“unsigned char”截断
-G:\C++Notes\03基本概念\03基本概念\类型转换和类型安全.cpp(14,24): warning C4309: “初始化”: 截断常量值
-G:\C++Notes\03基本概念\03基本概念\类型转换和类型安全.cpp(16,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-G:\C++Notes\03基本概念\03基本概念\类型转换和类型安全.cpp(18,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+﻿  标准转换.cpp
+G:\C++Notes\03基本概念\03基本概念\标准转换.cpp(6,19): warning C4101: “long_num2”: 未引用的局部变量
+G:\C++Notes\03基本概念\03基本概念\标准转换.cpp(6,8): warning C4101: “long_num1”: 未引用的局部变量
+G:\C++Notes\03基本概念\03基本概念\标准转换.cpp(7,8): warning C4101: “int_num”: 未引用的局部变量
   03基本概念.vcxproj -> G:\C++Notes\03基本概念\x64\Debug\03基本概念.exe

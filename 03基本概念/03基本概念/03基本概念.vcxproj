@@ -150,6 +150,7 @@
     <ClCompile Include="值类型的.cpp" />
     <ClCompile Include="数据对齐的编译器处理.cpp" />
     <ClCompile Include="普通类型.cpp" />
+    <ClCompile Include="标准转换.cpp" />
     <ClCompile Include="类型转换和类型安全.cpp" />
     <ClCompile Include="翻译单元和链接.cpp" />
     <ClCompile Include="范围.cpp" />

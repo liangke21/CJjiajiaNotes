@@ -44,4 +44,5 @@ int main122()
 
     //Ö¸Õë×ª»»
    // char* s = "Help" + 3;
+    exit(0);
 }
