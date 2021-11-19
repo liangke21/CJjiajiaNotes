@@ -44,13 +44,15 @@ InitDemo::~InitDemo() {
         delete szObjName;
     }
 }
-static InitDemo I3("Static I4");
+//static InitDemo I3("Static I4");
 //进入主函数
-int main() {
+int main34() {
     InitDemo I1("Auto I1"); {
         cout << "In block.\n";
         InitDemo I2("Auto I2");
         static InitDemo I3("Static I3");
     }
     cout << "Exited block.\n";
+
+    return 0;
 }

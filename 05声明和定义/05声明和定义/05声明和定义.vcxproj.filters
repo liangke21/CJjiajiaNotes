@@ -19,8 +19,17 @@
     <Filter Include="源文件\02存储类">
       <UniqueIdentifier>{f019b003-4716-49c7-94be-c39ef9a7700f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\NewFilter1">
+    <Filter Include="源文件\03auto">
       <UniqueIdentifier>{01f2f2a6-0c1f-4dd2-93fd-d5e663a945ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04const">
+      <UniqueIdentifier>{dbe1ab63-e1b7-4b0a-9408-2cc0e2a73115}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05constexpr">
+      <UniqueIdentifier>{356043ca-d1d9-4ef4-a8be-3bc54af8c56e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\06extern">
+      <UniqueIdentifier>{f97091a1-d72e-4aed-8fed-cf4b2b18bbd5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -38,6 +47,30 @@
     </ClCompile>
     <ClCompile Include="自动初始化与静态初始化.cpp">
       <Filter>源文件\02存储类</Filter>
+    </ClCompile>
+    <ClCompile Include="auto.cpp">
+      <Filter>源文件\03auto</Filter>
+    </ClCompile>
+    <ClCompile Include="const.cpp">
+      <Filter>源文件\04const</Filter>
+    </ClCompile>
+    <ClCompile Include="constexpr .cpp">
+      <Filter>源文件\05constexpr</Filter>
+    </ClCompile>
+    <ClCompile Include="extern.cpp">
+      <Filter>源文件\06extern</Filter>
+    </ClCompile>
+    <ClCompile Include="fileA.cpp">
+      <Filter>源文件\06extern</Filter>
+    </ClCompile>
+    <ClCompile Include="fileB.cpp">
+      <Filter>源文件\06extern</Filter>
+    </ClCompile>
+    <ClCompile Include="fileC.cpp">
+      <Filter>源文件\06extern</Filter>
+    </ClCompile>
+    <ClCompile Include="fileD.cpp">
+      <Filter>源文件\06extern</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
