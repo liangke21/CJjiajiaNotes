@@ -4,8 +4,8 @@
 
 void* pv;   // okay
 int* pint; int i;
-int main() {
+int main3() {
 	pv = &i;
-	// Cast optional in C required in C++
-	pint = (int*)pv;
+	// 在 C++ 中需要在 C 中强制转换为可选
+	pint = (int*)pv;  //这里强化转为其int指针
 }

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f6cd9136-5cab-4583-96a5-3e108b8fc8f0}</ProjectGuid>
-    <RootNamespace>My04内置类型</RootNamespace>
+    <ProjectGuid>{0635d727-7cb7-4adb-bcc6-c6ca2401b31b}</ProjectGuid>
+    <RootNamespace>My05声明和定义</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,11 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="bool.cpp" />
-    <ClCompile Include="char、wchar_t、char8_t、char16_t、char32_t.cpp" />
-    <ClCompile Include="nullptr.cpp" />
-    <ClCompile Include="void.cpp" />
-    <ClCompile Include="数据类型范围.cpp" />
+    <ClCompile Include="static1.cpp" />
+    <ClCompile Include="static2.cpp" />
+    <ClCompile Include="static3.cpp" />
+    <ClCompile Include="声明和定义.cpp" />
+    <ClCompile Include="自动初始化与静态初始化.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

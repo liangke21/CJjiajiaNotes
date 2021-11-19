@@ -22,6 +22,12 @@
     <Filter Include="源文件\03void">
       <UniqueIdentifier>{0a5cf493-4693-41c6-88e0-266052b448bb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04bool">
+      <UniqueIdentifier>{2fe8e577-522b-45b2-b765-dcffabdd82dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05char、wchar_t、char8_t、char16_t、char32_t">
+      <UniqueIdentifier>{283a0a36-9574-4b5a-9dc6-cc94657d2b58}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数据类型范围.cpp">
@@ -32,6 +38,12 @@
     </ClCompile>
     <ClCompile Include="void.cpp">
       <Filter>源文件\03void</Filter>
+    </ClCompile>
+    <ClCompile Include="bool.cpp">
+      <Filter>源文件\04bool</Filter>
+    </ClCompile>
+    <ClCompile Include="char、wchar_t、char8_t、char16_t、char32_t.cpp">
+      <Filter>源文件\05char、wchar_t、char8_t、char16_t、char32_t</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
