@@ -1,0 +1,28 @@
+﻿E:\Microsoft Visual Studio\2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(司法约定.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Microsoft 专用.cpp
+c1xx : fatal error C1083: 无法打开源文件: “D:\Desktop\Microsoft 专用.cpp”: No such file or directory
+  注释.cpp
+c1xx : fatal error C1083: 无法打开源文件: “D:\Desktop\注释.cpp”: No such file or directory
+  字符串.cpp
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(124,21): warning C4305: “初始化”: 从“int”到“char”截断
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(124,15): warning C4309: “初始化”: 截断常量值
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(125,24): warning C4305: “初始化”: 从“int”到“wchar_t”截断
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(125,18): warning C4309: “初始化”: 截断常量值
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(136,22): warning C4305: “初始化”: 从“int”到“char”截断
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(136,15): warning C4309: “初始化”: 截断常量值
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(145,21): warning C4305: “初始化”: 从“int”到“char”截断
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(145,15): warning C4309: “初始化”: 截断常量值
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(146,15): warning C4129: “q”: 不可识别的字符转义序列
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(146,21): warning C4305: “初始化”: 从“int”到“char”截断
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(146,15): warning C4309: “初始化”: 截断常量值
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(156,23): warning C4305: “初始化”: 从“int”到“char”截断
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(156,15): warning C4309: “初始化”: 截断常量值
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(165,18): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(166,18): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(167,18): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(168,18): warning C4129: “q”: 不可识别的字符转义序列
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(168,18): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+G:\C++Notes\C++ 语言参考\02司法约定\司法约定\字符串.cpp(170,18): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+  数值_布尔和指针文本.cpp
+  用户定义的文本.cpp
+  正在生成代码...
