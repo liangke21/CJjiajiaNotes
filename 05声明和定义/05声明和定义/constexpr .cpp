@@ -46,7 +46,7 @@ private:
     int _i;
 };
 
-int main()
+int main55()
 {
     // foo 是常量：
     constexpr Foo foo(5);
@@ -62,4 +62,6 @@ int main()
 
     // 运行：
     cout << "The value of foo is " << foo.GetValue() << endl;
+
+    return 0;
 }

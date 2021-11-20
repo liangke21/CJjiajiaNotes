@@ -31,6 +31,9 @@
     <Filter Include="源文件\06extern">
       <UniqueIdentifier>{f97091a1-d72e-4aed-8fed-cf4b2b18bbd5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\07初始值设定项">
+      <UniqueIdentifier>{f0233069-7bf8-4bc0-8048-22f1ae0eac33}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="声明和定义.cpp">
@@ -71,6 +74,9 @@
     </ClCompile>
     <ClCompile Include="fileD.cpp">
       <Filter>源文件\06extern</Filter>
+    </ClCompile>
+    <ClCompile Include="初始值设定项.cpp">
+      <Filter>源文件\07初始值设定项</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

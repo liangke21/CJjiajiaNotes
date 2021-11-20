@@ -150,6 +150,7 @@
     <ClCompile Include="static1.cpp" />
     <ClCompile Include="static2.cpp" />
     <ClCompile Include="static3.cpp" />
+    <ClCompile Include="初始值设定项.cpp" />
     <ClCompile Include="声明和定义.cpp" />
     <ClCompile Include="自动初始化与静态初始化.cpp" />
   </ItemGroup>
