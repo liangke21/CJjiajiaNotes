@@ -15,7 +15,7 @@ public:
 	using A::g;   // B::g is a public synonym for A::g
 };
 
-int main()
+int main9963()
 {
 	return 0;
 }

@@ -142,6 +142,7 @@
     <ClCompile Include="auto.cpp" />
     <ClCompile Include="const.cpp" />
     <ClCompile Include="constexpr .cpp" />
+    <ClCompile Include="decltype.cpp" />
     <ClCompile Include="extern.cpp" />
     <ClCompile Include="fileA.cpp" />
     <ClCompile Include="fileB.cpp" />
@@ -158,10 +159,12 @@
     <ClCompile Include="using 声明和继承.cpp" />
     <ClCompile Include="using 声明成员的声明.cpp" />
     <ClCompile Include="using ：声明同义词和别名.cpp" />
+    <ClCompile Include="volatile.cpp" />
     <ClCompile Include="别名.cpp" />
     <ClCompile Include="初始值设定项.cpp" />
     <ClCompile Include="声明和定义.cpp" />
     <ClCompile Include="本地函数声明 using 和声明.cpp" />
+    <ClCompile Include="特性.cpp" />
     <ClCompile Include="自动初始化与静态初始化.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -43,6 +43,15 @@
     <Filter Include="源文件\09using 声明">
       <UniqueIdentifier>{8d032011-d2ef-4555-bd68-918b35b30b73}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\10volatile">
+      <UniqueIdentifier>{e8b7d566-fb42-407e-8682-cd42a6428f37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\11decltype">
+      <UniqueIdentifier>{0a07aa3d-50f5-498c-b1e8-8daac6245e54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\12特性">
+      <UniqueIdentifier>{5cb03072-8a24-4570-b6e2-9d5312471eb1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="声明和定义.cpp">
@@ -116,6 +125,15 @@
     </ClCompile>
     <ClCompile Include="using 声明可访问性.cpp">
       <Filter>源文件\09using 声明</Filter>
+    </ClCompile>
+    <ClCompile Include="volatile.cpp">
+      <Filter>源文件\10volatile</Filter>
+    </ClCompile>
+    <ClCompile Include="decltype.cpp">
+      <Filter>源文件\11decltype</Filter>
+    </ClCompile>
+    <ClCompile Include="特性.cpp">
+      <Filter>源文件\12特性</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

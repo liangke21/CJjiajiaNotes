@@ -41,4 +41,6 @@ void f(D* pd) {  //这里D和B一定要啥继承关系
 int main96() {
     D* myd = new D();
     f(myd);
+
+    return 0;
 }
