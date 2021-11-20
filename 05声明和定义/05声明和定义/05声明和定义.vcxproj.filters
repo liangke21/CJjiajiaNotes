@@ -34,6 +34,15 @@
     <Filter Include="源文件\07初始值设定项">
       <UniqueIdentifier>{f0233069-7bf8-4bc0-8048-22f1ae0eac33}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\08别名和 typedef">
+      <UniqueIdentifier>{d423ee8b-0073-4840-8598-134ac9f84cee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\08别名和 typedef\typedef 的重新声明">
+      <UniqueIdentifier>{524ef974-782d-4008-bc79-0385b8f87f4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\09using 声明">
+      <UniqueIdentifier>{8d032011-d2ef-4555-bd68-918b35b30b73}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="声明和定义.cpp">
@@ -78,5 +87,43 @@
     <ClCompile Include="初始值设定项.cpp">
       <Filter>源文件\07初始值设定项</Filter>
     </ClCompile>
+    <ClCompile Include="typedef.cpp">
+      <Filter>源文件\08别名和 typedef</Filter>
+    </ClCompile>
+    <ClCompile Include="PROG.cpp">
+      <Filter>源文件\08别名和 typedef\typedef 的重新声明</Filter>
+    </ClCompile>
+    <ClCompile Include="别名.cpp">
+      <Filter>源文件\08别名和 typedef</Filter>
+    </ClCompile>
+    <ClCompile Include="using 声明.cpp">
+      <Filter>源文件\09using 声明</Filter>
+    </ClCompile>
+    <ClCompile Include="using 声明成员的声明.cpp">
+      <Filter>源文件\09using 声明</Filter>
+    </ClCompile>
+    <ClCompile Include="using 具有显式限定的声明.cpp">
+      <Filter>源文件\09using 声明</Filter>
+    </ClCompile>
+    <ClCompile Include="using ：声明同义词和别名.cpp">
+      <Filter>源文件\09using 声明</Filter>
+    </ClCompile>
+    <ClCompile Include="本地函数声明 using 和声明.cpp">
+      <Filter>源文件\09using 声明</Filter>
+    </ClCompile>
+    <ClCompile Include="using 声明和继承.cpp">
+      <Filter>源文件\09using 声明</Filter>
+    </ClCompile>
+    <ClCompile Include="using 声明可访问性.cpp">
+      <Filter>源文件\09using 声明</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FILE1.h">
+      <Filter>源文件\08别名和 typedef\typedef 的重新声明</Filter>
+    </ClInclude>
+    <ClInclude Include="FILE2.h">
+      <Filter>源文件\08别名和 typedef\typedef 的重新声明</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

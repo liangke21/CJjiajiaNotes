@@ -48,7 +48,7 @@ class MyClass2 {};
 int main73() {
     //const int i2;   // 编译器错误 C2734：如果不是 extern，则必须初始化 const 对象
     //const char c2;  // 同样的错误
-    const MyClass2 mc1; // 编译器错误 C4269：&#39;const 自动数据用编译器生成的默认构造函数初始化produces unreliable results
+   // const MyClass2 mc1; // 编译器错误 C4269：&#39;const 自动数据用编译器生成的默认构造函数初始化produces unreliable results
     return 0;
 }
 
@@ -318,4 +318,20 @@ int main710() {
     MyStruct ms3{};                 // myInt = 0, myChar = '\0'
     MyStruct ms4{ 1, 'a' };           // myInt = 1, myChar = 'a'
     MyStruct ms5 = { 2, 'b' };      // myInt = 2, myChar = 'b'
+    return 0;
 }
+//引用初始化
+// initializing_references.cpp
+int iVar;
+long lVar;
+int main711()
+{
+    long& LongRef1 = lVar;        // No conversion required.
+  //  long& LongRef2 = iVar;        // Error C2440
+    const long& LongRef3 = iVar;  // OK
+    LongRef1 = 23L;               // Change lVar through a reference.
+    //LongRef2 = 11L;               // Change iVar through a reference.
+    //LongRef3 = 11L;               // Error C3892
+    return 0;
+}
+

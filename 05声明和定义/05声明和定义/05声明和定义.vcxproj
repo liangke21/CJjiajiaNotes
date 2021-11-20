@@ -147,12 +147,26 @@
     <ClCompile Include="fileB.cpp" />
     <ClCompile Include="fileC.cpp" />
     <ClCompile Include="fileD.cpp" />
+    <ClCompile Include="PROG.cpp" />
     <ClCompile Include="static1.cpp" />
     <ClCompile Include="static2.cpp" />
     <ClCompile Include="static3.cpp" />
+    <ClCompile Include="typedef.cpp" />
+    <ClCompile Include="using 具有显式限定的声明.cpp" />
+    <ClCompile Include="using 声明.cpp" />
+    <ClCompile Include="using 声明可访问性.cpp" />
+    <ClCompile Include="using 声明和继承.cpp" />
+    <ClCompile Include="using 声明成员的声明.cpp" />
+    <ClCompile Include="using ：声明同义词和别名.cpp" />
+    <ClCompile Include="别名.cpp" />
     <ClCompile Include="初始值设定项.cpp" />
     <ClCompile Include="声明和定义.cpp" />
+    <ClCompile Include="本地函数声明 using 和声明.cpp" />
     <ClCompile Include="自动初始化与静态初始化.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FILE1.h" />
+    <ClInclude Include="FILE2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
