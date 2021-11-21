@@ -146,6 +146,7 @@
     <ClCompile Include="new 运算符.cpp" />
     <ClCompile Include="__uuidof 运算符.cpp" />
     <ClCompile Include="乘法运算符和取模运算符.cpp" />
+    <ClCompile Include="二进制求补运算符.cpp" />
     <ClCompile Include="位 AND 运算符and与.cpp" />
     <ClCompile Include="函数调用运算符.cpp" />
     <ClCompile Include="加法运算符：+ 和 -.cpp" />

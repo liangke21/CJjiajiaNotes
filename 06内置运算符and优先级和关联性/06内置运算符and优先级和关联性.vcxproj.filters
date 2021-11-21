@@ -82,6 +82,9 @@
     <Filter Include="源文件\23new 运算符">
       <UniqueIdentifier>{c0ab4c47-8243-4a4a-9396-ddc00fc115e9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\24二进制求补运算符：~">
+      <UniqueIdentifier>{58cd181e-e51b-4869-bd13-6477b6088752}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -152,6 +155,9 @@
     </ClCompile>
     <ClCompile Include="new 运算符.cpp">
       <Filter>源文件\23new 运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="二进制求补运算符.cpp">
+      <Filter>源文件\24二进制求补运算符：~</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,4 +1,4 @@
 ﻿  new 运算符.cpp
-G:\C++Notes\06内置运算符and优先级和关联性\new 运算符.cpp(48,40): error C2664: “void CName::SetName(char *,char *)”: 无法将参数 1 从“const char [10]”转换为“char *”
-G:\C++Notes\06内置运算符and优先级和关联性\new 运算符.cpp(48,17): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
-G:\C++Notes\06内置运算符and优先级和关联性\new 运算符.cpp(30,7): message : 参见“CName::SetName”的声明
+  二进制求补运算符.cpp
+  正在生成代码...
+  06内置运算符and优先级和关联性.vcxproj -> G:\C++Notes\x64\Debug\06内置运算符and优先级和关联性.exe
