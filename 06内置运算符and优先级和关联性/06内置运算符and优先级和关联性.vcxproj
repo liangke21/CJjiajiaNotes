@@ -156,6 +156,7 @@
     <ClCompile Include="赋值运算符.cpp" />
     <ClCompile Include="逗号运算符.cpp" />
     <ClCompile Include="逻辑 AND 运算符双与cpp.cpp" />
+    <ClCompile Include="逻辑双与或运算符.cpp" />
     <ClCompile Include="逻辑非运算符.cpp" />
     <ClCompile Include="间接寻址运算符.cpp" />
   </ItemGroup>
