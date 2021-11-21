@@ -154,6 +154,7 @@
     <ClCompile Include="相等运算符：== 和 !=.cpp" />
     <ClCompile Include="赋值运算符.cpp" />
     <ClCompile Include="逗号运算符.cpp" />
+    <ClCompile Include="间接寻址运算符.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
