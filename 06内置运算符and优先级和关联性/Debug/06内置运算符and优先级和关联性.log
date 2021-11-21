@@ -1,0 +1,37 @@
+﻿  Address-of 运算符and与.cpp
+  alignof 运算符.cpp
+G:\C++Notes\06内置运算符and优先级和关联性\alignof 运算符.cpp(15,5): warning C4101: “ms”: 未引用的局部变量
+  delete 运算符.cpp
+  expre_Explicit_Type_Conversion_Operator.cpp
+  new 运算符.cpp
+  sizeof 运算符.cpp
+  __uuidof 运算符.cpp
+  乘法运算符和取模运算符.cpp
+  二进制求补运算符.cpp
+  位 AND 运算符and与.cpp
+  作用域解析运算符.cpp
+  关系运算符.cpp
+  函数调用运算符.cpp
+  前缀增量和减量运算符.cpp
+  加法运算符：+ 和 -.cpp
+  后缀增量和减量运算符.cpp
+  左移和右移运算符.cpp
+  强制转换运算符.cpp
+  成员访问运算符.cpp
+  指向成员的指针运算符.cpp
+  正在生成代码...
+  正在编译...
+  按位与或运算符.cpp
+  按位异或运算符.cpp
+  条件运算符.cpp
+  用于解析运算作用域枚举.cpp
+  用于解析运算的静态成员.cpp
+  相等运算符：== 和 !=.cpp
+  赋值运算符.cpp
+  逗号运算符.cpp
+  逻辑 AND 运算符双与cpp.cpp
+  逻辑双与或运算符.cpp
+  逻辑非运算符.cpp
+  间接寻址运算符.cpp
+  正在生成代码...
+  06内置运算符and优先级和关联性.vcxproj -> G:\C++Notes\Debug\06内置运算符and优先级和关联性.exe

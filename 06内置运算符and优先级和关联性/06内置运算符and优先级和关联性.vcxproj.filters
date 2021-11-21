@@ -100,6 +100,9 @@
     <Filter Include="源文件\29作用域解析运算符">
       <UniqueIdentifier>{49bb35b8-c347-4307-961f-c043f09c66e3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\30sizeof 运算符">
+      <UniqueIdentifier>{f648f122-2ddf-44e7-b8cf-075b2b702102}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -194,6 +197,9 @@
     </ClCompile>
     <ClCompile Include="用于解析运算作用域枚举.cpp">
       <Filter>源文件\29作用域解析运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="sizeof 运算符.cpp">
+      <Filter>源文件\30sizeof 运算符</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

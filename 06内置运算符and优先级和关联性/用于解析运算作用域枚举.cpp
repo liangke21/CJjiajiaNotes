@@ -6,4 +6,5 @@ enum class EnumA {
 
 int main296() {
     EnumA enum_value = EnumA::First;
+    return 0;
 }
