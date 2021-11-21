@@ -17,5 +17,6 @@ int main181() {
         << (a > b && b < c) << endl; // false
         //  false    true
 
+     //总结 必须两个都是 true 
     return 0;
 }

@@ -67,6 +67,9 @@
     <Filter Include="源文件\18逻辑 AND 运算符： &amp;&amp;">
       <UniqueIdentifier>{8ca874a3-d6fa-412e-a042-a98e2e5e5445}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\19逻辑非运算符">
+      <UniqueIdentifier>{f92ac065-c278-4a0f-b2fc-616765027e80}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -122,6 +125,9 @@
     </ClCompile>
     <ClCompile Include="逻辑 AND 运算符双与cpp.cpp">
       <Filter>源文件\18逻辑 AND 运算符： &amp;&amp;</Filter>
+    </ClCompile>
+    <ClCompile Include="逻辑非运算符.cpp">
+      <Filter>源文件\19逻辑非运算符</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
