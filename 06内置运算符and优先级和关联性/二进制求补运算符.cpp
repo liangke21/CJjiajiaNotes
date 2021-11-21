@@ -4,6 +4,21 @@
 
 using namespace std;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 int main241() {
 	unsigned short y = 0xFFFF; // 1111 1111 1111
 	cout << hex << y << endl; //fff

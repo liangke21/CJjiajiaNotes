@@ -85,6 +85,18 @@
     <Filter Include="源文件\24二进制求补运算符：~">
       <UniqueIdentifier>{58cd181e-e51b-4869-bd13-6477b6088752}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\25指向成员的指针运算符">
+      <UniqueIdentifier>{afe57b35-fb37-4b80-bdb9-d51368012c3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\26后缀增量和减量运算符：++ 和 --">
+      <UniqueIdentifier>{a45ad59e-b4ed-4c7e-89c2-fef34e413cc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\27前缀增量和减量运算符：++ 和 --">
+      <UniqueIdentifier>{de5fd856-a574-45f1-b275-cd0b8242ce4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\28关系运算符： &lt; 、 &gt; 、 &lt; = 和 &gt;=">
+      <UniqueIdentifier>{436d5f28-53e8-40c6-96fd-7dd94bcbfb01}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -158,6 +170,18 @@
     </ClCompile>
     <ClCompile Include="二进制求补运算符.cpp">
       <Filter>源文件\24二进制求补运算符：~</Filter>
+    </ClCompile>
+    <ClCompile Include="指向成员的指针运算符.cpp">
+      <Filter>源文件\25指向成员的指针运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="后缀增量和减量运算符.cpp">
+      <Filter>源文件\26后缀增量和减量运算符：++ 和 --</Filter>
+    </ClCompile>
+    <ClCompile Include="前缀增量和减量运算符.cpp">
+      <Filter>源文件\27前缀增量和减量运算符：++ 和 --</Filter>
+    </ClCompile>
+    <ClCompile Include="关系运算符.cpp">
+      <Filter>源文件\28关系运算符： &lt; 、 &gt; 、 &lt; = 和 &gt;=</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

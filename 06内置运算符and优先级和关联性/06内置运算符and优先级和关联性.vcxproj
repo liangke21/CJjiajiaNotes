@@ -148,11 +148,15 @@
     <ClCompile Include="乘法运算符和取模运算符.cpp" />
     <ClCompile Include="二进制求补运算符.cpp" />
     <ClCompile Include="位 AND 运算符and与.cpp" />
+    <ClCompile Include="关系运算符.cpp" />
     <ClCompile Include="函数调用运算符.cpp" />
+    <ClCompile Include="前缀增量和减量运算符.cpp" />
     <ClCompile Include="加法运算符：+ 和 -.cpp" />
+    <ClCompile Include="后缀增量和减量运算符.cpp" />
     <ClCompile Include="左移和右移运算符.cpp" />
     <ClCompile Include="强制转换运算符.cpp" />
     <ClCompile Include="成员访问运算符.cpp" />
+    <ClCompile Include="指向成员的指针运算符.cpp" />
     <ClCompile Include="按位与或运算符.cpp" />
     <ClCompile Include="按位异或运算符.cpp" />
     <ClCompile Include="条件运算符.cpp" />
