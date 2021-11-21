@@ -24,7 +24,7 @@ int main4() {
 // compile with: /EHsc
 #include <iostream>
 using namespace std;
-int main5() {
+int main42() {
     double d=3.14;        // Define an object of type double.
     double& rd = d;  // Define a reference to the object.
 
@@ -52,7 +52,9 @@ int square(int* n) {
     return (*n) * (*n);
 }
 
-int main() {
+int main43() {
     int mynum = 5;
     cout << square(&mynum) << endl;   // pass address of int
+
+    return 0;
 }

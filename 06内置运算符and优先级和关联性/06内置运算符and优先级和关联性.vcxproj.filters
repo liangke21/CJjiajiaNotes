@@ -25,6 +25,9 @@
     <Filter Include="源文件\04Address-of 运算符：&amp;">
       <UniqueIdentifier>{e95638bf-ef1e-4dd4-8bcd-270f7e5adcc1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\05赋值运算符">
+      <UniqueIdentifier>{7124391e-5a8d-42ed-bc46-21d67a1ffcc6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -38,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="Address-of 运算符and与.cpp">
       <Filter>源文件\04Address-of 运算符：&amp;</Filter>
+    </ClCompile>
+    <ClCompile Include="赋值运算符.cpp">
+      <Filter>源文件\05赋值运算符</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
