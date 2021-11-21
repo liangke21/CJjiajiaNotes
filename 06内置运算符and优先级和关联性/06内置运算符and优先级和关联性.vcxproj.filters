@@ -31,6 +31,15 @@
     <Filter Include="源文件\06位 AND 运算符： &amp;">
       <UniqueIdentifier>{c3df86ef-d64e-43b2-8737-55ed97f8c3bd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\07按位异或运算符：^">
+      <UniqueIdentifier>{eed51b34-bc1a-4762-b31f-891eeb45ec35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\08按位与或运算符： |">
+      <UniqueIdentifier>{187b934f-b07a-49b1-a09c-bd8f1803f80a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\09强制转换运算符：%28%29">
+      <UniqueIdentifier>{f2e2744c-ae68-443c-8d4c-d82d9c904f5a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -50,6 +59,15 @@
     </ClCompile>
     <ClCompile Include="位 AND 运算符and与.cpp">
       <Filter>源文件\06位 AND 运算符： &amp;</Filter>
+    </ClCompile>
+    <ClCompile Include="按位异或运算符.cpp">
+      <Filter>源文件\07按位异或运算符：^</Filter>
+    </ClCompile>
+    <ClCompile Include="按位与或运算符.cpp">
+      <Filter>源文件\08按位与或运算符： |</Filter>
+    </ClCompile>
+    <ClCompile Include="强制转换运算符.cpp">
+      <Filter>源文件\09强制转换运算符：%28%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
