@@ -4,7 +4,7 @@ struct UDType
 {
 };
 
-int main12()
+int main121()
 {
 	// 分配一个用户定义的对象、UDObject 和一个对象
 	// 在免费商店中使用 double 类型

@@ -49,6 +49,9 @@
     <Filter Include="源文件\12delete 运算符">
       <UniqueIdentifier>{fdecc079-c2e6-4bd7-9088-6898b2b52598}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\13相等运算符：== 和 !=">
+      <UniqueIdentifier>{b18596bb-f229-4328-b0b0-f1074f39a558}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -86,6 +89,9 @@
     </ClCompile>
     <ClCompile Include="delete 运算符.cpp">
       <Filter>源文件\12delete 运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="相等运算符：== 和 !=.cpp">
+      <Filter>源文件\13相等运算符：== 和 !=</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -149,6 +149,7 @@
     <ClCompile Include="按位与或运算符.cpp" />
     <ClCompile Include="按位异或运算符.cpp" />
     <ClCompile Include="条件运算符.cpp" />
+    <ClCompile Include="相等运算符：== 和 !=.cpp" />
     <ClCompile Include="赋值运算符.cpp" />
     <ClCompile Include="逗号运算符.cpp" />
   </ItemGroup>
