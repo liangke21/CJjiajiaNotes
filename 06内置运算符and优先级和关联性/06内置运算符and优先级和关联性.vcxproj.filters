@@ -28,6 +28,9 @@
     <Filter Include="源文件\05赋值运算符">
       <UniqueIdentifier>{7124391e-5a8d-42ed-bc46-21d67a1ffcc6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\06位 AND 运算符： &amp;">
+      <UniqueIdentifier>{c3df86ef-d64e-43b2-8737-55ed97f8c3bd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -44,6 +47,9 @@
     </ClCompile>
     <ClCompile Include="赋值运算符.cpp">
       <Filter>源文件\05赋值运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="位 AND 运算符and与.cpp">
+      <Filter>源文件\06位 AND 运算符： &amp;</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

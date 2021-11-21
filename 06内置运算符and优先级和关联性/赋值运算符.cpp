@@ -38,11 +38,13 @@ public:
     ADerived() { cout << "constructing ADerived\n"; }
 };
 
-int main()
+int main52()
 {
     ABase aBase;
     ADerived aDerived;
 
     aBase = aDerived; // OK
    // aDerived = aBase; // C2679  基类不可以赋值给子类
+
+    return 0;
 }
