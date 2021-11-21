@@ -3,8 +3,8 @@
 
 int main131()
 {
-	long  long_num1, long_num2;
-	int   int_num;
+	//long  long_num1, long_num2;
+	//int   int_num;
 
 	// int num 在赋值之前提升为 long 类型。
 //	long_num1 = int_num;  
@@ -86,7 +86,7 @@ int Ab::* pai = 0;
 
 
 
-int main()
+int main1322()
 {
 	exit(0);
 }

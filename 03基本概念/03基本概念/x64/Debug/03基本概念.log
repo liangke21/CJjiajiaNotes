@@ -1,5 +1,2 @@
-﻿  标准转换.cpp
-G:\C++Notes\03基本概念\03基本概念\标准转换.cpp(6,19): warning C4101: “long_num2”: 未引用的局部变量
-G:\C++Notes\03基本概念\03基本概念\标准转换.cpp(6,8): warning C4101: “long_num1”: 未引用的局部变量
-G:\C++Notes\03基本概念\03基本概念\标准转换.cpp(7,8): warning C4101: “int_num”: 未引用的局部变量
-  03基本概念.vcxproj -> G:\C++Notes\03基本概念\x64\Debug\03基本概念.exe
+﻿  数据对齐的编译器处理.cpp
+  03基本概念.vcxproj -> G:\C++Notes\x64\Debug\03基本概念.exe

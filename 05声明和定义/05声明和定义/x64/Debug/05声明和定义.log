@@ -1,3 +1,4 @@
-﻿  特性.cpp
-G:\C++Notes\05声明和定义\05声明和定义\特性.cpp(20,8): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
-  05声明和定义.vcxproj -> G:\C++Notes\x64\Debug\05声明和定义.exe
+﻿  typedef.cpp
+G:\C++Notes\05声明和定义\05声明和定义\typedef.cpp(23,15): warning C4101: “UL”: 未引用的局部变量
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+G:\C++Notes\x64\Debug\05声明和定义.exe : fatal error LNK1120: 1 个无法解析的外部命令
