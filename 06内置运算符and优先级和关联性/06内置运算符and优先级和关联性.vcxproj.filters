@@ -55,6 +55,9 @@
     <Filter Include="源文件\14显式类型转换运算符：%28%29">
       <UniqueIdentifier>{b94def9d-6b65-46dc-9b0b-c2e83a171893}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\15函数调用运算符：%28%29">
+      <UniqueIdentifier>{fe55a2d6-80d3-4e5e-aee8-64d51d23f32e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -98,6 +101,9 @@
     </ClCompile>
     <ClCompile Include="expre_Explicit_Type_Conversion_Operator.cpp">
       <Filter>源文件\14显式类型转换运算符：%28%29</Filter>
+    </ClCompile>
+    <ClCompile Include="函数调用运算符.cpp">
+      <Filter>源文件\15函数调用运算符：%28%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
