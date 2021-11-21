@@ -46,6 +46,9 @@
     <Filter Include="源文件\11条件运算符 %3f ：：">
       <UniqueIdentifier>{b1928f2e-d8bb-41d9-89ce-98fd234b2bdf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\12delete 运算符">
+      <UniqueIdentifier>{fdecc079-c2e6-4bd7-9088-6898b2b52598}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -80,6 +83,9 @@
     </ClCompile>
     <ClCompile Include="条件运算符.cpp">
       <Filter>源文件\11条件运算符 %3f ：：</Filter>
+    </ClCompile>
+    <ClCompile Include="delete 运算符.cpp">
+      <Filter>源文件\12delete 运算符</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
