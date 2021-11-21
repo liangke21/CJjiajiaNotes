@@ -43,6 +43,9 @@
     <Filter Include="源文件\10逗号运算符">
       <UniqueIdentifier>{4e2d6282-530f-4028-ac60-d6a47542ea64}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\11条件运算符 %3f ：：">
+      <UniqueIdentifier>{b1928f2e-d8bb-41d9-89ce-98fd234b2bdf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -74,6 +77,9 @@
     </ClCompile>
     <ClCompile Include="逗号运算符.cpp">
       <Filter>源文件\10逗号运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="条件运算符.cpp">
+      <Filter>源文件\11条件运算符 %3f ：：</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
