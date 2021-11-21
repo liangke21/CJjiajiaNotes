@@ -37,7 +37,13 @@ struct alignas(16) B //最大值的说明符
 	alignas(4) char arr[3];
 	short s;          // 2 bytes
 };
-int main() {
+
+/*
+alignas是以指定字节对齐，将完整的变量放在指定对齐数的内存中，
+比如按照16字节对齐就是在连续的16字节中，里面的变量都是完整的，
+不会出现变量的前两字节在这16字节然后后两字节在接下来16字节中的情况
+*/
+int main12() {
 
 	cout << "B  : " << alignof(B) << endl;
 
