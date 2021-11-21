@@ -103,6 +103,9 @@
     <Filter Include="源文件\30sizeof 运算符">
       <UniqueIdentifier>{f648f122-2ddf-44e7-b8cf-075b2b702102}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\31下标运算符">
+      <UniqueIdentifier>{6ed96829-9d05-4ef3-b5e0-3aad001e33d0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -200,6 +203,9 @@
     </ClCompile>
     <ClCompile Include="sizeof 运算符.cpp">
       <Filter>源文件\30sizeof 运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="下标运算符.cpp">
+      <Filter>源文件\31下标运算符</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

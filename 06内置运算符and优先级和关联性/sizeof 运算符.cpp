@@ -9,7 +9,7 @@ size_t getPtrSize(char* ptr)
     return sizeof(ptr);
 }
 
-int main()
+int main311()
 {
     char szHello[] = "Hello, world!";
 
@@ -19,4 +19,6 @@ int main()
         << sizeof szHello //13 + 1
         << "\n指针的大小是 "
         << getPtrSize(szHello) << endl; //13
+
+    return 0;
 }
