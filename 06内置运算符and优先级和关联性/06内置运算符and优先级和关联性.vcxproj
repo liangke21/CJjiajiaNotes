@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Address-of 运算符and与.cpp" />
     <ClCompile Include="alignof 运算符.cpp" />
     <ClCompile Include="__uuidof 运算符.cpp" />
     <ClCompile Include="加法运算符：+ 和 -.cpp" />

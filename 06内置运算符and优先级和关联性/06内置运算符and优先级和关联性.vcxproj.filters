@@ -22,6 +22,9 @@
     <Filter Include="源文件\02__uuidof 运算符 %3f">
       <UniqueIdentifier>{4ec41b40-e629-4d3c-a0f8-c69b4757788a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04Address-of 运算符：&amp;">
+      <UniqueIdentifier>{e95638bf-ef1e-4dd4-8bcd-270f7e5adcc1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -32,6 +35,9 @@
     </ClCompile>
     <ClCompile Include="加法运算符：+ 和 -.cpp">
       <Filter>源文件\03加法运算符：+ 和 -</Filter>
+    </ClCompile>
+    <ClCompile Include="Address-of 运算符and与.cpp">
+      <Filter>源文件\04Address-of 运算符：&amp;</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
