@@ -76,6 +76,12 @@
     <Filter Include="源文件\21成员访问运算符：。 与&gt;">
       <UniqueIdentifier>{191308ec-4d04-4588-82fa-b254f8f936b8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\22乘法运算符和取模运算符">
+      <UniqueIdentifier>{f3f60cb6-6797-4761-8e9b-73b97d14871a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\23new 运算符">
+      <UniqueIdentifier>{c0ab4c47-8243-4a4a-9396-ddc00fc115e9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -140,6 +146,12 @@
     </ClCompile>
     <ClCompile Include="成员访问运算符.cpp">
       <Filter>源文件\21成员访问运算符：。 与&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="乘法运算符和取模运算符.cpp">
+      <Filter>源文件\22乘法运算符和取模运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="new 运算符.cpp">
+      <Filter>源文件\23new 运算符</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
