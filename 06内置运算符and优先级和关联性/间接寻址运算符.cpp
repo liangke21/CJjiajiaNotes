@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main16() {
     int n = 5;
     int* pn = &n;
     int** ppn = &pn;

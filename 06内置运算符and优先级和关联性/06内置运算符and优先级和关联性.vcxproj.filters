@@ -61,6 +61,12 @@
     <Filter Include="源文件\16间接寻址运算符：%2a">
       <UniqueIdentifier>{fd455d98-6874-41c5-8043-e4ec36fdafe3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\17左移和右移运算符">
+      <UniqueIdentifier>{af23f2d1-8f1d-459b-979e-52d11d0a218c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\18逻辑 AND 运算符： &amp;&amp;">
+      <UniqueIdentifier>{8ca874a3-d6fa-412e-a042-a98e2e5e5445}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -110,6 +116,12 @@
     </ClCompile>
     <ClCompile Include="间接寻址运算符.cpp">
       <Filter>源文件\16间接寻址运算符：%2a</Filter>
+    </ClCompile>
+    <ClCompile Include="左移和右移运算符.cpp">
+      <Filter>源文件\17左移和右移运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="逻辑 AND 运算符双与cpp.cpp">
+      <Filter>源文件\18逻辑 AND 运算符： &amp;&amp;</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

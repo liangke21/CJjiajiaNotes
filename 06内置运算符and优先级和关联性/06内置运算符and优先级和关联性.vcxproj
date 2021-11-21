@@ -147,6 +147,7 @@
     <ClCompile Include="位 AND 运算符and与.cpp" />
     <ClCompile Include="函数调用运算符.cpp" />
     <ClCompile Include="加法运算符：+ 和 -.cpp" />
+    <ClCompile Include="左移和右移运算符.cpp" />
     <ClCompile Include="强制转换运算符.cpp" />
     <ClCompile Include="按位与或运算符.cpp" />
     <ClCompile Include="按位异或运算符.cpp" />
@@ -154,6 +155,7 @@
     <ClCompile Include="相等运算符：== 和 !=.cpp" />
     <ClCompile Include="赋值运算符.cpp" />
     <ClCompile Include="逗号运算符.cpp" />
+    <ClCompile Include="逻辑 AND 运算符双与cpp.cpp" />
     <ClCompile Include="间接寻址运算符.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
