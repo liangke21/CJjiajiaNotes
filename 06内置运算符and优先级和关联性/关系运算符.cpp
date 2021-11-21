@@ -4,9 +4,11 @@
 
 using namespace std;
 
-int main() {
+int main281() {
     cout << "真正的表达式 3 &gt; 2 产生："
         << (3 > 2) << endl //1
         << "错误表达式 20 &lt; 10 产生： "
         << (20 < 10) << endl;//0
+
+    return 0;
 }

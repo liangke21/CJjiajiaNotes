@@ -97,6 +97,9 @@
     <Filter Include="源文件\28关系运算符： &lt; 、 &gt; 、 &lt; = 和 &gt;=">
       <UniqueIdentifier>{436d5f28-53e8-40c6-96fd-7dd94bcbfb01}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\29作用域解析运算符">
+      <UniqueIdentifier>{49bb35b8-c347-4307-961f-c043f09c66e3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="alignof 运算符.cpp">
@@ -182,6 +185,15 @@
     </ClCompile>
     <ClCompile Include="关系运算符.cpp">
       <Filter>源文件\28关系运算符： &lt; 、 &gt; 、 &lt; = 和 &gt;=</Filter>
+    </ClCompile>
+    <ClCompile Include="作用域解析运算符.cpp">
+      <Filter>源文件\29作用域解析运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="用于解析运算的静态成员.cpp">
+      <Filter>源文件\29作用域解析运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="用于解析运算作用域枚举.cpp">
+      <Filter>源文件\29作用域解析运算符</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
