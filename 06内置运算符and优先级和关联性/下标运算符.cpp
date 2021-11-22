@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main311() {
+int main3112() {
     int intArray[1024];
     for (int i = 0, j = 0; i < 1024; i++)
     {
@@ -25,8 +25,8 @@ int main311() {
     */
 
     cout << "midArray[-256] : "<< & midArray[-256] << endl;
-       &intArray[1024];
-    cout << intArray[-256] << endl;  // 不可预测，可能会崩溃   //这里的就相当于电梯只能上
+    
+  //  cout << intArray[-256] << endl;  // 不可预测，可能会崩溃   //这里的就相当于电梯只能上
 
 
 

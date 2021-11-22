@@ -145,6 +145,7 @@
     <ClCompile Include="expre_Explicit_Type_Conversion_Operator.cpp" />
     <ClCompile Include="new 运算符.cpp" />
     <ClCompile Include="sizeof 运算符.cpp" />
+    <ClCompile Include="typeid 运算符.cpp" />
     <ClCompile Include="__uuidof 运算符.cpp" />
     <ClCompile Include="下标运算符.cpp" />
     <ClCompile Include="乘法运算符和取模运算符.cpp" />
