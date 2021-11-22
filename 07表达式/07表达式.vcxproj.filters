@@ -25,6 +25,18 @@
     <Filter Include="源文件\01表达式的类型\03后缀表达式">
       <UniqueIdentifier>{bb0142a3-4a2e-47c6-9a76-6bff18a1778b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\01表达式的类型\04一元运算符的表达式">
+      <UniqueIdentifier>{066a054d-e2ca-42a5-911d-928270cc56b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\01表达式的类型\05二元运算符的表达式">
+      <UniqueIdentifier>{503f3f2c-d1cb-4540-976f-e1a2eba137e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\01表达式的类型\06常量表达式">
+      <UniqueIdentifier>{bc1f6343-cdce-4f5b-9146-cc93c96d3cd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\02表达式的语义">
+      <UniqueIdentifier>{f8158259-7596-4cff-990e-2126cad8c06e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="主表达式.cpp">
@@ -35,6 +47,18 @@
     </ClCompile>
     <ClCompile Include="后缀表达式.cpp">
       <Filter>源文件\01表达式的类型\03后缀表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="一元运算符的表达式.cpp">
+      <Filter>源文件\01表达式的类型\04一元运算符的表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="二元运算符的表达式.cpp">
+      <Filter>源文件\01表达式的类型\05二元运算符的表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="常量表达式.cpp">
+      <Filter>源文件\01表达式的类型\06常量表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="表达式的语义.cpp">
+      <Filter>源文件\02表达式的语义</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

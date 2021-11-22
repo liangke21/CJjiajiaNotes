@@ -41,5 +41,3 @@ sizeof ±í´ï Ê½
 
 
 */
-
-const int

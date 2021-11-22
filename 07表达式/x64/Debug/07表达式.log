@@ -1,3 +1,4 @@
-﻿  后缀表达式.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
-G:\C++Notes\x64\Debug\07表达式.exe : fatal error LNK1120: 1 个无法解析的外部命令
+﻿  常量表达式.cpp
+  表达式的语义.cpp
+  正在生成代码...
+  07表达式.vcxproj -> G:\C++Notes\x64\Debug\07表达式.exe
