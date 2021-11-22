@@ -37,6 +37,18 @@
     <Filter Include="源文件\02表达式的语义">
       <UniqueIdentifier>{f8158259-7596-4cff-990e-2126cad8c06e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04强制转换">
+      <UniqueIdentifier>{b052471d-ce3e-4d63-8803-fcf2fc3bd14b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04强制转换\01强制转换运算符">
+      <UniqueIdentifier>{53449c97-57a1-44e4-a18d-4f7dc25c76d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04强制转换\01强制转换运算符\01dynamic_cast 运算符类型转换">
+      <UniqueIdentifier>{dd292578-73fb-4564-b854-00e0ff1c300c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04强制转换\01强制转换运算符\02bad_cast 异常转换异常">
+      <UniqueIdentifier>{f7377ec5-9e36-4d2e-88f3-0a94e8a39e2d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="主表达式.cpp">
@@ -59,6 +71,15 @@
     </ClCompile>
     <ClCompile Include="表达式的语义.cpp">
       <Filter>源文件\02表达式的语义</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic_cast.cpp">
+      <Filter>源文件\04强制转换\01强制转换运算符\01dynamic_cast 运算符类型转换</Filter>
+    </ClCompile>
+    <ClCompile Include="示例.cpp">
+      <Filter>源文件\04强制转换\01强制转换运算符\01dynamic_cast 运算符类型转换</Filter>
+    </ClCompile>
+    <ClCompile Include="bad_cast 异常.cpp">
+      <Filter>源文件\04强制转换\01强制转换运算符\02bad_cast 异常转换异常</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

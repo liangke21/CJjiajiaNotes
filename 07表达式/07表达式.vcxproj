@@ -139,12 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bad_cast 异常.cpp" />
+    <ClCompile Include="dynamic_cast.cpp" />
     <ClCompile Include="一元运算符的表达式.cpp" />
     <ClCompile Include="主表达式.cpp" />
     <ClCompile Include="二元运算符的表达式.cpp" />
     <ClCompile Include="后缀表达式.cpp" />
     <ClCompile Include="常量表达式.cpp" />
     <ClCompile Include="省略号和可变参数模板.cpp" />
+    <ClCompile Include="示例.cpp" />
     <ClCompile Include="表达式的语义.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
