@@ -70,6 +70,9 @@
     <Filter Include="头文件\源文件\08跳转语句\04goto 语句">
       <UniqueIdentifier>{2a6d5b99-1bd0-4579-a938-c290e7844c44}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\源文件\08跳转语句\05控制的转移">
+      <UniqueIdentifier>{db74c45b-e82a-4091-8df4-bef1f29ffbec}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="语句.cpp">
@@ -137,6 +140,9 @@
     </ClCompile>
     <ClCompile Include="goto 语句.cpp">
       <Filter>头文件\源文件\08跳转语句\04goto 语句</Filter>
+    </ClCompile>
+    <ClCompile Include="控制的转移.cpp">
+      <Filter>头文件\源文件\08跳转语句\05控制的转移</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

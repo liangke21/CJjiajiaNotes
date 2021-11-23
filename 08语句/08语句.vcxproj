@@ -164,6 +164,7 @@
     <ClCompile Include="__if_not_exists.cpp" />
     <ClCompile Include="基于范围的 for 语句.cpp" />
     <ClCompile Include="复合语句.cpp" />
+    <ClCompile Include="控制的转移.cpp" />
     <ClCompile Include="语句.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
