@@ -4,7 +4,7 @@
 #include <vector>
 using namespace std;
 
-int main()
+int main070401()
 {
     //基本的 10 元素整数数组。
     int x[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
@@ -49,4 +49,6 @@ int main()
     }
     cout << endl;
     cout << "矢量测试结束" << endl;
+
+    return 0;
 }
