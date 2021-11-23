@@ -58,6 +58,12 @@
     <Filter Include="源文件\04强制转换\01强制转换运算符\05reinterpret_cast运算符">
       <UniqueIdentifier>{91d58c1a-d753-443c-b5fd-3de7aa4d0e2c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04强制转换\02运行时类型信息">
+      <UniqueIdentifier>{585d504f-6d86-4389-94ee-ec61c660be53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04强制转换\02运行时类型信息\01bad_typeid 异常">
+      <UniqueIdentifier>{f5b13d51-e2e6-46d9-9bba-6d5a1c442a57}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="主表达式.cpp">
@@ -98,6 +104,9 @@
     </ClCompile>
     <ClCompile Include="reinterpret_cast运算符.cpp">
       <Filter>源文件\04强制转换\01强制转换运算符\05reinterpret_cast运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="bad_typeid 异常.cpp">
+      <Filter>源文件\04强制转换\02运行时类型信息\01bad_typeid 异常</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -11,8 +11,10 @@ unsigned short Hash(void* p) {
     return (unsigned short)(val ^ (val >> 16));
 }
 
-int main() {
+int main0401051() {
     int a[20];
     for (int i = 0; i < 20; i++)
         cout << Hash(a + i) << endl;
+
+    return 0;
 }

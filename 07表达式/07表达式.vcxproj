@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bad_cast 异常.cpp" />
+    <ClCompile Include="bad_typeid 异常.cpp" />
     <ClCompile Include="const_cast 运算符.cpp" />
     <ClCompile Include="dynamic_cast.cpp" />
     <ClCompile Include="reinterpret_cast运算符.cpp" />
