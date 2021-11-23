@@ -139,10 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01表达式语句.cpp" />
+    <ClCompile Include="02Null语句.cpp" />
     <ClCompile Include="C++ 语句概述.cpp" />
-    <ClCompile Include="case 语句.cpp" />
-    <ClCompile Include="goto 语句.cpp" />
-    <ClCompile Include="标记语句.cpp" />
+    <ClCompile Include="03case 语句.cpp" />
+    <ClCompile Include="02goto 语句.cpp" />
+    <ClCompile Include="01标记语句.cpp" />
     <ClCompile Include="语句.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

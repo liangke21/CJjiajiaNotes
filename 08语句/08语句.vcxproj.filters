@@ -22,6 +22,9 @@
     <Filter Include="头文件\源文件\03 带标签的语句">
       <UniqueIdentifier>{ba58c891-772e-4ac5-8b8b-b4af71038b9a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\源文件\04表达式语句">
+      <UniqueIdentifier>{eb10a152-035f-4d49-836a-2fa35362a66e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="语句.cpp">
@@ -30,14 +33,20 @@
     <ClCompile Include="C++ 语句概述.cpp">
       <Filter>头文件\源文件\02C++ 语句概述</Filter>
     </ClCompile>
-    <ClCompile Include="标记语句.cpp">
+    <ClCompile Include="01标记语句.cpp">
       <Filter>头文件\源文件\03 带标签的语句</Filter>
     </ClCompile>
-    <ClCompile Include="goto 语句.cpp">
+    <ClCompile Include="02goto 语句.cpp">
       <Filter>头文件\源文件\03 带标签的语句</Filter>
     </ClCompile>
-    <ClCompile Include="case 语句.cpp">
+    <ClCompile Include="03case 语句.cpp">
       <Filter>头文件\源文件\03 带标签的语句</Filter>
+    </ClCompile>
+    <ClCompile Include="01表达式语句.cpp">
+      <Filter>头文件\源文件\04表达式语句</Filter>
+    </ClCompile>
+    <ClCompile Include="02Null语句.cpp">
+      <Filter>头文件\源文件\04表达式语句</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

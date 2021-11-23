@@ -3,7 +3,7 @@ using namespace std;
 
 
 
-int main()
+int main3()
 {
     int msg = 3;
 
@@ -11,7 +11,7 @@ int main()
     const  int WM_PAINT = 2;
    
 
-    // 
+    // 关键字后显示 case 的标签也不能显示在 语句 switch 外部。 (此限制也适用于 keyword.) 以下代码片段显示了 default 标签的正确 case 使用：
  switch (msg)
     {
     case WM_TIMER:    // 处理定时器事件。
