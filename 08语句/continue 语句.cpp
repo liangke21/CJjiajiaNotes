@@ -1,6 +1,6 @@
 // continue_statement.cpp
 #include <stdio.h>
-int main()
+int main080301()
 {
     int i = 0;
     do
@@ -17,4 +17,6 @@ int main()
     } while (i < 3);
 
     printf_s("在 do 循环之后\n");
+
+    return 0;
 }
