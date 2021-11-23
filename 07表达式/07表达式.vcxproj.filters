@@ -64,6 +64,9 @@
     <Filter Include="源文件\04强制转换\02运行时类型信息\01bad_typeid 异常">
       <UniqueIdentifier>{f5b13d51-e2e6-46d9-9bba-6d5a1c442a57}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04强制转换\02运行时类型信息\02type_info 类">
+      <UniqueIdentifier>{15938a26-95b7-4106-abc9-a790b572c560}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="主表达式.cpp">
@@ -107,6 +110,9 @@
     </ClCompile>
     <ClCompile Include="bad_typeid 异常.cpp">
       <Filter>源文件\04强制转换\02运行时类型信息\01bad_typeid 异常</Filter>
+    </ClCompile>
+    <ClCompile Include="type_info 类.cpp">
+      <Filter>源文件\04强制转换\02运行时类型信息\02type_info 类</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

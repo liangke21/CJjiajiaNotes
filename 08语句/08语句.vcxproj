@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3aa53bb0-0ff0-45a2-a43b-9ef8c33f57cd}</ProjectGuid>
-    <RootNamespace>My07表达式</RootNamespace>
+    <ProjectGuid>{adb43d5c-7d9c-478f-9211-19c1236e6fa3}</ProjectGuid>
+    <RootNamespace>My08语句</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,21 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="bad_cast 异常.cpp" />
-    <ClCompile Include="bad_typeid 异常.cpp" />
-    <ClCompile Include="const_cast 运算符.cpp" />
-    <ClCompile Include="dynamic_cast.cpp" />
-    <ClCompile Include="reinterpret_cast运算符.cpp" />
-    <ClCompile Include="static_cast 运算符.cpp" />
-    <ClCompile Include="type_info 类.cpp" />
-    <ClCompile Include="一元运算符的表达式.cpp" />
-    <ClCompile Include="主表达式.cpp" />
-    <ClCompile Include="二元运算符的表达式.cpp" />
-    <ClCompile Include="后缀表达式.cpp" />
-    <ClCompile Include="常量表达式.cpp" />
-    <ClCompile Include="省略号和可变参数模板.cpp" />
-    <ClCompile Include="示例.cpp" />
-    <ClCompile Include="表达式的语义.cpp" />
+    <ClCompile Include="C++ 语句概述.cpp" />
+    <ClCompile Include="case 语句.cpp" />
+    <ClCompile Include="goto 语句.cpp" />
+    <ClCompile Include="标记语句.cpp" />
+    <ClCompile Include="语句.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -103,7 +103,7 @@ using namespace std;
 
 class MyClass3 {
 public:
-    MyClass3(int myInt) {}
+  //  MyClass3(int myInt) {}
     void set_int(int myInt) { m_int = myInt; }
     int get_int() const { return m_int; }
 private:

@@ -6,8 +6,14 @@ class Mybad_typeid : public exception
 {
 
 public:
-	Mybad_typeid();
-	Mybad_typeid(const char* _Message = "错误类型");
+	Mybad_typeid() {
+
+		cout << "对象为 NULL" << endl;
+	};
+	Mybad_typeid(const char* _Message = "错误类型") {
+
+		cout << "对象为 NULL" << endl;
+	}
 	Mybad_typeid(const Mybad_typeid&);
 	virtual ~Mybad_typeid();
 
@@ -24,15 +30,18 @@ public:
 };
 
 //如果的操作数为 NULL 指针，则 typeid 运算符引发 bad_typeid 异常 typeid 。
-int main040402011() {
+int main22222() {
 
 	A* a = NULL;
 
 	try {
+		
+
 		cout << typeid(*a).name() << endl;  // 错误条件
+		throw Mybad_typeid("");
 	}
-	catch (bad_typeid ) {
-		cout << "对象为 NULL" <<endl;
+	catch (Mybad_typeid) {
+		cout << "对象为 NULL" << endl;
 	}
 	return 0;
 }
