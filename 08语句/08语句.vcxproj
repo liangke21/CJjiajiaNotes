@@ -158,6 +158,7 @@
     <ClCompile Include="While 语句.cpp" />
     <ClCompile Include="__if_exists 语句.cpp" />
     <ClCompile Include="__if_not_exists.cpp" />
+    <ClCompile Include="基于范围的 for 语句.cpp" />
     <ClCompile Include="复合语句.cpp" />
     <ClCompile Include="语句.cpp" />
   </ItemGroup>

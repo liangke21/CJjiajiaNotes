@@ -52,6 +52,9 @@
     <Filter Include="头文件\源文件\07迭代语句\03for 语句">
       <UniqueIdentifier>{c2dace40-d917-4f5d-b9c9-516ea90b1c23}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\源文件\07迭代语句\04基于范围的 for 语句">
+      <UniqueIdentifier>{0ce4b25a-e0a4-4ca0-b905-41b153a07f54}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="语句.cpp">
@@ -104,6 +107,9 @@
     </ClCompile>
     <ClCompile Include="for 语句.cpp">
       <Filter>头文件\源文件\07迭代语句\03for 语句</Filter>
+    </ClCompile>
+    <ClCompile Include="基于范围的 for 语句.cpp">
+      <Filter>头文件\源文件\07迭代语句\04基于范围的 for 语句</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

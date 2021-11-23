@@ -29,7 +29,7 @@ int main070301()
 	return 0;
 }
 
-int main070301() {
+int main070302() {
 	int i, j;
 	for (i = 5, j = 10; i + j < 20; i++, j++) {
 		cout << "i + j = " << (i + j) << '\n';
