@@ -40,6 +40,18 @@
     <Filter Include="头文件\源文件\06选择语句\03switch 语句行为">
       <UniqueIdentifier>{f7953ce2-d901-44b3-a58a-67a49e16e634}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\源文件\07迭代语句">
+      <UniqueIdentifier>{4ba5019e-11b4-484f-9cdd-03e1b2f52207}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\源文件\07迭代语句\01While 语句">
+      <UniqueIdentifier>{345ff8e9-c943-4168-929c-0d2889910c0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\源文件\07迭代语句\02do-while语句">
+      <UniqueIdentifier>{ab3166ce-aa2d-4be6-ae12-e204e5918bed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\源文件\07迭代语句\03for 语句">
+      <UniqueIdentifier>{c2dace40-d917-4f5d-b9c9-516ea90b1c23}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="语句.cpp">
@@ -83,6 +95,15 @@
     </ClCompile>
     <ClCompile Include="01switch 语句行为.cpp">
       <Filter>头文件\源文件\06选择语句\03switch 语句行为</Filter>
+    </ClCompile>
+    <ClCompile Include="While 语句.cpp">
+      <Filter>头文件\源文件\07迭代语句\01While 语句</Filter>
+    </ClCompile>
+    <ClCompile Include="do-while语句.cpp">
+      <Filter>头文件\源文件\07迭代语句\02do-while语句</Filter>
+    </ClCompile>
+    <ClCompile Include="for 语句.cpp">
+      <Filter>头文件\源文件\07迭代语句\03for 语句</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

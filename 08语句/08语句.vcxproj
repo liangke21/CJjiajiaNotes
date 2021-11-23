@@ -153,6 +153,9 @@
     <ClCompile Include="03case 语句.cpp" />
     <ClCompile Include="02goto 语句.cpp" />
     <ClCompile Include="01标记语句.cpp" />
+    <ClCompile Include="do-while语句.cpp" />
+    <ClCompile Include="for 语句.cpp" />
+    <ClCompile Include="While 语句.cpp" />
     <ClCompile Include="__if_exists 语句.cpp" />
     <ClCompile Include="__if_not_exists.cpp" />
     <ClCompile Include="复合语句.cpp" />

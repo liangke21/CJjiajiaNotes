@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main06030101() {
     const char* buffer = "ÈÎÒâ×Ö·ûÁ÷";
     int uppercase_A, lowercase_a, other;
     char c;
@@ -31,4 +31,6 @@ int main() {
     }
     printf_s("\nUppercase A: %d\nLowercase a: %d\nTotal: %d\n",
         uppercase_A, lowercase_a, (uppercase_A + lowercase_a + other));
+
+    return 0;
 }
