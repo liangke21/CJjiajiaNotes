@@ -157,6 +157,8 @@
     <ClCompile Include="continue 语句.cpp" />
     <ClCompile Include="do-while语句.cpp" />
     <ClCompile Include="for 语句.cpp" />
+    <ClCompile Include="goto 语句.cpp" />
+    <ClCompile Include="return 语句.cpp" />
     <ClCompile Include="While 语句.cpp" />
     <ClCompile Include="__if_exists 语句.cpp" />
     <ClCompile Include="__if_not_exists.cpp" />

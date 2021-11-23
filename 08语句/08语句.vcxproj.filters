@@ -61,8 +61,14 @@
     <Filter Include="头文件\源文件\08跳转语句\01break 语句">
       <UniqueIdentifier>{4ed23b53-e605-44b0-b4d4-0ec1661484fc}</UniqueIdentifier>
     </Filter>
-    <Filter Include="头文件\源文件\08跳转语句\03continue 语句">
+    <Filter Include="头文件\源文件\08跳转语句\02continue 语句">
       <UniqueIdentifier>{c79d3159-e7bf-40ec-a2c1-0361adaba4cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\源文件\08跳转语句\03return 语句">
+      <UniqueIdentifier>{75c6d4b1-311a-4ee8-910f-031205a9bb34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\源文件\08跳转语句\04goto 语句">
+      <UniqueIdentifier>{2a6d5b99-1bd0-4579-a938-c290e7844c44}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -124,7 +130,13 @@
       <Filter>头文件\源文件\08跳转语句\01break 语句</Filter>
     </ClCompile>
     <ClCompile Include="continue 语句.cpp">
-      <Filter>头文件\源文件\08跳转语句\03continue 语句</Filter>
+      <Filter>头文件\源文件\08跳转语句\02continue 语句</Filter>
+    </ClCompile>
+    <ClCompile Include="return 语句.cpp">
+      <Filter>头文件\源文件\08跳转语句\03return 语句</Filter>
+    </ClCompile>
+    <ClCompile Include="goto 语句.cpp">
+      <Filter>头文件\源文件\08跳转语句\04goto 语句</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
