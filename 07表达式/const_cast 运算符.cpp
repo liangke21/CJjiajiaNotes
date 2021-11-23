@@ -23,10 +23,12 @@ void CCTest::printNumber() const { //只读
 	cout << "\nAfter: " << number;
 }
 
-int main() {
+int main0401041() {
 	CCTest X;
 	X.setNumber(8);
 	X.printNumber();
+
+	return 0;
 }
 
 //总结改变一个 const的值  1, 通过指针指向它的地址. 2,通过引用起个别名来改变 .

@@ -55,6 +55,9 @@
     <Filter Include="源文件\04强制转换\01强制转换运算符\04const_cast 运算符">
       <UniqueIdentifier>{7c45cfb0-78b0-4f6f-97ff-fe002bca7728}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04强制转换\01强制转换运算符\05reinterpret_cast运算符">
+      <UniqueIdentifier>{91d58c1a-d753-443c-b5fd-3de7aa4d0e2c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="主表达式.cpp">
@@ -92,6 +95,9 @@
     </ClCompile>
     <ClCompile Include="const_cast 运算符.cpp">
       <Filter>源文件\04强制转换\01强制转换运算符\04const_cast 运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="reinterpret_cast运算符.cpp">
+      <Filter>源文件\04强制转换\01强制转换运算符\05reinterpret_cast运算符</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

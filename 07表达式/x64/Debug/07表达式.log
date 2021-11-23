@@ -1,2 +1,4 @@
-﻿  static_cast 运算符.cpp
+﻿  reinterpret_cast运算符.cpp
+G:\C++Notes\07表达式\reinterpret_cast运算符.cpp(10,56): warning C4311: “reinterpret_cast”: 从“void *”到“unsigned int”的指针截断
+G:\C++Notes\07表达式\reinterpret_cast运算符.cpp(10,56): warning C4302: “reinterpret_cast”: 从“void *”到“unsigned int”截断
   07表达式.vcxproj -> G:\C++Notes\x64\Debug\07表达式.exe
