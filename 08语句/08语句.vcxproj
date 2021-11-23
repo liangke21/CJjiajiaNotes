@@ -142,6 +142,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01if-else 语句.cpp" />
+    <ClCompile Include="01switch 语句行为.cpp" />
     <ClCompile Include="01表达式语句.cpp" />
     <ClCompile Include="02Null语句.cpp" />
     <ClCompile Include="02具有初始值设置项的 if 语句.cpp">
@@ -153,6 +154,7 @@
     <ClCompile Include="02goto 语句.cpp" />
     <ClCompile Include="01标记语句.cpp" />
     <ClCompile Include="__if_exists 语句.cpp" />
+    <ClCompile Include="__if_not_exists.cpp" />
     <ClCompile Include="复合语句.cpp" />
     <ClCompile Include="语句.cpp" />
   </ItemGroup>

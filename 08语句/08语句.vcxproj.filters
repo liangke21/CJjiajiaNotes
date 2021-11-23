@@ -37,6 +37,9 @@
     <Filter Include="头文件\源文件\06选择语句\02__if_exists 语句">
       <UniqueIdentifier>{860c16d7-c237-469e-86dc-bbdd26173e6e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\源文件\06选择语句\03switch 语句行为">
+      <UniqueIdentifier>{f7953ce2-d901-44b3-a58a-67a49e16e634}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="语句.cpp">
@@ -74,6 +77,12 @@
     </ClCompile>
     <ClCompile Include="__if_exists 语句.cpp">
       <Filter>头文件\源文件\06选择语句\02__if_exists 语句</Filter>
+    </ClCompile>
+    <ClCompile Include="__if_not_exists.cpp">
+      <Filter>头文件\源文件\06选择语句\02__if_exists 语句</Filter>
+    </ClCompile>
+    <ClCompile Include="01switch 语句行为.cpp">
+      <Filter>头文件\源文件\06选择语句\03switch 语句行为</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
