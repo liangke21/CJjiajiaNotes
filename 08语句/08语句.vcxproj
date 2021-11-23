@@ -154,6 +154,7 @@
     <ClCompile Include="03case 语句.cpp" />
     <ClCompile Include="02goto 语句.cpp" />
     <ClCompile Include="01标记语句.cpp" />
+    <ClCompile Include="continue 语句.cpp" />
     <ClCompile Include="do-while语句.cpp" />
     <ClCompile Include="for 语句.cpp" />
     <ClCompile Include="While 语句.cpp" />

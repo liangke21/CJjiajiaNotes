@@ -61,6 +61,9 @@
     <Filter Include="头文件\源文件\08跳转语句\01break 语句">
       <UniqueIdentifier>{4ed23b53-e605-44b0-b4d4-0ec1661484fc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\源文件\08跳转语句\03continue 语句">
+      <UniqueIdentifier>{c79d3159-e7bf-40ec-a2c1-0361adaba4cf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="语句.cpp">
@@ -119,6 +122,9 @@
     </ClCompile>
     <ClCompile Include="break 语句.cpp">
       <Filter>头文件\源文件\08跳转语句\01break 语句</Filter>
+    </ClCompile>
+    <ClCompile Include="continue 语句.cpp">
+      <Filter>头文件\源文件\08跳转语句\03continue 语句</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
