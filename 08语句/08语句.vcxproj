@@ -116,6 +116,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>Default</LanguageStandard>
+      <LanguageStandard_C>Default</LanguageStandard_C>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -139,12 +141,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01if-else 语句.cpp" />
     <ClCompile Include="01表达式语句.cpp" />
     <ClCompile Include="02Null语句.cpp" />
+    <ClCompile Include="02具有初始值设置项的 if 语句.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp17</LanguageStandard>
+    </ClCompile>
+    <ClCompile Include="03if constexpr 语句.cpp" />
     <ClCompile Include="C++ 语句概述.cpp" />
     <ClCompile Include="03case 语句.cpp" />
     <ClCompile Include="02goto 语句.cpp" />
     <ClCompile Include="01标记语句.cpp" />
+    <ClCompile Include="__if_exists 语句.cpp" />
+    <ClCompile Include="复合语句.cpp" />
     <ClCompile Include="语句.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

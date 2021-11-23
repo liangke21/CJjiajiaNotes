@@ -25,6 +25,18 @@
     <Filter Include="头文件\源文件\04表达式语句">
       <UniqueIdentifier>{eb10a152-035f-4d49-836a-2fa35362a66e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\源文件\05复合语句块">
+      <UniqueIdentifier>{83ec4ab3-bfd7-4b57-a762-af1d7d5bbc04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\源文件\06选择语句">
+      <UniqueIdentifier>{6637226e-56ef-4bed-8c3e-ebca9c5a0688}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\源文件\06选择语句\01if-else语句">
+      <UniqueIdentifier>{0d454e44-50fc-4544-81b7-c7e74df60037}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\源文件\06选择语句\02__if_exists 语句">
+      <UniqueIdentifier>{860c16d7-c237-469e-86dc-bbdd26173e6e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="语句.cpp">
@@ -47,6 +59,21 @@
     </ClCompile>
     <ClCompile Include="02Null语句.cpp">
       <Filter>头文件\源文件\04表达式语句</Filter>
+    </ClCompile>
+    <ClCompile Include="复合语句.cpp">
+      <Filter>头文件\源文件\05复合语句块</Filter>
+    </ClCompile>
+    <ClCompile Include="01if-else 语句.cpp">
+      <Filter>头文件\源文件\06选择语句\01if-else语句</Filter>
+    </ClCompile>
+    <ClCompile Include="02具有初始值设置项的 if 语句.cpp">
+      <Filter>头文件\源文件\06选择语句\01if-else语句</Filter>
+    </ClCompile>
+    <ClCompile Include="03if constexpr 语句.cpp">
+      <Filter>头文件\源文件\06选择语句\01if-else语句</Filter>
+    </ClCompile>
+    <ClCompile Include="__if_exists 语句.cpp">
+      <Filter>头文件\源文件\06选择语句\02__if_exists 语句</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

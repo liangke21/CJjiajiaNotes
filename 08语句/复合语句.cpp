@@ -2,7 +2,7 @@
 using namespace std;
 
 
-int main() {
+int main0501() {
 
     if (101 > 100)
     {
@@ -13,5 +13,5 @@ int main() {
     {
         cout << "ÎÒÊÇ·ñÔò\n";
     }
-
+    return 0;
 }
