@@ -14,7 +14,7 @@ public:
 };
 
 using namespace std;
-int main() {
+int main040201() {
     Shape shape_instance;
     Shape& ref_shape = shape_instance;
     try {
@@ -24,4 +24,6 @@ int main() {
         cout << "Caught: " << b.what();
     }
     //引发异常的原因是要强制转换 (形状对象) 从指定的强制转换类型派生 (圆形) 。 若要避免此异常，请将下列声明添加到
+
+    return 0;
 }
