@@ -1,3 +1,2 @@
-﻿  控制的转移.cpp
-G:\C++Notes\08语句\控制的转移.cpp(22,1): error C2362: “goto i”跳过了“%pS”的初始化操作
-G:\C++Notes\08语句\控制的转移.cpp(21): message : 参见“i”的声明
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+G:\C++Notes\x64\Debug\08语句.exe : fatal error LNK1120: 1 个无法解析的外部命令
