@@ -16,6 +16,9 @@
     <Filter Include="源文件\01函数">
       <UniqueIdentifier>{e0decca5-b82b-4d95-988a-f22d30a9bd7c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\02包含变量自变量列表的函数">
+      <UniqueIdentifier>{708b815c-cde2-411a-9602-eba64ed56e43}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01函数.cpp">
@@ -44,6 +47,9 @@
     </ClCompile>
     <ClCompile Include="09从函数返回多个值.cpp">
       <Filter>源文件\01函数</Filter>
+    </ClCompile>
+    <ClCompile Include="包含变量自变量列表的函数.cpp">
+      <Filter>源文件\02包含变量自变量列表的函数</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

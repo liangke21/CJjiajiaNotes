@@ -82,7 +82,7 @@ S2 g2()
     return { t, u };
 }
 
-int main()
+int main010902()
 {
     auto [x, y, z] = f2(); // 从元组初始化
     cout << x << " " << y << " " << z << endl;  //108  Some text 0.01
