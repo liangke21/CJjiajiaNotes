@@ -6,8 +6,10 @@ using namespace std;
 
 //  Show Var 的声明，但不是定义。
 void ShowVar(const  char* szTypes, ...);
-int main() {
+int main010201() {
     ShowVar("fcsi", 32.4f, 'a', "Test string", 4,5);
+
+    return 0;
 }
 
 // Show Var 接受表单的格式字符串
@@ -39,21 +41,18 @@ void ShowVar(const char* szTypes, ...) {
 
         union Printable_t {
         
-            int     k;
+            int     i;
             float   f;
             char    c;
             char* s;
         } Printable;
 
         switch (szTypes[i]) {   // 键入期望。
-        //case 'i':
-        //    Printable.i = va_arg(vl, int);
-        //    printf_s("%i\n", Printable.i);
-        //    break;
-        case 'k':
-            Printable.k = va_arg(vl, int);
-            printf_s("%k\n", Printable.k);
+        case 'i':
+            Printable.i = va_arg(vl, int);
+            printf_s("%i\n", Printable.i);
             break;
+ 
 
         case 'f':
             Printable.f = va_arg(vl, double);

@@ -19,6 +19,9 @@
     <Filter Include="源文件\02包含变量自变量列表的函数">
       <UniqueIdentifier>{708b815c-cde2-411a-9602-eba64ed56e43}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\03函数重载">
+      <UniqueIdentifier>{08980641-c794-47eb-ba41-1ad045c94c92}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01函数.cpp">
@@ -50,6 +53,9 @@
     </ClCompile>
     <ClCompile Include="包含变量自变量列表的函数.cpp">
       <Filter>源文件\02包含变量自变量列表的函数</Filter>
+    </ClCompile>
+    <ClCompile Include="01函数重载.cpp">
+      <Filter>源文件\03函数重载</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

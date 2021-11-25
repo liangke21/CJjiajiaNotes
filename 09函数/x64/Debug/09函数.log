@@ -1,6 +1,4 @@
-﻿  包含变量自变量列表的函数.cpp
-G:\C++Notes\09函数\包含变量自变量列表的函数.cpp(55,22): warning C4476: "printf_s": 格式说明符中的类型字段字符“k”未知
-G:\C++Notes\09函数\包含变量自变量列表的函数.cpp(55,39): warning C4474: printf_s: 格式字符串中传递的参数太多
-G:\C++Notes\09函数\包含变量自变量列表的函数.cpp(55,39): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
-G:\C++Notes\09函数\包含变量自变量列表的函数.cpp(59,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+﻿  01函数重载.cpp
+  包含变量自变量列表的函数.cpp
+G:\C++Notes\09函数\包含变量自变量列表的函数.cpp(58,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
   09函数.vcxproj -> G:\C++Notes\x64\Debug\09函数.exe
