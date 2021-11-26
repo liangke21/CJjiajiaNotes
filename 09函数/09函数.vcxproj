@@ -139,9 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01内联函数 .cpp" />
     <ClCompile Include="01函数.cpp" />
     <ClCompile Include="01函数重载.cpp" />
     <ClCompile Include="01显式默认设置的函数和已删除的函数.cpp" />
+    <ClCompile Include="01默认自变量.cpp" />
+    <ClCompile Include="02何时使用内联函数.cpp" />
     <ClCompile Include="02函数声明的各个部分.cpp" />
     <ClCompile Include="02参数类型差异.cpp" />
     <ClCompile Include="03函数定义.cpp" />

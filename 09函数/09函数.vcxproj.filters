@@ -28,6 +28,12 @@
     <Filter Include="源文件\05针对函数的依赖于自变量的名称 %28Koenig%29 查找">
       <UniqueIdentifier>{648b7b1a-4540-4631-9ddd-1ded13a84438}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\06默认自变量">
+      <UniqueIdentifier>{9addafd0-5268-4dbd-8ab1-4b468dd4119e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\07内联函数">
+      <UniqueIdentifier>{32638fe3-b821-4478-90bf-797e544d9d06}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01函数.cpp">
@@ -80,6 +86,15 @@
     </ClCompile>
     <ClCompile Include="针对函数的依赖于自变量的名称 (Koenig) 查找.cpp">
       <Filter>源文件\05针对函数的依赖于自变量的名称 %28Koenig%29 查找</Filter>
+    </ClCompile>
+    <ClCompile Include="01默认自变量.cpp">
+      <Filter>源文件\06默认自变量</Filter>
+    </ClCompile>
+    <ClCompile Include="01内联函数 .cpp">
+      <Filter>源文件\07内联函数</Filter>
+    </ClCompile>
+    <ClCompile Include="02何时使用内联函数.cpp">
+      <Filter>源文件\07内联函数</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
