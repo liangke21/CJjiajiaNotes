@@ -25,6 +25,9 @@
     <Filter Include="源文件\04显式默认设置的函数和已删除的函数">
       <UniqueIdentifier>{f3c85ed9-5b1e-4287-a5bd-df1dfde72d4c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\05针对函数的依赖于自变量的名称 %28Koenig%29 查找">
+      <UniqueIdentifier>{648b7b1a-4540-4631-9ddd-1ded13a84438}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01函数.cpp">
@@ -74,6 +77,9 @@
     </ClCompile>
     <ClCompile Include="01显式默认设置的函数和已删除的函数.cpp">
       <Filter>源文件\04显式默认设置的函数和已删除的函数</Filter>
+    </ClCompile>
+    <ClCompile Include="针对函数的依赖于自变量的名称 (Koenig) 查找.cpp">
+      <Filter>源文件\05针对函数的依赖于自变量的名称 %28Koenig%29 查找</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
