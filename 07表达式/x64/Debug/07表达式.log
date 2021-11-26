@@ -1,5 +1,4 @@
-﻿  bad_typeid 异常.cpp
-bad_typeid 异常.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl Mybad_typeid::Mybad_typeid(class Mybad_typeid const &)" (??0Mybad_typeid@@QEAA@AEBV0@@Z)
+﻿bad_typeid 异常.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl Mybad_typeid::Mybad_typeid(class Mybad_typeid const &)" (??0Mybad_typeid@@QEAA@AEBV0@@Z)
 bad_typeid 异常.obj : error LNK2019: 无法解析的外部符号 "public: virtual __cdecl Mybad_typeid::~Mybad_typeid(void)" (??1Mybad_typeid@@UEAA@XZ)，函数 "public: virtual void * __cdecl Mybad_typeid::`scalar deleting destructor'(unsigned int)" (??_GMybad_typeid@@UEAAPEAXI@Z) 中引用了该符号
 bad_typeid 异常.obj : error LNK2001: 无法解析的外部符号 "public: virtual char const * __cdecl Mybad_typeid::what(void)const " (?what@Mybad_typeid@@UEBAPEBDXZ)
 MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号

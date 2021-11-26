@@ -1,2 +1,6 @@
-﻿  void.cpp
-  04内置类型.vcxproj -> G:\C++Notes\04内置类型\x64\Debug\04内置类型.exe
+﻿  bool.cpp
+  char、wchar_t、char8_t、char16_t、char32_t.cpp
+  void.cpp
+  正在生成代码...
+G:\C++Notes\04内置类型\04内置类型\void.cpp(11): error C4716: “main3”: 必须返回一个值
+G:\C++Notes\04内置类型\04内置类型\bool.cpp(9): error C4716: “main4”: 必须返回一个值
