@@ -22,6 +22,9 @@
     <Filter Include="源文件\03函数重载">
       <UniqueIdentifier>{08980641-c794-47eb-ba41-1ad045c94c92}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04显式默认设置的函数和已删除的函数">
+      <UniqueIdentifier>{f3c85ed9-5b1e-4287-a5bd-df1dfde72d4c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01函数.cpp">
@@ -56,6 +59,21 @@
     </ClCompile>
     <ClCompile Include="01函数重载.cpp">
       <Filter>源文件\03函数重载</Filter>
+    </ClCompile>
+    <ClCompile Include="02参数类型差异.cpp">
+      <Filter>源文件\03函数重载</Filter>
+    </ClCompile>
+    <ClCompile Include="03成员函数的 Ref 限定符.cpp">
+      <Filter>源文件\03函数重载</Filter>
+    </ClCompile>
+    <ClCompile Include="04重载限制.cpp">
+      <Filter>源文件\03函数重载</Filter>
+    </ClCompile>
+    <ClCompile Include="05重载、重写和隐藏.cpp">
+      <Filter>源文件\03函数重载</Filter>
+    </ClCompile>
+    <ClCompile Include="01显式默认设置的函数和已删除的函数.cpp">
+      <Filter>源文件\04显式默认设置的函数和已删除的函数</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

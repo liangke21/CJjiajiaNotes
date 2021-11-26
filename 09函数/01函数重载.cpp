@@ -13,7 +13,7 @@ int print(double dvalue);            // 打印双份。
 int print(double dvalue, int prec);  // 打印一个双
                                      //  给定精度。
 using namespace std;
-int main(int argc, char* argv[])
+int main030101(int argc, char* argv[])
 {
     const double d = 893094.2987;
     if (argc < 2)
@@ -31,6 +31,8 @@ int main(int argc, char* argv[])
 
     // 调用 print( double dvalue, int prec )。
     print(d, atoi(argv[1]));
+
+    return 0;
 }
 
 // 打印一个字符串。

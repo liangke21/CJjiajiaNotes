@@ -141,10 +141,17 @@
   <ItemGroup>
     <ClCompile Include="01函数.cpp" />
     <ClCompile Include="01函数重载.cpp" />
+    <ClCompile Include="01显式默认设置的函数和已删除的函数.cpp" />
     <ClCompile Include="02函数声明的各个部分.cpp" />
+    <ClCompile Include="02参数类型差异.cpp" />
     <ClCompile Include="03函数定义.cpp" />
+    <ClCompile Include="03成员函数的 Ref 限定符.cpp" />
+    <ClCompile Include="04重载限制.cpp" />
     <ClCompile Include="05函数形参和实参.cpp" />
     <ClCompile Include="04函数模板.cpp" />
+    <ClCompile Include="05重载、重写和隐藏.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
+    </ClCompile>
     <ClCompile Include="06默认自变量.cpp" />
     <ClCompile Include="07结尾返回类型.cpp" />
     <ClCompile Include="08的返回类型中的类型推导.cpp" />
