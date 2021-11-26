@@ -28,6 +28,12 @@
     <Filter Include="源文件\03重载一元运算符\02递增和递减运算符重载">
       <UniqueIdentifier>{d0456eb4-48e8-47d2-8056-d9f5be83f22d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04二元运算符">
+      <UniqueIdentifier>{41b13480-e0c6-4ddf-8832-fb3bebd9557d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05分配">
+      <UniqueIdentifier>{73702bb8-100a-4890-bbac-4f8b52c3951d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="运算符重载.cpp">
@@ -41,6 +47,12 @@
     </ClCompile>
     <ClCompile Include="递增和递减运算符重载.cpp">
       <Filter>源文件\03重载一元运算符\02递增和递减运算符重载</Filter>
+    </ClCompile>
+    <ClCompile Include="二元运算符.cpp">
+      <Filter>源文件\04二元运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="分配.cpp">
+      <Filter>源文件\05分配</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

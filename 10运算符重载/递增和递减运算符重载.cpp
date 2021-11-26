@@ -97,7 +97,7 @@ Int& Int::operator++(int n)
 		_i++;       //处理没有传递参数的情况。
 	return *this;
 }
-int main0301()
+int main0302()
 {
 	Int i;
 	i.operator++(25); // Increment by 25.
