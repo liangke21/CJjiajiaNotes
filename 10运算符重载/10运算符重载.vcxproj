@@ -140,6 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="运算符重载.cpp" />
+    <ClCompile Include="运算符重载的一般规则.cpp" />
+    <ClCompile Include="递增和递减运算符重载.cpp" />
+    <ClCompile Include="重载一元运算符.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

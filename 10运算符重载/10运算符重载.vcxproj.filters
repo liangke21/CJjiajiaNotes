@@ -16,10 +16,31 @@
     <Filter Include="源文件\01运算符重载">
       <UniqueIdentifier>{e91583b4-ae19-42d7-bef6-b6af320fd64d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\02运算符重载的一般规则">
+      <UniqueIdentifier>{0a3c83c8-c73f-4b93-87ba-f9b4d51f1e3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03重载一元运算符">
+      <UniqueIdentifier>{95f3b76f-1dfd-4d09-9fcd-5d32136d9334}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03重载一元运算符\01重载一元运算符">
+      <UniqueIdentifier>{4d0b5a61-6345-420f-9f30-eb46404959cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03重载一元运算符\02递增和递减运算符重载">
+      <UniqueIdentifier>{d0456eb4-48e8-47d2-8056-d9f5be83f22d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="运算符重载.cpp">
       <Filter>源文件\01运算符重载</Filter>
+    </ClCompile>
+    <ClCompile Include="运算符重载的一般规则.cpp">
+      <Filter>源文件\02运算符重载的一般规则</Filter>
+    </ClCompile>
+    <ClCompile Include="重载一元运算符.cpp">
+      <Filter>源文件\03重载一元运算符\01重载一元运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="递增和递减运算符重载.cpp">
+      <Filter>源文件\03重载一元运算符\02递增和递减运算符重载</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
