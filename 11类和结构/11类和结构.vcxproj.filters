@@ -13,5 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="资源文件\01类和结构">
+      <UniqueIdentifier>{2b7c292a-8952-4494-a8cf-c740974e5f09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\02class">
+      <UniqueIdentifier>{301ccd21-e12f-46e5-9238-389bb357ee05}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="类和结构.cpp">
+      <Filter>资源文件\01类和结构</Filter>
+    </ClCompile>
+    <ClCompile Include="calss.cpp">
+      <Filter>资源文件\02class</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
