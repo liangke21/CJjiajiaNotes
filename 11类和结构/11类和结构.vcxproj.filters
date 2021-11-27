@@ -19,6 +19,9 @@
     <Filter Include="资源文件\02class">
       <UniqueIdentifier>{301ccd21-e12f-46e5-9238-389bb357ee05}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\03struct">
+      <UniqueIdentifier>{05b254b8-5d3f-4d7f-906c-fafbc5d11952}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -26,6 +29,9 @@
     </ClCompile>
     <ClCompile Include="calss.cpp">
       <Filter>资源文件\02class</Filter>
+    </ClCompile>
+    <ClCompile Include="struct.cpp">
+      <Filter>资源文件\03struct</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
