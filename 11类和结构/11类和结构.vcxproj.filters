@@ -49,6 +49,18 @@
     <Filter Include="资源文件\07对象生存期和资源管理">
       <UniqueIdentifier>{6276987f-e003-4bec-ba0f-3b397210b03c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\08用于编译时封装的 Pimpl">
+      <UniqueIdentifier>{2c87d134-6e4d-4108-b065-5d40af95cfb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\09ABI 边界处的可移植性">
+      <UniqueIdentifier>{a7c08c82-93b3-4988-badd-83d5dd7c61b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\10构造函数">
+      <UniqueIdentifier>{18f832df-6c08-4488-b929-7acd1d3932fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\10构造函数\01构造函数">
+      <UniqueIdentifier>{c853eaa7-9ab0-4559-8881-4be117a6a5ef}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -98,6 +110,18 @@
     </ClCompile>
     <ClCompile Include="对象生存期和资源管理.cpp">
       <Filter>资源文件\07对象生存期和资源管理</Filter>
+    </ClCompile>
+    <ClCompile Include="my_class.h">
+      <Filter>资源文件\08用于编译时封装的 Pimpl</Filter>
+    </ClCompile>
+    <ClCompile Include="my_class.cpp">
+      <Filter>资源文件\08用于编译时封装的 Pimpl</Filter>
+    </ClCompile>
+    <ClCompile Include="ABI 边界处的可移植性.cpp">
+      <Filter>资源文件\09ABI 边界处的可移植性</Filter>
+    </ClCompile>
+    <ClCompile Include="01构造函数.cpp">
+      <Filter>资源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
