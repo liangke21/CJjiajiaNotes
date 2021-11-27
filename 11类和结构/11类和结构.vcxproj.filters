@@ -31,6 +31,9 @@
     <Filter Include="资源文件\05成员访问控制\01成员访问控制">
       <UniqueIdentifier>{bc93c663-7a54-4a8a-b9f0-03e3991fa1f2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\05成员访问控制\02友元">
+      <UniqueIdentifier>{a41be85e-67cf-4ab8-b20c-2bcfa4eebac7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -53,6 +56,12 @@
     </ClCompile>
     <ClCompile Include="02访问控制和静态成员.cpp">
       <Filter>资源文件\05成员访问控制\01成员访问控制</Filter>
+    </ClCompile>
+    <ClCompile Include="03对虚函数的访问.cpp">
+      <Filter>资源文件\05成员访问控制\01成员访问控制</Filter>
+    </ClCompile>
+    <ClCompile Include="01友元声明.cpp">
+      <Filter>资源文件\05成员访问控制\02友元</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -50,7 +50,7 @@ int Derived2::ShowCount()
 派生类 T 的成员和朋友可以将指向 T 的指针转换为指向 T 的私有直接基类的指针。
 */
 
-int main()
+int main05010201()
 {
 
     return 0;
