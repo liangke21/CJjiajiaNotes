@@ -152,6 +152,10 @@
     <ClCompile Include="calss.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="private.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
+    </ClCompile>
+    <ClCompile Include="protected.cpp" />
     <ClCompile Include="struct.cpp" />
     <ClCompile Include="按成员初始化.cpp" />
     <ClCompile Include="类和结构.cpp" />
