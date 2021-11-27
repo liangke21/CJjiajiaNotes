@@ -37,6 +37,9 @@
     <Filter Include="源文件\06下标">
       <UniqueIdentifier>{fb73ecb3-e15f-4ee3-ba82-21064177a26b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\07成员访问">
+      <UniqueIdentifier>{fa2c68f4-a726-43f3-b2d2-4fe26b35c80c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="运算符重载.cpp">
@@ -59,6 +62,9 @@
     </ClCompile>
     <ClCompile Include="下标.cpp">
       <Filter>源文件\06下标</Filter>
+    </ClCompile>
+    <ClCompile Include="成员访问.cpp">
+      <Filter>源文件\07成员访问</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

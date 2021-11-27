@@ -59,7 +59,7 @@ Array bounds violation.
 Element: [0] = 0
 Element: [1] = 1
 Element: [2] = 2
-Element: [3] = 9
+Element: [3] = 9       //÷µ±‰¡À
 Element: [4] = 4
 Element: [5] = 5
 Element: [6] = 6
