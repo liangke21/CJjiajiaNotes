@@ -94,7 +94,7 @@ public:
 int main0603()
 {
     class_d d1{};
-    class_d d1{ 4.5 };
+   // class_d d1{ 4.5 };
     class_d d2{ 4.5, "string" };
     class_d d3{ 4.5, "string", 'c' };
 
@@ -115,7 +115,8 @@ public:
 int main0604()
 {
     class_f cf{ "hello" };
-  //  class_f cf1{}; //编译器错误 C2280：试图引用已删除的函数
+ //   class_f cf1{}; //编译器错误 C2280：试图引用已删除的函数
+  //  class_f cf2;
 
     return 0;
 }

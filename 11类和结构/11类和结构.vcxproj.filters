@@ -46,6 +46,9 @@
     <Filter Include="资源文件\06大括号初始化">
       <UniqueIdentifier>{c7b96930-bf71-45e2-951b-a51b7257b38e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\07对象生存期和资源管理">
+      <UniqueIdentifier>{6276987f-e003-4bec-ba0f-3b397210b03c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -92,6 +95,9 @@
     </ClCompile>
     <ClCompile Include="大括号初始化.cpp">
       <Filter>资源文件\06大括号初始化</Filter>
+    </ClCompile>
+    <ClCompile Include="对象生存期和资源管理.cpp">
+      <Filter>资源文件\07对象生存期和资源管理</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

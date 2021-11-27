@@ -159,6 +159,7 @@
     <ClCompile Include="public.cpp" />
     <ClCompile Include="struct.cpp" />
     <ClCompile Include="大括号初始化.cpp" />
+    <ClCompile Include="对象生存期和资源管理.cpp" />
     <ClCompile Include="按成员初始化.cpp" />
     <ClCompile Include="类和结构.cpp" />
     <ClCompile Include="类成员概述.cpp" />
