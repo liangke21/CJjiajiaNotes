@@ -43,6 +43,9 @@
     <Filter Include="资源文件\05成员访问控制\05public">
       <UniqueIdentifier>{9bb1e332-4948-48fa-a228-26ac3add38df}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\06大括号初始化">
+      <UniqueIdentifier>{c7b96930-bf71-45e2-951b-a51b7257b38e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -86,6 +89,9 @@
     </ClCompile>
     <ClCompile Include="public.cpp">
       <Filter>资源文件\05成员访问控制\05public</Filter>
+    </ClCompile>
+    <ClCompile Include="大括号初始化.cpp">
+      <Filter>资源文件\06大括号初始化</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
