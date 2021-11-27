@@ -1,29 +1,4 @@
 ﻿  正在扫描源以查找模块依赖项...
-  my_class.h
-  正在编译...
-  my_class.h
-  01友元声明.cpp
-  01成员访问控制.cpp
-  01构造函数.cpp
-  03作为友元的类成员.cpp
-  03对虚函数的访问.cpp
-  ABI 边界处的可移植性.cpp
-  my_class.cpp
-  protected.cpp
-  public.cpp
-  struct.cpp
-  大括号初始化.cpp
-  对象生存期和资源管理.cpp
-  按成员初始化.cpp
-  类和结构.cpp
-  类成员概述.cpp
-  正在生成代码...
-  02友元函数.cpp
-  02访问控制和静态成员.cpp
-  calss.cpp
-  private.cpp
-G:\C++Notes\11类和结构\private.cpp(43,18): warning C4101: “aDerived”: 未引用的局部变量
-G:\C++Notes\11类和结构\private.cpp(42,15): warning C4101: “aBase”: 未引用的局部变量
-G:\C++Notes\11类和结构\private.cpp(44,19): warning C4101: “aDerived2”: 未引用的局部变量
-  正在生成代码...
+  02默认构造函数.cpp
+G:\C++Notes\11类和结构\02默认构造函数.cpp(49,13): warning C4930: “myclass mc(void)”: 未调用原型函数(是否是有意用变量定义的?)
   11类和结构.vcxproj -> G:\C++Notes\x64\Debug\11类和结构.exe

@@ -148,6 +148,7 @@
     <ClCompile Include="02访问控制和静态成员.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="02默认构造函数.cpp" />
     <ClCompile Include="03作为友元的类成员.cpp" />
     <ClCompile Include="03对虚函数的访问.cpp" />
     <ClCompile Include="ABI 边界处的可移植性.cpp" />

@@ -37,7 +37,7 @@ private:
 };
 //声明类的实例时，编译器根据重载解析规则选择要调用的构造函数：
 
-int main()
+int main100102()
 {
     Box b; // Calls Box()
    // Box b = 1; //隐式调用//去掉explicit 就不会报错
@@ -47,4 +47,5 @@ int main()
 
     // 使用函数风格的符号：
     Box b4(2, 4, 6); // 调用 Box(int, int, int)
+    return 0;
 }
