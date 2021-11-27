@@ -63,5 +63,11 @@
     <ClCompile Include="01友元声明.cpp">
       <Filter>资源文件\05成员访问控制\02友元</Filter>
     </ClCompile>
+    <ClCompile Include="02友元函数.cpp">
+      <Filter>资源文件\05成员访问控制\02友元</Filter>
+    </ClCompile>
+    <ClCompile Include="03作为友元的类成员.cpp">
+      <Filter>资源文件\05成员访问控制\02友元</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
