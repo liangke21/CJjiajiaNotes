@@ -34,6 +34,9 @@
     <Filter Include="源文件\05分配">
       <UniqueIdentifier>{73702bb8-100a-4890-bbac-4f8b52c3951d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\06下标">
+      <UniqueIdentifier>{fb73ecb3-e15f-4ee3-ba82-21064177a26b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="运算符重载.cpp">
@@ -53,6 +56,9 @@
     </ClCompile>
     <ClCompile Include="分配.cpp">
       <Filter>源文件\05分配</Filter>
+    </ClCompile>
+    <ClCompile Include="下标.cpp">
+      <Filter>源文件\06下标</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

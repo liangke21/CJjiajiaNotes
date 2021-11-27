@@ -139,8 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="下标.cpp" />
     <ClCompile Include="二元运算符.cpp" />
-    <ClCompile Include="分配.cpp" />
+    <ClCompile Include="分配.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
+    </ClCompile>
     <ClCompile Include="运算符重载.cpp" />
     <ClCompile Include="运算符重载的一般规则.cpp" />
     <ClCompile Include="递增和递减运算符重载.cpp" />

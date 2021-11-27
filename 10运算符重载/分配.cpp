@@ -12,11 +12,14 @@ public:
 // 定义复制赋值运算符。
 Point& Point::operator=(const Point& otherPoint)
 {
-    this->_x = otherPoint._x;
-    this->_y = otherPoint._y;
+    /*this->_x = otherPoint._x;  
+    this->_y = otherPoint._y;*/   //和下面等效
+
+   _x = otherPoint._x;
+   _y = otherPoint._y;
 
     // 赋值运算符返回赋值的左侧。
-    return this;
+    return *this;
 }
 
 int main0501()
