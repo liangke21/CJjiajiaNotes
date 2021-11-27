@@ -40,6 +40,9 @@
     <Filter Include="资源文件\05成员访问控制\04protected">
       <UniqueIdentifier>{256b0378-037a-4594-add7-3643fcb9d4f3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\05成员访问控制\05public">
+      <UniqueIdentifier>{9bb1e332-4948-48fa-a228-26ac3add38df}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -80,6 +83,9 @@
     </ClCompile>
     <ClCompile Include="protected.cpp">
       <Filter>资源文件\05成员访问控制\04protected</Filter>
+    </ClCompile>
+    <ClCompile Include="public.cpp">
+      <Filter>资源文件\05成员访问控制\05public</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
