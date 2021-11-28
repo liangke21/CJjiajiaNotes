@@ -135,5 +135,8 @@
     <ClCompile Include="05构造顺序.cpp">
       <Filter>资源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
+    <ClCompile Include="06派生构造函数和扩展聚合初始化.cpp">
+      <Filter>资源文件\10构造函数\01构造函数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
