@@ -44,23 +44,23 @@ b = a;
 
 
 
-class Window
-{
-public:
-    Window();
-    Window(const Window&); // 声明复制构造函数。
-    
-};
-
-int main100201()
-{
-
-    Window w;
-
-    Window b = w; //“赋值”意味着复制赋值
-
-    return 0;
-}
+//class Window
+//{
+//public:
+//	Window();
+//	Window(const Window&); // 声明复制构造函数。
+//
+//};
+//
+//int main100201()
+//{
+//
+//	Window w;
+//
+//	Window b = w; //“赋值”意味着复制赋值
+//
+//	return 0;
+//}
 
 
 

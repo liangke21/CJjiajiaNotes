@@ -1,5 +1,5 @@
 ﻿  正在扫描源以查找模块依赖项...
-  09继承.cpp
-  10构造函数和复合类.cpp
-  正在生成代码...
+  01移动构造函数和移动赋值运算符.cpp
+  The contents of <format> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
   11类和结构.vcxproj -> G:\C++Notes\x64\Debug\11类和结构.exe
