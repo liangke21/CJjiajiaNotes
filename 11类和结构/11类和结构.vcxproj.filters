@@ -147,5 +147,8 @@
     <ClCompile Include="09继承.cpp">
       <Filter>资源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
+    <ClCompile Include="10构造函数和复合类.cpp">
+      <Filter>资源文件\10构造函数\01构造函数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
