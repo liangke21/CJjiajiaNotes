@@ -155,6 +155,7 @@
     <ClCompile Include="04移动构造函数.cpp" />
     <ClCompile Include="05构造顺序.cpp" />
     <ClCompile Include="06派生构造函数和扩展聚合初始化.cpp" />
+    <ClCompile Include="07具有多个继承的类的构造函数.cpp" />
     <ClCompile Include="ABI 边界处的可移植性.cpp" />
     <ClCompile Include="calss.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
