@@ -126,5 +126,11 @@
     <ClCompile Include="02默认构造函数.cpp">
       <Filter>资源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
+    <ClCompile Include="03复制构造函数.cpp">
+      <Filter>资源文件\10构造函数\01构造函数</Filter>
+    </ClCompile>
+    <ClCompile Include="04移动构造函数.cpp">
+      <Filter>资源文件\10构造函数\01构造函数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

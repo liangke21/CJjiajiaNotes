@@ -1,4 +1,3 @@
 ﻿  正在扫描源以查找模块依赖项...
-  02默认构造函数.cpp
-G:\C++Notes\11类和结构\02默认构造函数.cpp(49,13): warning C4930: “myclass mc(void)”: 未调用原型函数(是否是有意用变量定义的?)
+  04移动构造函数.cpp
   11类和结构.vcxproj -> G:\C++Notes\x64\Debug\11类和结构.exe
