@@ -94,6 +94,9 @@
     <Filter Include="资源文件\14显示重写">
       <UniqueIdentifier>{5a90de9e-512e-4b7d-b5b0-f3b0ecdf5031}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\15抽象类">
+      <UniqueIdentifier>{629dd37b-40ff-4412-8cd6-d5bb8f4c23c6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -233,6 +236,12 @@
     </ClCompile>
     <ClCompile Include="显示重写.cpp">
       <Filter>资源文件\14显示重写</Filter>
+    </ClCompile>
+    <ClCompile Include="01抽象类.cpp">
+      <Filter>资源文件\15抽象类</Filter>
+    </ClCompile>
+    <ClCompile Include="02定义的纯虚拟函数.cpp">
+      <Filter>资源文件\15抽象类</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

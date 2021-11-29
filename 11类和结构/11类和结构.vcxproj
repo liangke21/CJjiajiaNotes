@@ -142,6 +142,7 @@
     <ClCompile Include="01友元声明.cpp" />
     <ClCompile Include="01多个基类.cpp" />
     <ClCompile Include="01成员访问控制.cpp" />
+    <ClCompile Include="01抽象类.cpp" />
     <ClCompile Include="01构造函数.cpp" />
     <ClCompile Include="01移动构造函数和移动赋值运算符.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
@@ -149,6 +150,7 @@
     <ClCompile Include="02友元函数.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="02定义的纯虚拟函数.cpp" />
     <ClCompile Include="02虚拟基类.cpp" />
     <ClCompile Include="02虚拟说明符.cpp" />
     <ClCompile Include="02访问控制和静态成员.cpp">

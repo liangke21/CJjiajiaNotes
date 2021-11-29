@@ -93,7 +93,8 @@ int main1401() {
      在 CMyClass::IMyInt2::mf2()
      在 CMyClass::IMyInt2::mf2(int)
     */
-    // Cast to a CMyClass pointer so that the destructor gets called
+    // 转换为 CMy 类指针，以便调用析构函数
     CMyClass* p = dynamic_cast<CMyClass*>(pIMyInt1);
     delete p;
+    return 0;
 }
