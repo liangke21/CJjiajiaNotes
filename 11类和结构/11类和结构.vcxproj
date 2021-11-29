@@ -191,6 +191,10 @@
     <ClCompile Include="析构的顺序.cpp" />
     <ClCompile Include="类和结构.cpp" />
     <ClCompile Include="类成员概述.cpp" />
+    <ClCompile Include="继承.cpp" />
+    <ClCompile Include="虚函数.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

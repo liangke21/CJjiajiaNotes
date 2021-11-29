@@ -76,6 +76,15 @@
     <Filter Include="资源文件\12成员函数概述">
       <UniqueIdentifier>{6bcab659-d0b8-4019-aedf-d2c732ad00ef}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\13继承">
+      <UniqueIdentifier>{0b341eb4-b6ee-4c64-9031-0fac72969abd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\13继承\01继承">
+      <UniqueIdentifier>{ce76833f-fca5-4d43-94eb-43d09e90ee03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\13继承\02虚函数">
+      <UniqueIdentifier>{16c576b1-da59-4077-bfeb-850128b15f8c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -191,6 +200,12 @@
     </ClCompile>
     <ClCompile Include="04final说明符.cpp">
       <Filter>资源文件\12成员函数概述</Filter>
+    </ClCompile>
+    <ClCompile Include="继承.cpp">
+      <Filter>资源文件\13继承\01继承</Filter>
+    </ClCompile>
+    <ClCompile Include="虚函数.cpp">
+      <Filter>资源文件\13继承\02虚函数</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
