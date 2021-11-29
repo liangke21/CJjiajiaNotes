@@ -1,5 +1,4 @@
 ﻿  正在扫描源以查找模块依赖项...
   静态成员.cpp
 G:\C++Notes\11类和结构\静态成员.cpp(13,16): warning C4244: “return”: 从“long”转换到“short”，可能丢失数据
-  __interface.cpp
   11类和结构.vcxproj -> G:\C++Notes\x64\Debug\11类和结构.exe

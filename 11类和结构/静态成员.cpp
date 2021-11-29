@@ -26,7 +26,7 @@ public:
 // 在文件范围内定义字节数。
 long BufferedOutput::bytecount;
 
-int main1401()
+int main140101()
 {
     return 0;
 }
