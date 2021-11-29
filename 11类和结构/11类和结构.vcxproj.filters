@@ -91,11 +91,20 @@
     <Filter Include="资源文件\13继承\04多个基类">
       <UniqueIdentifier>{30b98fe7-8539-4fd5-828b-e83b6d9691bf}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\14显示重写">
+    <Filter Include="资源文件\13继承\05重写">
       <UniqueIdentifier>{5a90de9e-512e-4b7d-b5b0-f3b0ecdf5031}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\15抽象类">
+    <Filter Include="资源文件\13继承\06抽象类">
       <UniqueIdentifier>{629dd37b-40ff-4412-8cd6-d5bb8f4c23c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\13继承\07范围规则摘要">
+      <UniqueIdentifier>{1a29eb19-12ee-4567-b873-c8f68c22e612}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\13继承\08__super">
+      <UniqueIdentifier>{e1795546-7507-4027-9795-fc41db013574}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\13继承\09__interface">
+      <UniqueIdentifier>{61ea1de5-d4a1-4f37-9f46-f55105a5238b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -235,13 +244,22 @@
       <Filter>资源文件\13继承\04多个基类</Filter>
     </ClCompile>
     <ClCompile Include="显示重写.cpp">
-      <Filter>资源文件\14显示重写</Filter>
+      <Filter>资源文件\13继承\05重写</Filter>
     </ClCompile>
     <ClCompile Include="01抽象类.cpp">
-      <Filter>资源文件\15抽象类</Filter>
+      <Filter>资源文件\13继承\06抽象类</Filter>
     </ClCompile>
     <ClCompile Include="02定义的纯虚拟函数.cpp">
-      <Filter>资源文件\15抽象类</Filter>
+      <Filter>资源文件\13继承\06抽象类</Filter>
+    </ClCompile>
+    <ClCompile Include="范围规则摘要.cpp">
+      <Filter>资源文件\13继承\07范围规则摘要</Filter>
+    </ClCompile>
+    <ClCompile Include="super.cpp">
+      <Filter>资源文件\13继承\08__super</Filter>
+    </ClCompile>
+    <ClCompile Include="__interface.cpp">
+      <Filter>资源文件\13继承\09__interface</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

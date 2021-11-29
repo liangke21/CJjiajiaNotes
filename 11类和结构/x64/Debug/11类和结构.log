@@ -1,3 +1,18 @@
 ﻿  正在扫描源以查找模块依赖项...
   02定义的纯虚拟函数.cpp
-  11类和结构.vcxproj -> G:\C++Notes\x64\Debug\11类和结构.exe
+  super.cpp
+  范围规则摘要.cpp
+  正在生成代码...
+  __interface.cpp
+E:\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 生成“已定义”的宏扩展具有未定义的行为
+E:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.30.30705\atlmfc\include\atlplus.h(27,10): error C2337: “provider”: 未找到特性
+G:\C++Notes\11类和结构\__interface.cpp(27,8): error C2337: “module”: 未找到特性
+G:\C++Notes\11类和结构\__interface.cpp(29,8): error C2337: “object”: 未找到特性
+G:\C++Notes\11类和结构\__interface.cpp(29,14): error C2337: “uuid”: 未找到特性
+G:\C++Notes\11类和结构\__interface.cpp(29,69): error C2337: “library_block”: 未找到特性
+G:\C++Notes\11类和结构\__interface.cpp(31,8): error C2337: “id”: 未找到特性
+G:\C++Notes\11类和结构\__interface.cpp(31,25): error C2844: “int_data”: 不能是接口“IFace”的成员
+G:\C++Notes\11类和结构\__interface.cpp(32,8): error C2337: “id”: 未找到特性
+G:\C++Notes\11类和结构\__interface.cpp(32,27): error C2844: “bstr_data”: 不能是接口“IFace”的成员
+G:\C++Notes\11类和结构\__interface.cpp(35,9): error C2337: “coclass”: 未找到特性
+G:\C++Notes\11类和结构\__interface.cpp(35,15): error C2337: “uuid”: 未找到特性
