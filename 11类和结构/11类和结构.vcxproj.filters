@@ -106,6 +106,9 @@
     <Filter Include="资源文件\13继承\09__interface">
       <UniqueIdentifier>{61ea1de5-d4a1-4f37-9f46-f55105a5238b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\14静态成员">
+      <UniqueIdentifier>{999cd46c-0462-484c-a755-b7432efa5358}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -260,6 +263,9 @@
     </ClCompile>
     <ClCompile Include="__interface.cpp">
       <Filter>资源文件\13继承\09__interface</Filter>
+    </ClCompile>
+    <ClCompile Include="静态成员.cpp">
+      <Filter>资源文件\14静态成员</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
