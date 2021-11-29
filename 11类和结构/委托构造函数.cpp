@@ -95,7 +95,7 @@ public:
     string m_string{ m_double < 10.0 ? "alpha" : "beta" };
 };
 
-int main100501() {
+int main100502() {
     class_a2 a{ "hello", 2.0 };  //expect a.m_double == 2.0, a.m_string == "hello"
 
     cout << a.m_double << " " << a.m_string; //2 hello

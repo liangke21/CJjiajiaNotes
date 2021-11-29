@@ -67,8 +67,11 @@
     <Filter Include="资源文件\10构造函数\03移动构造函数和移动赋值运算符">
       <UniqueIdentifier>{9b4bb7e1-98d0-4419-a9d6-271019c6e9d9}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\10构造函数\05委托构造函数">
+    <Filter Include="资源文件\10构造函数\04委托构造函数">
       <UniqueIdentifier>{cf6ad705-28c0-45f8-9e6d-6746abb4f4db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\11析构函数">
+      <UniqueIdentifier>{3ce786a6-08fb-48ff-8417-3dcb4e20c8fe}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -166,7 +169,10 @@
       <Filter>资源文件\10构造函数\03移动构造函数和移动赋值运算符</Filter>
     </ClCompile>
     <ClCompile Include="委托构造函数.cpp">
-      <Filter>资源文件\10构造函数\05委托构造函数</Filter>
+      <Filter>资源文件\10构造函数\04委托构造函数</Filter>
+    </ClCompile>
+    <ClCompile Include="析构函数.cpp">
+      <Filter>资源文件\11析构函数</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

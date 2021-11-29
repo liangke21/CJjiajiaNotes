@@ -181,6 +181,9 @@
     <ClCompile Include="my_class.h">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="析构函数.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
+    </ClCompile>
     <ClCompile Include="类和结构.cpp" />
     <ClCompile Include="类成员概述.cpp" />
   </ItemGroup>
