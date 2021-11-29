@@ -19,7 +19,7 @@ public:
     double amount;
 };
 
-void display_balance(const Money balance)
+void display_balance2(const Money balance)
 {
     std::cout << "The balance is: " << balance.amount << std::endl;
 }
@@ -28,9 +28,9 @@ int main150301(int argc, char* argv[])
 {
     Money payable{ 79.99 };        //合法：直接初始化是显式的。
 
-    display_balance(payable);      // 合法：无需转换
+    display_balance2(payable);      // 合法：无需转换
     //display_balance(49.95);        // 错误：不存在从 double 转换为 Money 的合适转换。
-    display_balance((Money)9.99f); // 合法：显式转换为 Money
+    display_balance2((Money)9.99f); // 合法：显式转换为 Money
 
     return 0;
 }

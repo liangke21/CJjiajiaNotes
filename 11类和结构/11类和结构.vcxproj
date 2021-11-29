@@ -152,6 +152,7 @@
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
     <ClCompile Include="02定义的纯虚拟函数.cpp" />
+    <ClCompile Include="03显式转换构造函数.cpp" />
     <ClCompile Include="02虚拟基类.cpp" />
     <ClCompile Include="02虚拟说明符.cpp" />
     <ClCompile Include="02访问控制和静态成员.cpp">
@@ -189,6 +190,7 @@
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
     <ClCompile Include="单个继承.cpp" />
+    <ClCompile Include="可变数据成员.cpp" />
     <ClCompile Include="复制构造函数和复制赋值运算符.cpp" />
     <ClCompile Include="大括号初始化.cpp" />
     <ClCompile Include="委托构造函数.cpp" />

@@ -112,6 +112,9 @@
     <Filter Include="资源文件\15用户定义的类型转换">
       <UniqueIdentifier>{d4db463b-b7bb-4b28-8bb0-b54b3b3cc185}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\16可变数据成员">
+      <UniqueIdentifier>{420eb792-2d6d-4713-885a-fc6ebf76346e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -275,6 +278,12 @@
     </ClCompile>
     <ClCompile Include="02转换构造函数.cpp">
       <Filter>资源文件\15用户定义的类型转换</Filter>
+    </ClCompile>
+    <ClCompile Include="03显式转换构造函数.cpp">
+      <Filter>资源文件\15用户定义的类型转换</Filter>
+    </ClCompile>
+    <ClCompile Include="可变数据成员.cpp">
+      <Filter>资源文件\16可变数据成员</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
