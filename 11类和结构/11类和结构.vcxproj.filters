@@ -91,6 +91,9 @@
     <Filter Include="资源文件\13继承\04多个基类">
       <UniqueIdentifier>{30b98fe7-8539-4fd5-828b-e83b6d9691bf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\14显示重写">
+      <UniqueIdentifier>{5a90de9e-512e-4b7d-b5b0-f3b0ecdf5031}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -227,6 +230,9 @@
     </ClCompile>
     <ClCompile Include="04主导.cpp">
       <Filter>资源文件\13继承\04多个基类</Filter>
+    </ClCompile>
+    <ClCompile Include="显示重写.cpp">
+      <Filter>资源文件\14显示重写</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

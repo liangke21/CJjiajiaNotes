@@ -27,7 +27,7 @@ class D : public B, public C {
 public:
     D() { a(); } // 不模棱两可。 B::a() 支配 A::a。
 };
-int main() {
+int main13040401() {
 
   
     return 0;
