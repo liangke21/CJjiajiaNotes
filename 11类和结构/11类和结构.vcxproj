@@ -191,6 +191,9 @@
     <ClCompile Include="public.cpp" />
     <ClCompile Include="struct.cpp" />
     <ClCompile Include="super.cpp" />
+    <ClCompile Include="this指针.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
+    </ClCompile>
     <ClCompile Include="__interface.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
