@@ -13,5 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\01C++ 中的 Lambda 表达式">
+      <UniqueIdentifier>{48eadfdf-3824-44d1-8ea2-c3b655ea5d00}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01C++ 中的 Lambda 表达式.cpp">
+      <Filter>源文件\01C++ 中的 Lambda 表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="02Capture 子句.cpp">
+      <Filter>源文件\01C++ 中的 Lambda 表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="03Lambda 体.cpp">
+      <Filter>源文件\01C++ 中的 Lambda 表达式</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
