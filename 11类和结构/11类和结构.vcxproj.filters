@@ -115,6 +115,9 @@
     <Filter Include="资源文件\16可变数据成员">
       <UniqueIdentifier>{420eb792-2d6d-4713-885a-fc6ebf76346e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\17嵌套类声明">
+      <UniqueIdentifier>{dd530be7-ca9b-4f53-9903-14f018b28aaa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -284,6 +287,12 @@
     </ClCompile>
     <ClCompile Include="可变数据成员.cpp">
       <Filter>资源文件\16可变数据成员</Filter>
+    </ClCompile>
+    <ClCompile Include="01嵌套类声明.cpp">
+      <Filter>资源文件\17嵌套类声明</Filter>
+    </ClCompile>
+    <ClCompile Include="02嵌套类中的成员函数.cpp">
+      <Filter>资源文件\17嵌套类声明</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
