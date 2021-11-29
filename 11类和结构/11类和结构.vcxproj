@@ -176,6 +176,7 @@
     <ClCompile Include="protected.cpp" />
     <ClCompile Include="public.cpp" />
     <ClCompile Include="struct.cpp" />
+    <ClCompile Include="单个继承.cpp" />
     <ClCompile Include="复制构造函数和复制赋值运算符.cpp" />
     <ClCompile Include="大括号初始化.cpp" />
     <ClCompile Include="委托构造函数.cpp" />

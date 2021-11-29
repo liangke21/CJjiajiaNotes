@@ -85,6 +85,9 @@
     <Filter Include="资源文件\13继承\02虚函数">
       <UniqueIdentifier>{16c576b1-da59-4077-bfeb-850128b15f8c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\13继承\03单个继承">
+      <UniqueIdentifier>{244267e0-eb81-4dbd-b718-663b84e7bafb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -206,6 +209,9 @@
     </ClCompile>
     <ClCompile Include="虚函数.cpp">
       <Filter>资源文件\13继承\02虚函数</Filter>
+    </ClCompile>
+    <ClCompile Include="单个继承.cpp">
+      <Filter>资源文件\13继承\03单个继承</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
