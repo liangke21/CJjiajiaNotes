@@ -179,6 +179,7 @@
     <ClCompile Include="08委托构造函数.cpp" />
     <ClCompile Include="09继承.cpp" />
     <ClCompile Include="10构造函数和复合类.cpp" />
+    <ClCompile Include="21位域.cpp" />
     <ClCompile Include="ABI 边界处的可移植性.cpp" />
     <ClCompile Include="calss.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>

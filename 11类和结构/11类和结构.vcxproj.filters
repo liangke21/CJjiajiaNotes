@@ -127,6 +127,9 @@
     <Filter Include="资源文件\20this 指针">
       <UniqueIdentifier>{fcedb78e-6aa6-42cd-9f96-8fb366fbc5df}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\21位域">
+      <UniqueIdentifier>{e1ef66d2-a018-4e0f-941f-0c0656168b72}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -320,6 +323,9 @@
     </ClCompile>
     <ClCompile Include="this指针.cpp">
       <Filter>资源文件\20this 指针</Filter>
+    </ClCompile>
+    <ClCompile Include="21位域.cpp">
+      <Filter>资源文件\21位域</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
