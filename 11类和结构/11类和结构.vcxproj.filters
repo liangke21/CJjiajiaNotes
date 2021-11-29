@@ -118,6 +118,9 @@
     <Filter Include="资源文件\17嵌套类声明">
       <UniqueIdentifier>{dd530be7-ca9b-4f53-9903-14f018b28aaa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\18匿名类类型">
+      <UniqueIdentifier>{6bb4631a-ee92-4892-91c7-ff9f8b3abda0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -296,6 +299,9 @@
     </ClCompile>
     <ClCompile Include="03嵌套类中的友元函数.cpp">
       <Filter>资源文件\17嵌套类声明</Filter>
+    </ClCompile>
+    <ClCompile Include="匿名类类型.cpp">
+      <Filter>资源文件\18匿名类类型</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

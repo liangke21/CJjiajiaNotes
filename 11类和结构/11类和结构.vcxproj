@@ -192,6 +192,7 @@
     <ClCompile Include="__interface.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="匿名类类型.cpp" />
     <ClCompile Include="单个继承.cpp" />
     <ClCompile Include="可变数据成员.cpp" />
     <ClCompile Include="复制构造函数和复制赋值运算符.cpp" />
