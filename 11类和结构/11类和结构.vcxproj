@@ -144,6 +144,7 @@
     <ClCompile Include="01嵌套类声明.cpp" />
     <ClCompile Include="01成员访问控制.cpp" />
     <ClCompile Include="01抽象类.cpp" />
+    <ClCompile Include="01指向成员的指针.cpp" />
     <ClCompile Include="01构造函数.cpp" />
     <ClCompile Include="01用户定义的类型转换 .cpp" />
     <ClCompile Include="01移动构造函数和移动赋值运算符.cpp">
@@ -154,6 +155,7 @@
     </ClCompile>
     <ClCompile Include="02定义的纯虚拟函数.cpp" />
     <ClCompile Include="02嵌套类中的成员函数.cpp" />
+    <ClCompile Include="02指向成员和虚函数的指针.cpp" />
     <ClCompile Include="03嵌套类中的友元函数.cpp" />
     <ClCompile Include="03显式转换构造函数.cpp" />
     <ClCompile Include="02虚拟基类.cpp" />
@@ -193,6 +195,10 @@
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
     <ClCompile Include="匿名类类型.cpp" />
+    <ClCompile Include="匿名结构.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Default</LanguageStandard>
+      <LanguageStandard_C Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Default</LanguageStandard_C>
+    </ClCompile>
     <ClCompile Include="单个继承.cpp" />
     <ClCompile Include="可变数据成员.cpp" />
     <ClCompile Include="复制构造函数和复制赋值运算符.cpp" />

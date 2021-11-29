@@ -121,6 +121,9 @@
     <Filter Include="资源文件\18匿名类类型">
       <UniqueIdentifier>{6bb4631a-ee92-4892-91c7-ff9f8b3abda0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\19指向成员的指针">
+      <UniqueIdentifier>{c9436491-1561-419e-b579-b2bd80d32267}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -302,6 +305,15 @@
     </ClCompile>
     <ClCompile Include="匿名类类型.cpp">
       <Filter>资源文件\18匿名类类型</Filter>
+    </ClCompile>
+    <ClCompile Include="匿名结构.cpp">
+      <Filter>资源文件\18匿名类类型</Filter>
+    </ClCompile>
+    <ClCompile Include="01指向成员的指针.cpp">
+      <Filter>资源文件\19指向成员的指针</Filter>
+    </ClCompile>
+    <ClCompile Include="02指向成员和虚函数的指针.cpp">
+      <Filter>资源文件\19指向成员的指针</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -29,8 +29,8 @@ struct PTValue
 
 int main1801() {
 
-    PTValue ptv;
-    int i = ptv.iValue;
+  //  PTValue ptv;
+   // int i = ptv.iValue;
 
     return 0;
 }
