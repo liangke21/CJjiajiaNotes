@@ -88,6 +88,9 @@
     <Filter Include="资源文件\13继承\03单个继承">
       <UniqueIdentifier>{244267e0-eb81-4dbd-b718-663b84e7bafb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\13继承\04多个基类">
+      <UniqueIdentifier>{30b98fe7-8539-4fd5-828b-e83b6d9691bf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -212,6 +215,18 @@
     </ClCompile>
     <ClCompile Include="单个继承.cpp">
       <Filter>资源文件\13继承\03单个继承</Filter>
+    </ClCompile>
+    <ClCompile Include="01多个基类.cpp">
+      <Filter>资源文件\13继承\04多个基类</Filter>
+    </ClCompile>
+    <ClCompile Include="02虚拟基类.cpp">
+      <Filter>资源文件\13继承\04多个基类</Filter>
+    </ClCompile>
+    <ClCompile Include="03名称多义性.cpp">
+      <Filter>资源文件\13继承\04多个基类</Filter>
+    </ClCompile>
+    <ClCompile Include="04主导.cpp">
+      <Filter>资源文件\13继承\04多个基类</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
