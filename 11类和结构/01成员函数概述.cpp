@@ -42,7 +42,7 @@ int main1201()
 //以下示例与类 Account 的以前的声明等效，只不过 Deposit 函数是在类声明的外部定义的：
 
 
-class Account
+class Account2
 {
 public:
     // 声明成员函数存款但不定义它。
@@ -51,7 +51,7 @@ private:
     double balance;
 };
 
-inline double Account::Deposit(double HowMuch)
+inline double Account2::Deposit(double HowMuch)
 {
     balance += HowMuch;
     return balance;

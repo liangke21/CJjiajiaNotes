@@ -148,13 +148,16 @@
     <ClCompile Include="02友元函数.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="02虚拟说明符.cpp" />
     <ClCompile Include="02访问控制和静态成员.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
     <ClCompile Include="02默认构造函数.cpp" />
+    <ClCompile Include="03override 说明符.cpp" />
     <ClCompile Include="03作为友元的类成员.cpp" />
     <ClCompile Include="03复制构造函数.cpp" />
     <ClCompile Include="03对虚函数的访问.cpp" />
+    <ClCompile Include="04final说明符.cpp" />
     <ClCompile Include="04移动构造函数.cpp" />
     <ClCompile Include="05构造顺序.cpp" />
     <ClCompile Include="06派生构造函数和扩展聚合初始化.cpp" />
@@ -177,6 +180,7 @@
     <ClCompile Include="大括号初始化.cpp" />
     <ClCompile Include="委托构造函数.cpp" />
     <ClCompile Include="对象生存期和资源管理.cpp" />
+    <ClCompile Include="01成员函数概述.cpp" />
     <ClCompile Include="按成员初始化.cpp" />
     <ClCompile Include="my_class.h">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
@@ -184,6 +188,7 @@
     <ClCompile Include="析构函数.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="析构的顺序.cpp" />
     <ClCompile Include="类和结构.cpp" />
     <ClCompile Include="类成员概述.cpp" />
   </ItemGroup>

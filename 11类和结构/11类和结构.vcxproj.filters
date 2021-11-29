@@ -73,6 +73,9 @@
     <Filter Include="资源文件\11析构函数">
       <UniqueIdentifier>{3ce786a6-08fb-48ff-8417-3dcb4e20c8fe}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\12成员函数概述">
+      <UniqueIdentifier>{6bcab659-d0b8-4019-aedf-d2c732ad00ef}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
@@ -173,6 +176,21 @@
     </ClCompile>
     <ClCompile Include="析构函数.cpp">
       <Filter>资源文件\11析构函数</Filter>
+    </ClCompile>
+    <ClCompile Include="析构的顺序.cpp">
+      <Filter>资源文件\11析构函数</Filter>
+    </ClCompile>
+    <ClCompile Include="01成员函数概述.cpp">
+      <Filter>资源文件\12成员函数概述</Filter>
+    </ClCompile>
+    <ClCompile Include="02虚拟说明符.cpp">
+      <Filter>资源文件\12成员函数概述</Filter>
+    </ClCompile>
+    <ClCompile Include="03override 说明符.cpp">
+      <Filter>资源文件\12成员函数概述</Filter>
+    </ClCompile>
+    <ClCompile Include="04final说明符.cpp">
+      <Filter>资源文件\12成员函数概述</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
