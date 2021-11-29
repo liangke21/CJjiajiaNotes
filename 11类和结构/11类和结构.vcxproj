@@ -154,6 +154,7 @@
     </ClCompile>
     <ClCompile Include="02定义的纯虚拟函数.cpp" />
     <ClCompile Include="02嵌套类中的成员函数.cpp" />
+    <ClCompile Include="03嵌套类中的友元函数.cpp" />
     <ClCompile Include="03显式转换构造函数.cpp" />
     <ClCompile Include="02虚拟基类.cpp" />
     <ClCompile Include="02虚拟说明符.cpp" />

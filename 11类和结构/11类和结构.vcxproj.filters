@@ -294,5 +294,8 @@
     <ClCompile Include="02嵌套类中的成员函数.cpp">
       <Filter>资源文件\17嵌套类声明</Filter>
     </ClCompile>
+    <ClCompile Include="03嵌套类中的友元函数.cpp">
+      <Filter>资源文件\17嵌套类声明</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
