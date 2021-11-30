@@ -22,6 +22,9 @@
     <Filter Include="源文件\03Lambda 表达式的示例">
       <UniqueIdentifier>{7ea39c8e-a035-4322-a719-263adcd70696}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04constexpr lambda 表达式">
+      <UniqueIdentifier>{2c448605-1f2f-46e9-b6cb-8272d25b4c8e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01C++ 中的 Lambda 表达式.cpp">
@@ -59,6 +62,12 @@
     </ClCompile>
     <ClCompile Include="06处理异常.cpp">
       <Filter>源文件\03Lambda 表达式的示例</Filter>
+    </ClCompile>
+    <ClCompile Include="07将 Lambda 表达式与托管类型.cpp">
+      <Filter>源文件\03Lambda 表达式的示例</Filter>
+    </ClCompile>
+    <ClCompile Include="constexprLambda 表达式.cpp">
+      <Filter>源文件\04constexpr lambda 表达式</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
