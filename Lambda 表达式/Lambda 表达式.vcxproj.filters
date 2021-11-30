@@ -16,6 +16,9 @@
     <Filter Include="源文件\01C++ 中的 Lambda 表达式">
       <UniqueIdentifier>{48eadfdf-3824-44d1-8ea2-c3b655ea5d00}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\02Lambda 表达式语法">
+      <UniqueIdentifier>{2723d980-c9ea-4660-8892-b88e6223bae6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01C++ 中的 Lambda 表达式.cpp">
@@ -29,6 +32,9 @@
     </ClCompile>
     <ClCompile Include="04constexpr lambda 表达式.cpp">
       <Filter>源文件\01C++ 中的 Lambda 表达式</Filter>
+    </ClCompile>
+    <ClCompile Include="01Lambda 表达式语法.cpp">
+      <Filter>源文件\02Lambda 表达式语法</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

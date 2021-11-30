@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01C++ 中的 Lambda 表达式.cpp" />
+    <ClCompile Include="01Lambda 表达式语法.cpp" />
     <ClCompile Include="02Capture 子句.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp17</LanguageStandard>
     </ClCompile>
