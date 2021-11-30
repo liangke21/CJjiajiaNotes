@@ -1,3 +1,4 @@
 ﻿E:\Microsoft Visual Studio\2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Lambda 表达式.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  01Lambda 表达式语法.cpp
+  05Lambda 表达式与模板一同使用.cpp
+  04在函数中使用 Lambda 表达式.cpp
   Lambda 表达式.vcxproj -> G:\C++Notes\x64\Debug\12Lambda 表达式.exe

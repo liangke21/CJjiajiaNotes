@@ -142,13 +142,21 @@
   <ItemGroup>
     <ClCompile Include="01C++ 中的 Lambda 表达式.cpp" />
     <ClCompile Include="01Lambda 表达式语法.cpp" />
+    <ClCompile Include="01声明 Lambda 表达示例.cpp" />
     <ClCompile Include="02Capture 子句.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp17</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="02使用函数对象.cpp" />
+    <ClCompile Include="02调用 Lambda 表达式.cpp" />
     <ClCompile Include="03Lambda 体.cpp" />
+    <ClCompile Include="03高阶Lambda 函数.cpp" />
     <ClCompile Include="04constexpr lambda 表达式.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="04在函数中使用 Lambda 表达式.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
+    </ClCompile>
+    <ClCompile Include="05Lambda 表达式与模板一同使用.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

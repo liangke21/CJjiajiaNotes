@@ -19,6 +19,9 @@
     <Filter Include="源文件\02Lambda 表达式语法">
       <UniqueIdentifier>{2723d980-c9ea-4660-8892-b88e6223bae6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\03Lambda 表达式的示例">
+      <UniqueIdentifier>{7ea39c8e-a035-4322-a719-263adcd70696}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01C++ 中的 Lambda 表达式.cpp">
@@ -35,6 +38,24 @@
     </ClCompile>
     <ClCompile Include="01Lambda 表达式语法.cpp">
       <Filter>源文件\02Lambda 表达式语法</Filter>
+    </ClCompile>
+    <ClCompile Include="02使用函数对象.cpp">
+      <Filter>源文件\02Lambda 表达式语法</Filter>
+    </ClCompile>
+    <ClCompile Include="01声明 Lambda 表达示例.cpp">
+      <Filter>源文件\03Lambda 表达式的示例</Filter>
+    </ClCompile>
+    <ClCompile Include="02调用 Lambda 表达式.cpp">
+      <Filter>源文件\03Lambda 表达式的示例</Filter>
+    </ClCompile>
+    <ClCompile Include="03高阶Lambda 函数.cpp">
+      <Filter>源文件\03Lambda 表达式的示例</Filter>
+    </ClCompile>
+    <ClCompile Include="04在函数中使用 Lambda 表达式.cpp">
+      <Filter>源文件\03Lambda 表达式的示例</Filter>
+    </ClCompile>
+    <ClCompile Include="05Lambda 表达式与模板一同使用.cpp">
+      <Filter>源文件\03Lambda 表达式的示例</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

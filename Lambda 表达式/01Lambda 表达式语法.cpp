@@ -17,7 +17,7 @@ void  fun(int(*func)(int, int)) {
  
 
  }
-int main()
+int main0201()
 {
 
     fun([](int a, int b) {
@@ -54,5 +54,5 @@ int main()
         << " 向量中的偶数。" << endl;
 
 
-    
+    return 0;
 }
