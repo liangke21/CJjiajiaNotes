@@ -26,7 +26,7 @@ namespace Test
 #include <string>
 #include <iostream>
 
-int main()
+int main501()
 {
     using namespace Test;
     using namespace std;
