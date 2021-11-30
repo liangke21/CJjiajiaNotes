@@ -27,5 +27,8 @@
     <ClCompile Include="03Lambda 体.cpp">
       <Filter>源文件\01C++ 中的 Lambda 表达式</Filter>
     </ClCompile>
+    <ClCompile Include="04constexpr lambda 表达式.cpp">
+      <Filter>源文件\01C++ 中的 Lambda 表达式</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
