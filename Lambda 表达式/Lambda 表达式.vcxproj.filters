@@ -57,5 +57,8 @@
     <ClCompile Include="05Lambda 表达式与模板一同使用.cpp">
       <Filter>源文件\03Lambda 表达式的示例</Filter>
     </ClCompile>
+    <ClCompile Include="06处理异常.cpp">
+      <Filter>源文件\03Lambda 表达式的示例</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
