@@ -13,319 +13,319 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="资源文件\01类和结构">
+    <Filter Include="源文件\01类和结构">
       <UniqueIdentifier>{2b7c292a-8952-4494-a8cf-c740974e5f09}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\02class">
+    <Filter Include="源文件\02class">
       <UniqueIdentifier>{301ccd21-e12f-46e5-9238-389bb357ee05}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\03struct">
+    <Filter Include="源文件\03struct">
       <UniqueIdentifier>{05b254b8-5d3f-4d7f-906c-fafbc5d11952}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\04类成员概述">
+    <Filter Include="源文件\04类成员概述">
       <UniqueIdentifier>{91f6d061-95f0-47e5-b9fe-44c0060d43e0}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\05成员访问控制">
+    <Filter Include="源文件\05成员访问控制">
       <UniqueIdentifier>{1794d831-1cee-4fa4-806f-61f903e66cab}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\05成员访问控制\01成员访问控制">
+    <Filter Include="源文件\05成员访问控制\01成员访问控制">
       <UniqueIdentifier>{bc93c663-7a54-4a8a-b9f0-03e3991fa1f2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\05成员访问控制\02友元">
+    <Filter Include="源文件\05成员访问控制\02友元">
       <UniqueIdentifier>{a41be85e-67cf-4ab8-b20c-2bcfa4eebac7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\05成员访问控制\03private">
+    <Filter Include="源文件\05成员访问控制\03private">
       <UniqueIdentifier>{fdb30eaa-bad2-4031-aab3-ae4e6cb80762}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\05成员访问控制\04protected">
+    <Filter Include="源文件\05成员访问控制\04protected">
       <UniqueIdentifier>{256b0378-037a-4594-add7-3643fcb9d4f3}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\05成员访问控制\05public">
+    <Filter Include="源文件\05成员访问控制\05public">
       <UniqueIdentifier>{9bb1e332-4948-48fa-a228-26ac3add38df}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\06大括号初始化">
+    <Filter Include="源文件\06大括号初始化">
       <UniqueIdentifier>{c7b96930-bf71-45e2-951b-a51b7257b38e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\07对象生存期和资源管理">
+    <Filter Include="源文件\07对象生存期和资源管理">
       <UniqueIdentifier>{6276987f-e003-4bec-ba0f-3b397210b03c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\08用于编译时封装的 Pimpl">
+    <Filter Include="源文件\08用于编译时封装的 Pimpl">
       <UniqueIdentifier>{2c87d134-6e4d-4108-b065-5d40af95cfb6}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\09ABI 边界处的可移植性">
+    <Filter Include="源文件\09ABI 边界处的可移植性">
       <UniqueIdentifier>{a7c08c82-93b3-4988-badd-83d5dd7c61b2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\10构造函数">
+    <Filter Include="源文件\10构造函数">
       <UniqueIdentifier>{18f832df-6c08-4488-b929-7acd1d3932fd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\10构造函数\01构造函数">
+    <Filter Include="源文件\10构造函数\01构造函数">
       <UniqueIdentifier>{c853eaa7-9ab0-4559-8881-4be117a6a5ef}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\10构造函数\02复制构造函数和复制赋值运算符">
+    <Filter Include="源文件\10构造函数\02复制构造函数和复制赋值运算符">
       <UniqueIdentifier>{c527eb78-486c-4f47-b853-b9fdf70b642e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\10构造函数\03移动构造函数和移动赋值运算符">
+    <Filter Include="源文件\10构造函数\03移动构造函数和移动赋值运算符">
       <UniqueIdentifier>{9b4bb7e1-98d0-4419-a9d6-271019c6e9d9}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\10构造函数\04委托构造函数">
+    <Filter Include="源文件\10构造函数\04委托构造函数">
       <UniqueIdentifier>{cf6ad705-28c0-45f8-9e6d-6746abb4f4db}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\11析构函数">
+    <Filter Include="源文件\11析构函数">
       <UniqueIdentifier>{3ce786a6-08fb-48ff-8417-3dcb4e20c8fe}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\12成员函数概述">
+    <Filter Include="源文件\12成员函数概述">
       <UniqueIdentifier>{6bcab659-d0b8-4019-aedf-d2c732ad00ef}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\13继承">
+    <Filter Include="源文件\13继承">
       <UniqueIdentifier>{0b341eb4-b6ee-4c64-9031-0fac72969abd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\13继承\01继承">
+    <Filter Include="源文件\13继承\01继承">
       <UniqueIdentifier>{ce76833f-fca5-4d43-94eb-43d09e90ee03}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\13继承\02虚函数">
+    <Filter Include="源文件\13继承\02虚函数">
       <UniqueIdentifier>{16c576b1-da59-4077-bfeb-850128b15f8c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\13继承\03单个继承">
+    <Filter Include="源文件\13继承\03单个继承">
       <UniqueIdentifier>{244267e0-eb81-4dbd-b718-663b84e7bafb}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\13继承\04多个基类">
+    <Filter Include="源文件\13继承\04多个基类">
       <UniqueIdentifier>{30b98fe7-8539-4fd5-828b-e83b6d9691bf}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\13继承\05重写">
+    <Filter Include="源文件\13继承\05重写">
       <UniqueIdentifier>{5a90de9e-512e-4b7d-b5b0-f3b0ecdf5031}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\13继承\06抽象类">
+    <Filter Include="源文件\13继承\06抽象类">
       <UniqueIdentifier>{629dd37b-40ff-4412-8cd6-d5bb8f4c23c6}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\13继承\07范围规则摘要">
+    <Filter Include="源文件\13继承\07范围规则摘要">
       <UniqueIdentifier>{1a29eb19-12ee-4567-b873-c8f68c22e612}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\13继承\08__super">
+    <Filter Include="源文件\13继承\08__super">
       <UniqueIdentifier>{e1795546-7507-4027-9795-fc41db013574}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\13继承\09__interface">
+    <Filter Include="源文件\13继承\09__interface">
       <UniqueIdentifier>{61ea1de5-d4a1-4f37-9f46-f55105a5238b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\14静态成员">
+    <Filter Include="源文件\14静态成员">
       <UniqueIdentifier>{999cd46c-0462-484c-a755-b7432efa5358}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\15用户定义的类型转换">
+    <Filter Include="源文件\15用户定义的类型转换">
       <UniqueIdentifier>{d4db463b-b7bb-4b28-8bb0-b54b3b3cc185}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\16可变数据成员">
+    <Filter Include="源文件\16可变数据成员">
       <UniqueIdentifier>{420eb792-2d6d-4713-885a-fc6ebf76346e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\17嵌套类声明">
+    <Filter Include="源文件\17嵌套类声明">
       <UniqueIdentifier>{dd530be7-ca9b-4f53-9903-14f018b28aaa}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\18匿名类类型">
+    <Filter Include="源文件\18匿名类类型">
       <UniqueIdentifier>{6bb4631a-ee92-4892-91c7-ff9f8b3abda0}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\19指向成员的指针">
+    <Filter Include="源文件\19指向成员的指针">
       <UniqueIdentifier>{c9436491-1561-419e-b579-b2bd80d32267}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\20this 指针">
+    <Filter Include="源文件\20this 指针">
       <UniqueIdentifier>{fcedb78e-6aa6-42cd-9f96-8fb366fbc5df}</UniqueIdentifier>
     </Filter>
-    <Filter Include="资源文件\21位域">
+    <Filter Include="源文件\21位域">
       <UniqueIdentifier>{e1ef66d2-a018-4e0f-941f-0c0656168b72}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="类和结构.cpp">
-      <Filter>资源文件\01类和结构</Filter>
+      <Filter>源文件\01类和结构</Filter>
     </ClCompile>
     <ClCompile Include="calss.cpp">
-      <Filter>资源文件\02class</Filter>
+      <Filter>源文件\02class</Filter>
     </ClCompile>
     <ClCompile Include="struct.cpp">
-      <Filter>资源文件\03struct</Filter>
+      <Filter>源文件\03struct</Filter>
     </ClCompile>
     <ClCompile Include="类成员概述.cpp">
-      <Filter>资源文件\04类成员概述</Filter>
+      <Filter>源文件\04类成员概述</Filter>
     </ClCompile>
     <ClCompile Include="按成员初始化.cpp">
-      <Filter>资源文件\04类成员概述</Filter>
+      <Filter>源文件\04类成员概述</Filter>
     </ClCompile>
     <ClCompile Include="01成员访问控制.cpp">
-      <Filter>资源文件\05成员访问控制\01成员访问控制</Filter>
+      <Filter>源文件\05成员访问控制\01成员访问控制</Filter>
     </ClCompile>
     <ClCompile Include="02访问控制和静态成员.cpp">
-      <Filter>资源文件\05成员访问控制\01成员访问控制</Filter>
+      <Filter>源文件\05成员访问控制\01成员访问控制</Filter>
     </ClCompile>
     <ClCompile Include="03对虚函数的访问.cpp">
-      <Filter>资源文件\05成员访问控制\01成员访问控制</Filter>
+      <Filter>源文件\05成员访问控制\01成员访问控制</Filter>
     </ClCompile>
     <ClCompile Include="01友元声明.cpp">
-      <Filter>资源文件\05成员访问控制\02友元</Filter>
+      <Filter>源文件\05成员访问控制\02友元</Filter>
     </ClCompile>
     <ClCompile Include="02友元函数.cpp">
-      <Filter>资源文件\05成员访问控制\02友元</Filter>
+      <Filter>源文件\05成员访问控制\02友元</Filter>
     </ClCompile>
     <ClCompile Include="03作为友元的类成员.cpp">
-      <Filter>资源文件\05成员访问控制\02友元</Filter>
+      <Filter>源文件\05成员访问控制\02友元</Filter>
     </ClCompile>
     <ClCompile Include="private.cpp">
-      <Filter>资源文件\05成员访问控制\03private</Filter>
+      <Filter>源文件\05成员访问控制\03private</Filter>
     </ClCompile>
     <ClCompile Include="protected.cpp">
-      <Filter>资源文件\05成员访问控制\04protected</Filter>
+      <Filter>源文件\05成员访问控制\04protected</Filter>
     </ClCompile>
     <ClCompile Include="public.cpp">
-      <Filter>资源文件\05成员访问控制\05public</Filter>
+      <Filter>源文件\05成员访问控制\05public</Filter>
     </ClCompile>
     <ClCompile Include="大括号初始化.cpp">
-      <Filter>资源文件\06大括号初始化</Filter>
+      <Filter>源文件\06大括号初始化</Filter>
     </ClCompile>
     <ClCompile Include="对象生存期和资源管理.cpp">
-      <Filter>资源文件\07对象生存期和资源管理</Filter>
+      <Filter>源文件\07对象生存期和资源管理</Filter>
     </ClCompile>
     <ClCompile Include="my_class.h">
-      <Filter>资源文件\08用于编译时封装的 Pimpl</Filter>
+      <Filter>源文件\08用于编译时封装的 Pimpl</Filter>
     </ClCompile>
     <ClCompile Include="my_class.cpp">
-      <Filter>资源文件\08用于编译时封装的 Pimpl</Filter>
+      <Filter>源文件\08用于编译时封装的 Pimpl</Filter>
     </ClCompile>
     <ClCompile Include="ABI 边界处的可移植性.cpp">
-      <Filter>资源文件\09ABI 边界处的可移植性</Filter>
+      <Filter>源文件\09ABI 边界处的可移植性</Filter>
     </ClCompile>
     <ClCompile Include="01构造函数.cpp">
-      <Filter>资源文件\10构造函数\01构造函数</Filter>
+      <Filter>源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
     <ClCompile Include="02默认构造函数.cpp">
-      <Filter>资源文件\10构造函数\01构造函数</Filter>
+      <Filter>源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
     <ClCompile Include="03复制构造函数.cpp">
-      <Filter>资源文件\10构造函数\01构造函数</Filter>
+      <Filter>源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
     <ClCompile Include="04移动构造函数.cpp">
-      <Filter>资源文件\10构造函数\01构造函数</Filter>
+      <Filter>源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
     <ClCompile Include="05构造顺序.cpp">
-      <Filter>资源文件\10构造函数\01构造函数</Filter>
+      <Filter>源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
     <ClCompile Include="06派生构造函数和扩展聚合初始化.cpp">
-      <Filter>资源文件\10构造函数\01构造函数</Filter>
+      <Filter>源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
     <ClCompile Include="07具有多个继承的类的构造函数.cpp">
-      <Filter>资源文件\10构造函数\01构造函数</Filter>
+      <Filter>源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
     <ClCompile Include="08委托构造函数.cpp">
-      <Filter>资源文件\10构造函数\01构造函数</Filter>
+      <Filter>源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
     <ClCompile Include="09继承.cpp">
-      <Filter>资源文件\10构造函数\01构造函数</Filter>
+      <Filter>源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
     <ClCompile Include="10构造函数和复合类.cpp">
-      <Filter>资源文件\10构造函数\01构造函数</Filter>
+      <Filter>源文件\10构造函数\01构造函数</Filter>
     </ClCompile>
     <ClCompile Include="复制构造函数和复制赋值运算符.cpp">
-      <Filter>资源文件\10构造函数\02复制构造函数和复制赋值运算符</Filter>
+      <Filter>源文件\10构造函数\02复制构造函数和复制赋值运算符</Filter>
     </ClCompile>
     <ClCompile Include="01移动构造函数和移动赋值运算符.cpp">
-      <Filter>资源文件\10构造函数\03移动构造函数和移动赋值运算符</Filter>
+      <Filter>源文件\10构造函数\03移动构造函数和移动赋值运算符</Filter>
     </ClCompile>
     <ClCompile Include="委托构造函数.cpp">
-      <Filter>资源文件\10构造函数\04委托构造函数</Filter>
+      <Filter>源文件\10构造函数\04委托构造函数</Filter>
     </ClCompile>
     <ClCompile Include="析构函数.cpp">
-      <Filter>资源文件\11析构函数</Filter>
+      <Filter>源文件\11析构函数</Filter>
     </ClCompile>
     <ClCompile Include="析构的顺序.cpp">
-      <Filter>资源文件\11析构函数</Filter>
+      <Filter>源文件\11析构函数</Filter>
     </ClCompile>
     <ClCompile Include="01成员函数概述.cpp">
-      <Filter>资源文件\12成员函数概述</Filter>
+      <Filter>源文件\12成员函数概述</Filter>
     </ClCompile>
     <ClCompile Include="02虚拟说明符.cpp">
-      <Filter>资源文件\12成员函数概述</Filter>
+      <Filter>源文件\12成员函数概述</Filter>
     </ClCompile>
     <ClCompile Include="03override 说明符.cpp">
-      <Filter>资源文件\12成员函数概述</Filter>
+      <Filter>源文件\12成员函数概述</Filter>
     </ClCompile>
     <ClCompile Include="04final说明符.cpp">
-      <Filter>资源文件\12成员函数概述</Filter>
+      <Filter>源文件\12成员函数概述</Filter>
     </ClCompile>
     <ClCompile Include="继承.cpp">
-      <Filter>资源文件\13继承\01继承</Filter>
+      <Filter>源文件\13继承\01继承</Filter>
     </ClCompile>
     <ClCompile Include="虚函数.cpp">
-      <Filter>资源文件\13继承\02虚函数</Filter>
+      <Filter>源文件\13继承\02虚函数</Filter>
     </ClCompile>
     <ClCompile Include="单个继承.cpp">
-      <Filter>资源文件\13继承\03单个继承</Filter>
+      <Filter>源文件\13继承\03单个继承</Filter>
     </ClCompile>
     <ClCompile Include="01多个基类.cpp">
-      <Filter>资源文件\13继承\04多个基类</Filter>
+      <Filter>源文件\13继承\04多个基类</Filter>
     </ClCompile>
     <ClCompile Include="02虚拟基类.cpp">
-      <Filter>资源文件\13继承\04多个基类</Filter>
+      <Filter>源文件\13继承\04多个基类</Filter>
     </ClCompile>
     <ClCompile Include="03名称多义性.cpp">
-      <Filter>资源文件\13继承\04多个基类</Filter>
+      <Filter>源文件\13继承\04多个基类</Filter>
     </ClCompile>
     <ClCompile Include="04主导.cpp">
-      <Filter>资源文件\13继承\04多个基类</Filter>
+      <Filter>源文件\13继承\04多个基类</Filter>
     </ClCompile>
     <ClCompile Include="显示重写.cpp">
-      <Filter>资源文件\13继承\05重写</Filter>
+      <Filter>源文件\13继承\05重写</Filter>
     </ClCompile>
     <ClCompile Include="01抽象类.cpp">
-      <Filter>资源文件\13继承\06抽象类</Filter>
+      <Filter>源文件\13继承\06抽象类</Filter>
     </ClCompile>
     <ClCompile Include="02定义的纯虚拟函数.cpp">
-      <Filter>资源文件\13继承\06抽象类</Filter>
+      <Filter>源文件\13继承\06抽象类</Filter>
     </ClCompile>
     <ClCompile Include="范围规则摘要.cpp">
-      <Filter>资源文件\13继承\07范围规则摘要</Filter>
+      <Filter>源文件\13继承\07范围规则摘要</Filter>
     </ClCompile>
     <ClCompile Include="super.cpp">
-      <Filter>资源文件\13继承\08__super</Filter>
+      <Filter>源文件\13继承\08__super</Filter>
     </ClCompile>
     <ClCompile Include="__interface.cpp">
-      <Filter>资源文件\13继承\09__interface</Filter>
+      <Filter>源文件\13继承\09__interface</Filter>
     </ClCompile>
     <ClCompile Include="静态成员.cpp">
-      <Filter>资源文件\14静态成员</Filter>
+      <Filter>源文件\14静态成员</Filter>
     </ClCompile>
     <ClCompile Include="01用户定义的类型转换 .cpp">
-      <Filter>资源文件\15用户定义的类型转换</Filter>
+      <Filter>源文件\15用户定义的类型转换</Filter>
     </ClCompile>
     <ClCompile Include="02转换构造函数.cpp">
-      <Filter>资源文件\15用户定义的类型转换</Filter>
+      <Filter>源文件\15用户定义的类型转换</Filter>
     </ClCompile>
     <ClCompile Include="03显式转换构造函数.cpp">
-      <Filter>资源文件\15用户定义的类型转换</Filter>
+      <Filter>源文件\15用户定义的类型转换</Filter>
     </ClCompile>
     <ClCompile Include="可变数据成员.cpp">
-      <Filter>资源文件\16可变数据成员</Filter>
+      <Filter>源文件\16可变数据成员</Filter>
     </ClCompile>
     <ClCompile Include="01嵌套类声明.cpp">
-      <Filter>资源文件\17嵌套类声明</Filter>
+      <Filter>源文件\17嵌套类声明</Filter>
     </ClCompile>
     <ClCompile Include="02嵌套类中的成员函数.cpp">
-      <Filter>资源文件\17嵌套类声明</Filter>
+      <Filter>源文件\17嵌套类声明</Filter>
     </ClCompile>
     <ClCompile Include="03嵌套类中的友元函数.cpp">
-      <Filter>资源文件\17嵌套类声明</Filter>
+      <Filter>源文件\17嵌套类声明</Filter>
     </ClCompile>
     <ClCompile Include="匿名类类型.cpp">
-      <Filter>资源文件\18匿名类类型</Filter>
+      <Filter>源文件\18匿名类类型</Filter>
     </ClCompile>
     <ClCompile Include="匿名结构.cpp">
-      <Filter>资源文件\18匿名类类型</Filter>
+      <Filter>源文件\18匿名类类型</Filter>
     </ClCompile>
     <ClCompile Include="01指向成员的指针.cpp">
-      <Filter>资源文件\19指向成员的指针</Filter>
+      <Filter>源文件\19指向成员的指针</Filter>
     </ClCompile>
     <ClCompile Include="02指向成员和虚函数的指针.cpp">
-      <Filter>资源文件\19指向成员的指针</Filter>
+      <Filter>源文件\19指向成员的指针</Filter>
     </ClCompile>
     <ClCompile Include="this指针.cpp">
-      <Filter>资源文件\20this 指针</Filter>
+      <Filter>源文件\20this 指针</Filter>
     </ClCompile>
     <ClCompile Include="21位域.cpp">
-      <Filter>资源文件\21位域</Filter>
+      <Filter>源文件\21位域</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

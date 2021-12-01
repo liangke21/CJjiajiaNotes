@@ -30,5 +30,8 @@
     <ClCompile Include="05初始化数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="06访问数组元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

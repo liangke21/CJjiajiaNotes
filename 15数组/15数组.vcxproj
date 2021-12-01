@@ -144,6 +144,7 @@
     <ClCompile Include="03将数组传递给函数.cpp" />
     <ClCompile Include="04多维数组.cpp" />
     <ClCompile Include="05初始化数组.cpp" />
+    <ClCompile Include="06访问数组元素.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
