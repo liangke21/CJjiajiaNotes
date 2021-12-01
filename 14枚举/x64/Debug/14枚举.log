@@ -1,3 +1,2 @@
-﻿  02枚举器范围.cpp
-  03没有枚举器的枚举.cpp
-  14枚举.vcxproj -> G:\C++Notes\x64\Debug\14枚举.exe
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+G:\C++Notes\x64\Debug\14枚举.exe : fatal error LNK1120: 1 个无法解析的外部命令
