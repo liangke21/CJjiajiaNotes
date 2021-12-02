@@ -24,5 +24,8 @@
     <ClCompile Include="02初始化和成员访问.cpp">
       <Filter>源文件\01原始指针</Filter>
     </ClCompile>
+    <ClCompile Include="03指针算法和数组.cpp">
+      <Filter>源文件\01原始指针</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
