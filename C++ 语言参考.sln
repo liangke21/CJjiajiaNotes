@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15数组", "15数组\15数�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16references(引用)", "16references(引用)\16references(引用).vcxproj", "{C5DEB861-E331-4662-9824-B3DB91DE223C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17指针", "17指针\17指针.vcxproj", "{D40DD5DE-7825-4273-9BFA-BCCBC5ABF59D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{C5DEB861-E331-4662-9824-B3DB91DE223C}.Release|x64.Build.0 = Release|x64
 		{C5DEB861-E331-4662-9824-B3DB91DE223C}.Release|x86.ActiveCfg = Release|Win32
 		{C5DEB861-E331-4662-9824-B3DB91DE223C}.Release|x86.Build.0 = Release|Win32
+		{D40DD5DE-7825-4273-9BFA-BCCBC5ABF59D}.Debug|x64.ActiveCfg = Debug|x64
+		{D40DD5DE-7825-4273-9BFA-BCCBC5ABF59D}.Debug|x64.Build.0 = Debug|x64
+		{D40DD5DE-7825-4273-9BFA-BCCBC5ABF59D}.Debug|x86.ActiveCfg = Debug|Win32
+		{D40DD5DE-7825-4273-9BFA-BCCBC5ABF59D}.Debug|x86.Build.0 = Debug|Win32
+		{D40DD5DE-7825-4273-9BFA-BCCBC5ABF59D}.Release|x64.ActiveCfg = Release|x64
+		{D40DD5DE-7825-4273-9BFA-BCCBC5ABF59D}.Release|x64.Build.0 = Release|x64
+		{D40DD5DE-7825-4273-9BFA-BCCBC5ABF59D}.Release|x86.ActiveCfg = Release|Win32
+		{D40DD5DE-7825-4273-9BFA-BCCBC5ABF59D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
