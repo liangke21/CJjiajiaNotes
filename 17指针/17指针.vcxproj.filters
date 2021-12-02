@@ -34,6 +34,9 @@
     <Filter Include="源文件\07如何：创建和使用 weak_ptr 实例">
       <UniqueIdentifier>{cb010da3-c1fd-47dd-85aa-5a0666c14a75}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\08如何：创建和使用 CComPtr 和 CComQIPtr 实例">
+      <UniqueIdentifier>{ceb1beb0-6eea-42b1-ab60-8d18549b5ec2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01原始指针.cpp">
@@ -71,6 +74,9 @@
     </ClCompile>
     <ClCompile Include="如何创建和使用weak_ptr实例.cpp">
       <Filter>源文件\07如何：创建和使用 weak_ptr 实例</Filter>
+    </ClCompile>
+    <ClCompile Include="如何创建和使用 CComPtr 和 CComQIPtr 实例.cpp">
+      <Filter>源文件\08如何：创建和使用 CComPtr 和 CComQIPtr 实例</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

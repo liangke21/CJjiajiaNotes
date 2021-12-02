@@ -149,6 +149,7 @@
     <ClCompile Include="04void指针.cpp" />
     <ClCompile Include="05指向函数的指针.cpp" />
     <ClCompile Include="固定和可变指针.cpp" />
+    <ClCompile Include="如何创建和使用 CComPtr 和 CComQIPtr 实例.cpp" />
     <ClCompile Include="如何创建和使用shared_ptr实例.cpp" />
     <ClCompile Include="如何创建和使用unique_ptr实例.cpp" />
     <ClCompile Include="如何创建和使用weak_ptr实例.cpp">
