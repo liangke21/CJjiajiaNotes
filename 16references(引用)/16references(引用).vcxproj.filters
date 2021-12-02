@@ -25,6 +25,9 @@
     <Filter Include="源文件\04引用类型函数自变量">
       <UniqueIdentifier>{b2cba3f8-8f39-4eb3-808f-515516d879b2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\05引用类型函数返回">
+      <UniqueIdentifier>{059c853e-a7a5-4979-9b80-ea3ec3b4713e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01引用.cpp">
@@ -41,6 +44,9 @@
     </ClCompile>
     <ClCompile Include="引用类型函数自变量.cpp">
       <Filter>源文件\04引用类型函数自变量</Filter>
+    </ClCompile>
+    <ClCompile Include="引用类型的函数返回.cpp">
+      <Filter>源文件\05引用类型函数返回</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
