@@ -17,10 +17,11 @@ void* Blanks::operator new(size_t stAllocateBlock, char chInit)
 // 对于 Blanks 类型的离散对象，全局运算符 new 函数
 // 是隐藏的。因此，下面的代码分配了一个类型为
 // 清空并将其初始化为 0xa5
-int main0301()
+int main030101()
 {
     Blanks* a5 = new(0xa5) Blanks;
     return a5 != 0;
+   
 }
 
 //编译器支持类声明中的成员 newdelete 数组和运算符。 例如：
@@ -36,7 +37,7 @@ public:
     }
 };
 
-int main0302()
+int main030201()
 {
     MyClass* pMyClass = new MyClass[5];
     delete[] pMyClass;

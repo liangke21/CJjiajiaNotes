@@ -45,5 +45,8 @@
     <ClCompile Include="01new运算符.cpp">
       <Filter>源文件\03new 和 delete 运算符</Filter>
     </ClCompile>
+    <ClCompile Include="02delete运算符.cpp">
+      <Filter>源文件\03new 和 delete 运算符</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
