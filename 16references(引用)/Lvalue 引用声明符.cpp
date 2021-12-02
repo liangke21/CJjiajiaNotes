@@ -10,7 +10,7 @@ struct Person
     short Age;
 };
 
-int main0201()
+int main0202()
 {
 // 声明一个 Person 对象。
     Person myFriend;

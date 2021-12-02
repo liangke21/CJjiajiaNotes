@@ -19,6 +19,12 @@
     <Filter Include="源文件\02Lvalue引用声明符&amp;">
       <UniqueIdentifier>{b0fc3cc5-e8c8-480f-bab4-91cd9de36dd9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\03右值引用声明符">
+      <UniqueIdentifier>{aa7c4a6b-52a7-434c-b365-272238381371}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04引用类型函数自变量">
+      <UniqueIdentifier>{b2cba3f8-8f39-4eb3-808f-515516d879b2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01引用.cpp">
@@ -26,6 +32,15 @@
     </ClCompile>
     <ClCompile Include="Lvalue 引用声明符.cpp">
       <Filter>源文件\02Lvalue引用声明符&amp;</Filter>
+    </ClCompile>
+    <ClCompile Include="01完美转发.cpp">
+      <Filter>源文件\03右值引用声明符</Filter>
+    </ClCompile>
+    <ClCompile Include="02右值引用的属性.cpp">
+      <Filter>源文件\03右值引用声明符</Filter>
+    </ClCompile>
+    <ClCompile Include="引用类型函数自变量.cpp">
+      <Filter>源文件\04引用类型函数自变量</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

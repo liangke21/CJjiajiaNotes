@@ -139,8 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01完美转发.cpp" />
     <ClCompile Include="01引用.cpp" />
+    <ClCompile Include="02右值引用的属性.cpp" />
     <ClCompile Include="Lvalue 引用声明符.cpp" />
+    <ClCompile Include="引用类型函数自变量.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
