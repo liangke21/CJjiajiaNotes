@@ -28,6 +28,9 @@
     <Filter Include="源文件\05如何：创建和使用 unique_ptr 实例">
       <UniqueIdentifier>{60b9df6f-9315-4ebb-8d71-388b57f92fea}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\06如何：创建和使用 shared_ptr 实例">
+      <UniqueIdentifier>{e0977c04-8c36-466e-a764-edf59389e3e2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01原始指针.cpp">
@@ -59,6 +62,9 @@
     </ClCompile>
     <ClCompile Include="如何创建和使用unique_ptr实例.cpp">
       <Filter>源文件\05如何：创建和使用 unique_ptr 实例</Filter>
+    </ClCompile>
+    <ClCompile Include="如何创建和使用shared_ptr实例.cpp">
+      <Filter>源文件\06如何：创建和使用 shared_ptr 实例</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -82,7 +82,7 @@ using namespace std;
 // 示例 4 可以使用 make_unique 创建数组的 ，但不能使用 make_unique 初始化数组元素。
 
 
-int main0501() {
+int main170501() {
 
     // 为包含 5 个整数的数组创建唯一的 ptr。
     auto p = make_unique<int[]>(5);
