@@ -31,6 +31,9 @@
     <Filter Include="源文件\06如何：创建和使用 shared_ptr 实例">
       <UniqueIdentifier>{e0977c04-8c36-466e-a764-edf59389e3e2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\07如何：创建和使用 weak_ptr 实例">
+      <UniqueIdentifier>{cb010da3-c1fd-47dd-85aa-5a0666c14a75}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01原始指针.cpp">
@@ -65,6 +68,9 @@
     </ClCompile>
     <ClCompile Include="如何创建和使用shared_ptr实例.cpp">
       <Filter>源文件\06如何：创建和使用 shared_ptr 实例</Filter>
+    </ClCompile>
+    <ClCompile Include="如何创建和使用weak_ptr实例.cpp">
+      <Filter>源文件\07如何：创建和使用 weak_ptr 实例</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

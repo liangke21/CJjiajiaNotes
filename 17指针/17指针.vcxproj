@@ -151,6 +151,9 @@
     <ClCompile Include="固定和可变指针.cpp" />
     <ClCompile Include="如何创建和使用shared_ptr实例.cpp" />
     <ClCompile Include="如何创建和使用unique_ptr实例.cpp" />
+    <ClCompile Include="如何创建和使用weak_ptr实例.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Default</LanguageStandard>
+    </ClCompile>
     <ClCompile Include="智能指针的使用.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
