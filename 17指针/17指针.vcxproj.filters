@@ -19,6 +19,9 @@
     <Filter Include="源文件\02固定和可变指针">
       <UniqueIdentifier>{77927c2e-bfd6-4c40-aaad-de211965294e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\03new 和 delete 运算符">
+      <UniqueIdentifier>{0e990383-5466-4fb6-b2fd-c4c2ef468ab9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01原始指针.cpp">
@@ -38,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="固定和可变指针.cpp">
       <Filter>源文件\02固定和可变指针</Filter>
+    </ClCompile>
+    <ClCompile Include="01new运算符.cpp">
+      <Filter>源文件\03new 和 delete 运算符</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -33,7 +33,7 @@ namespace c {
 	char ch = 'B';
 }
 //鉴于上述两个对象的声明 (类型为 cchcch和 的类型 chch) ，以下声明/初始化有效：
-int main0201() {
+int main02012() {
 	using namespace a;
 	using namespace b;
 	using namespace c;
