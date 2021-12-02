@@ -54,7 +54,7 @@ void*按 char (1 字节) 的大小增加。 类型化指针将按它所指向的类型的大小增加。
 
 using namespace std;
 
-int main0301()
+int main0302()
 {
 
     BITMAPINFOHEADER header;
