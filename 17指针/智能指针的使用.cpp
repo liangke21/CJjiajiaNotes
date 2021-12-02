@@ -1,6 +1,5 @@
 
 
-//创建智能指针   std::unique_ptr<LargeObject> pLarge(new LargeObject());
 
 
 /*

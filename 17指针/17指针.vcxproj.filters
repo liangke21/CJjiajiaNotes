@@ -22,6 +22,12 @@
     <Filter Include="源文件\03new 和 delete 运算符">
       <UniqueIdentifier>{0e990383-5466-4fb6-b2fd-c4c2ef468ab9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04智能指针的使用">
+      <UniqueIdentifier>{0c66d101-0f01-4ec4-a83d-31b87e56b4d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05如何：创建和使用 unique_ptr 实例">
+      <UniqueIdentifier>{60b9df6f-9315-4ebb-8d71-388b57f92fea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01原始指针.cpp">
@@ -47,6 +53,12 @@
     </ClCompile>
     <ClCompile Include="02delete运算符.cpp">
       <Filter>源文件\03new 和 delete 运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="智能指针的使用.cpp">
+      <Filter>源文件\04智能指针的使用</Filter>
+    </ClCompile>
+    <ClCompile Include="如何创建和使用unique_ptr实例.cpp">
+      <Filter>源文件\05如何：创建和使用 unique_ptr 实例</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

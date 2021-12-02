@@ -149,6 +149,8 @@
     <ClCompile Include="04void指针.cpp" />
     <ClCompile Include="05指向函数的指针.cpp" />
     <ClCompile Include="固定和可变指针.cpp" />
+    <ClCompile Include="如何创建和使用unique_ptr实例.cpp" />
+    <ClCompile Include="智能指针的使用.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
