@@ -145,6 +145,8 @@
     <ClCompile Include="02初始化和成员访问.cpp" />
     <ClCompile Include="03指针算法和数组.cpp" />
     <ClCompile Include="04void指针.cpp" />
+    <ClCompile Include="05指向函数的指针.cpp" />
+    <ClCompile Include="固定和可变指针.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
