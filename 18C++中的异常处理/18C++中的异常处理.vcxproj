@@ -140,8 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\C++中的异常处理\异常和错误处理的新式 c + + 最佳做法.cpp" />
+    <ClCompile Include="Catch 块的计算方式.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
+    </ClCompile>
+    <ClCompile Include="try、throw 和 catch 语句.cpp" />
     <ClCompile Include="如何异常安全设计.cpp" />
+    <ClCompile Include="异常和堆栈展开.cpp" />
     <ClCompile Include="异常和非异常代码之间的接口.cpp" />
+    <ClCompile Include="异常规范.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

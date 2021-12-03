@@ -22,6 +22,18 @@
     <Filter Include="源文件\03如何：异常和非异常代码之间的接口">
       <UniqueIdentifier>{25d38512-7c2f-45b9-b25e-31a296eda9a9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04tryt hrow和catch 语句">
+      <UniqueIdentifier>{d4d9ed7f-03f7-4e23-ba45-99a500baf148}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05Catch 块的计算方式">
+      <UniqueIdentifier>{32235823-8352-4a09-b532-841c5549dc9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\06异常和堆栈展开">
+      <UniqueIdentifier>{78f1506f-ac19-4190-88e1-8f1a055e57c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\07异常规范">
+      <UniqueIdentifier>{69186b7e-2647-411e-b3d6-9c6c97cff0b2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\C++中的异常处理\异常和错误处理的新式 c + + 最佳做法.cpp">
@@ -32,6 +44,18 @@
     </ClCompile>
     <ClCompile Include="异常和非异常代码之间的接口.cpp">
       <Filter>源文件\03如何：异常和非异常代码之间的接口</Filter>
+    </ClCompile>
+    <ClCompile Include="try、throw 和 catch 语句.cpp">
+      <Filter>源文件\04tryt hrow和catch 语句</Filter>
+    </ClCompile>
+    <ClCompile Include="Catch 块的计算方式.cpp">
+      <Filter>源文件\05Catch 块的计算方式</Filter>
+    </ClCompile>
+    <ClCompile Include="异常和堆栈展开.cpp">
+      <Filter>源文件\06异常和堆栈展开</Filter>
+    </ClCompile>
+    <ClCompile Include="异常规范.cpp">
+      <Filter>源文件\07异常规范</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
