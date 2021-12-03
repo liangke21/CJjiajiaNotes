@@ -43,11 +43,17 @@
     <Filter Include="源文件\10处理 C++ 中的结构性异常">
       <UniqueIdentifier>{1bc8011b-1eea-4d65-bd2f-5ebf75436a96}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\11try-except 语句">
+      <UniqueIdentifier>{d52890ff-62e5-4545-893f-cea2579ce90f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\12清理资源">
+      <UniqueIdentifier>{84aa435b-b5f8-4a99-b4fd-462034f4586c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\13在线程之间传输异常">
+      <UniqueIdentifier>{f33bc8f3-8434-4fbc-91d8-6a44f4d857f1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\C++中的异常处理\异常和错误处理的新式 c + + 最佳做法.cpp">
-      <Filter>源文件\01异常和错误处理的新式 c + + 最佳做法</Filter>
-    </ClCompile>
     <ClCompile Include="如何异常安全设计.cpp">
       <Filter>源文件\02如何：异常安全设计</Filter>
     </ClCompile>
@@ -74,6 +80,21 @@
     </ClCompile>
     <ClCompile Include="处理 C++ 中的结构性异常.cpp">
       <Filter>源文件\10处理 C++ 中的结构性异常</Filter>
+    </ClCompile>
+    <ClCompile Include="01try-except 语句.cpp">
+      <Filter>源文件\11try-except 语句</Filter>
+    </ClCompile>
+    <ClCompile Include="02编写异常筛选器.cpp">
+      <Filter>源文件\11try-except 语句</Filter>
+    </ClCompile>
+    <ClCompile Include="清理资源.cpp">
+      <Filter>源文件\12清理资源</Filter>
+    </ClCompile>
+    <ClCompile Include="异常和错误处理的新式 c + + 最佳做法.cpp">
+      <Filter>源文件\01异常和错误处理的新式 c + + 最佳做法</Filter>
+    </ClCompile>
+    <ClCompile Include="在线程之间传输异常.cpp">
+      <Filter>源文件\13在线程之间传输异常</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

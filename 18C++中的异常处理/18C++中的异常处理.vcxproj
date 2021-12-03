@@ -139,22 +139,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\C++中的异常处理\异常和错误处理的新式 c + + 最佳做法.cpp" />
+    <ClCompile Include="02编写异常筛选器.cpp" />
     <ClCompile Include="Catch 块的计算方式.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
     <ClCompile Include="noexcept.cpp" />
+    <ClCompile Include="01try-except 语句.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp17</LanguageStandard>
+    </ClCompile>
     <ClCompile Include="try、throw 和 catch 语句.cpp" />
+    <ClCompile Include="在线程之间传输异常.cpp" />
     <ClCompile Include="处理 C++ 中的结构性异常.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
     <ClCompile Include="如何异常安全设计.cpp" />
     <ClCompile Include="异常和堆栈展开.cpp" />
+    <ClCompile Include="异常和错误处理的新式 c + + 最佳做法.cpp" />
     <ClCompile Include="异常和非异常代码之间的接口.cpp" />
     <ClCompile Include="异常规范.cpp" />
     <ClCompile Include="未处理的 C++ 异常.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="清理资源.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
