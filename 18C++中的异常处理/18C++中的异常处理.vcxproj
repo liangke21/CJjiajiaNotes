@@ -143,6 +143,7 @@
     <ClCompile Include="Catch 块的计算方式.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="noexcept.cpp" />
     <ClCompile Include="try、throw 和 catch 语句.cpp" />
     <ClCompile Include="如何异常安全设计.cpp" />
     <ClCompile Include="异常和堆栈展开.cpp" />
