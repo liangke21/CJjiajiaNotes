@@ -16,6 +16,9 @@
     <Filter Include="源文件\01C++ 中的模块概述">
       <UniqueIdentifier>{4c081eff-2123-431a-862a-48ccd9d13108}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\02模块导入导出">
+      <UniqueIdentifier>{cd44e1e9-4740-439f-8182-438c5627f8cb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01基本示例.cpp">
@@ -23,6 +26,21 @@
     </ClCompile>
     <ClCompile Include="Foo.ixx">
       <Filter>源文件\01C++ 中的模块概述</Filter>
+    </ClCompile>
+    <ClCompile Include="ModuleA.ixx">
+      <Filter>源文件\02模块导入导出</Filter>
+    </ClCompile>
+    <ClCompile Include="module.cpp">
+      <Filter>源文件\02模块导入导出</Filter>
+    </ClCompile>
+    <ClCompile Include="MyProgram.cpp">
+      <Filter>源文件\02模块导入导出</Filter>
+    </ClCompile>
+    <ClCompile Include="import.cpp">
+      <Filter>源文件\02模块导入导出</Filter>
+    </ClCompile>
+    <ClCompile Include="注解.cpp">
+      <Filter>源文件\02模块导入导出</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
