@@ -37,6 +37,9 @@
     <Filter Include="源文件\08noexcept">
       <UniqueIdentifier>{1890a77a-6eb3-4913-9b2b-8f3c1798543f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\09未处理的 C++ 异常">
+      <UniqueIdentifier>{a018828e-8c5e-448f-8664-cf965a28d14b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\C++中的异常处理\异常和错误处理的新式 c + + 最佳做法.cpp">
@@ -62,6 +65,9 @@
     </ClCompile>
     <ClCompile Include="noexcept.cpp">
       <Filter>源文件\08noexcept</Filter>
+    </ClCompile>
+    <ClCompile Include="未处理的 C++ 异常.cpp">
+      <Filter>源文件\09未处理的 C++ 异常</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -21,7 +21,7 @@ public:
 	void func3() noexcept { func(); }
 };
 
-int main() {
+int main180801() {
 	name a;
 	try
 	{
@@ -53,7 +53,7 @@ int main() {
 	}
 
 
-
+	return 00;
 
 
 }

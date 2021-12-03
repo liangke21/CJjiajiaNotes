@@ -149,6 +149,9 @@
     <ClCompile Include="异常和堆栈展开.cpp" />
     <ClCompile Include="异常和非异常代码之间的接口.cpp" />
     <ClCompile Include="异常规范.cpp" />
+    <ClCompile Include="未处理的 C++ 异常.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
