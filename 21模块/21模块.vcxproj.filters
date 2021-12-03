@@ -13,19 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\01断言和用户提供的消息">
-      <UniqueIdentifier>{fabfd82f-39c7-4e55-a33a-ce96337d34f1}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\02static_assert">
-      <UniqueIdentifier>{258caed2-1eda-44c2-82f8-4b9fe24e1042}</UniqueIdentifier>
+    <Filter Include="源文件\01C++ 中的模块概述">
+      <UniqueIdentifier>{4c081eff-2123-431a-862a-48ccd9d13108}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="断言和用户提供的消息.cpp">
-      <Filter>源文件\01断言和用户提供的消息</Filter>
+    <ClCompile Include="01基本示例.cpp">
+      <Filter>源文件\01C++ 中的模块概述</Filter>
     </ClCompile>
-    <ClCompile Include="static_assert.cpp">
-      <Filter>源文件\02static_assert</Filter>
+    <ClCompile Include="Foo.ixx">
+      <Filter>源文件\01C++ 中的模块概述</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

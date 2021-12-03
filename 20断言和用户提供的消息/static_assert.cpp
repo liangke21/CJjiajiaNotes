@@ -22,3 +22,40 @@ string-literal
 可以在命名空间 static_assert 、类或块范围中使用 关键字。 (关键字在技术上是声明，即使它不会在程序中引入新名称，因为它可以在 static_assert 命名空间 scope.)
 
 */
+
+//static_assert 具有类范围
+
+#include <type_traits>
+#include <iosfwd>
+namespace std {
+    template <class CharT, class Traits = std::char_traits<CharT> >
+    class basic_string {
+        static_assert(std::is_pod<CharT>::value,
+            "模板参数 Char T 必须是类模板基本字符串中的 POD 类型");
+        // ...
+    };
+}
+
+
+struct NonPOD {
+    NonPOD(const NonPOD&) {}
+    virtual ~NonPOD() {}
+};
+
+int main()
+{
+    std::basic_string<char> bs;
+}
+//示例： static_assert 在块范围内
+//#include <sys/param.h> // 定义 PAGESIZE
+//class VMMClient {
+//public:
+//    struct VMPage { // ...
+//    };
+//    int check_pagesize() {
+//        static_assert(sizeof(VMPage) == PAGESIZE,
+//            "Struct VMPage must be the same size as a system virtual memory page.");
+//        // ...
+//    }
+//    // ...
+//};

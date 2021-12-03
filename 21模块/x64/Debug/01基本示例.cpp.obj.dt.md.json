@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\c++notes\\21模块\\01基本示例.cpp",
+        "ProvidedModule": "",
+        "ImportedModules": [
+            "Foo"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
