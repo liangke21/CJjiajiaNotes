@@ -43,6 +43,9 @@
     <Filter Include="源文件\04函数模板\06成员函数模板">
       <UniqueIdentifier>{4e4b507c-3194-4566-98ee-1b8b05e65584}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\05模板特殊化">
+      <UniqueIdentifier>{b6241a4b-20ab-4835-b870-5f11cf77a9f8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01定义模板.cpp">
@@ -101,6 +104,15 @@
     </ClCompile>
     <ClCompile Include="成员函数模板.cpp">
       <Filter>源文件\04函数模板\06成员函数模板</Filter>
+    </ClCompile>
+    <ClCompile Include="01类模板的部分专用化.cpp">
+      <Filter>源文件\05模板特殊化</Filter>
+    </ClCompile>
+    <ClCompile Include="02指针类型的部分专用化.cpp">
+      <Filter>源文件\05模板特殊化</Filter>
+    </ClCompile>
+    <ClCompile Include="03定义部分专用化，使一种类型为 int.cpp">
+      <Filter>源文件\05模板特殊化</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

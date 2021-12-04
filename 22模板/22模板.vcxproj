@@ -143,7 +143,9 @@
     <ClCompile Include="01定义模板.cpp" />
     <ClCompile Include="01类模板的成员函数.cpp" />
     <ClCompile Include="02嵌套类模板.cpp" />
+    <ClCompile Include="02指针类型的部分专用化.cpp" />
     <ClCompile Include="02类型参数.cpp" />
+    <ClCompile Include="03定义部分专用化，使一种类型为 int.cpp" />
     <ClCompile Include="03模板朋友.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
@@ -164,6 +166,7 @@
     <ClCompile Include="显式实例化.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="01类模板的部分专用化.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
