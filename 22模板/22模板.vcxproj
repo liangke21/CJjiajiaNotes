@@ -152,6 +152,7 @@
     <ClCompile Include="05类模板中声明的友元类模板.cpp" />
     <ClCompile Include="05默认模板参数.cpp" />
     <ClCompile Include="06模板特殊化.cpp" />
+    <ClCompile Include="06重用模板参数.cpp" />
     <ClCompile Include="typename.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
