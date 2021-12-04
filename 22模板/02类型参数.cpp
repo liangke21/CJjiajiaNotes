@@ -33,15 +33,15 @@ public:
     std::wstring description;
 };
 
-int main220102012()
-{
-    MyClass mc1{ 1, L"hello" };
-    MyClass mc2{ 2, L"goodbye" };
-    auto result = minimum2(mc1, mc2); // Error! C2678
-
-    cout << result.num << endl;
-
-
-    return 0;
-
-}
+//int main22A()
+//{
+//    MyClass mc1{ 1, L"hello" };
+//    MyClass mc2{ 2, L"goodbye" };
+//    auto result = minimum2(mc1, mc2); // Error! C2678
+//
+//    cout << result.num << endl;
+//
+//
+//    return 0;
+//
+//}

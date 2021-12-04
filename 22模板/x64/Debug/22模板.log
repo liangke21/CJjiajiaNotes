@@ -1,4 +1,2 @@
-﻿  03非类型参数.cpp
-  LINK : 没有找到 G:\C++Notes\x64\Debug\22模板.exe 或上一个增量链接没有生成它；正在执行完全链接
-03非类型参数.obj : error LNK2005: "int __cdecl main220102012(void)" (?main220102012@@YAHXZ) 已经在 02类型参数.obj 中定义
-G:\C++Notes\x64\Debug\22模板.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+﻿  04非类型模板参数的类型推导.cpp
+  22模板.vcxproj -> G:\C++Notes\x64\Debug\22模板.exe
