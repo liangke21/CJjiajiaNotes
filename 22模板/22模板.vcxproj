@@ -147,7 +147,9 @@
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
     <ClCompile Include="03非类型参数.cpp" />
+    <ClCompile Include="04具有模板专用化的友.cpp" />
     <ClCompile Include="04非类型模板参数的类型推导.cpp" />
+    <ClCompile Include="05类模板中声明的友元类模板.cpp" />
     <ClCompile Include="05默认模板参数.cpp" />
     <ClCompile Include="06模板特殊化.cpp" />
     <ClCompile Include="typename.cpp">

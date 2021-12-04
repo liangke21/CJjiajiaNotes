@@ -54,5 +54,11 @@
     <ClCompile Include="03模板朋友.cpp">
       <Filter>源文件\03类模板</Filter>
     </ClCompile>
+    <ClCompile Include="04具有模板专用化的友.cpp">
+      <Filter>源文件\03类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="05类模板中声明的友元类模板.cpp">
+      <Filter>源文件\03类模板</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
