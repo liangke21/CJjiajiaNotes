@@ -22,6 +22,15 @@
     <Filter Include="源文件\03类模板">
       <UniqueIdentifier>{4db159b2-9b86-48c3-8300-b732cf63a8d5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04函数模板">
+      <UniqueIdentifier>{11c44bae-5da4-44f5-a909-164bacf63738}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04函数模板\01函数模板">
+      <UniqueIdentifier>{032375db-e6dc-4b19-a77d-faba6b0c09fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04函数模板\02函数模板实例化">
+      <UniqueIdentifier>{2a382e95-0907-4048-951c-4661b3c2a78a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01定义模板.cpp">
@@ -62,6 +71,12 @@
     </ClCompile>
     <ClCompile Include="06重用模板参数.cpp">
       <Filter>源文件\03类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="01函数模板.cpp">
+      <Filter>源文件\04函数模板\01函数模板</Filter>
+    </ClCompile>
+    <ClCompile Include="函数模板实例化.cpp">
+      <Filter>源文件\04函数模板\02函数模板实例化</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01函数模板.cpp" />
     <ClCompile Include="01定义模板.cpp" />
     <ClCompile Include="01类模板的成员函数.cpp" />
     <ClCompile Include="02嵌套类模板.cpp" />
@@ -156,6 +157,7 @@
     <ClCompile Include="typename.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
+    <ClCompile Include="函数模板实例化.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
