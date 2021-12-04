@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="01定义模板.cpp" />
     <ClCompile Include="02类型参数.cpp" />
+    <ClCompile Include="03非类型参数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

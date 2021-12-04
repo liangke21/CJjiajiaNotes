@@ -33,7 +33,7 @@ public:
     std::wstring description;
 };
 
-int main22010201()
+int main220102012()
 {
     MyClass mc1{ 1, L"hello" };
     MyClass mc2{ 2, L"goodbye" };
