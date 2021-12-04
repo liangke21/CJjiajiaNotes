@@ -30,5 +30,8 @@
     <ClCompile Include="04非类型模板参数的类型推导.cpp">
       <Filter>源文件\01模板</Filter>
     </ClCompile>
+    <ClCompile Include="05默认模板参数.cpp">
+      <Filter>源文件\01模板</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

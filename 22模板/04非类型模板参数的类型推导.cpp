@@ -17,7 +17,7 @@ class MyClass3
     Arr<T, 10> a;
 };
 
-int main() {
+int main220104() {
 
     return 0;
 }

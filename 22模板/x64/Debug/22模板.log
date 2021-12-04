@@ -1,2 +1,5 @@
 ﻿  04非类型模板参数的类型推导.cpp
+  05默认模板参数.cpp
+G:\C++Notes\22模板\05默认模板参数.cpp(15,11): warning C4101: “bar”: 未引用的局部变量
+  正在生成代码...
   22模板.vcxproj -> G:\C++Notes\x64\Debug\22模板.exe
