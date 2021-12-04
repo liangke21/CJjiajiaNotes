@@ -1,5 +1,9 @@
 ﻿  正在扫描源以查找模块依赖项...
+  import.cpp
   MyProgram.cpp
-MyProgram.obj : error LNK2019: 无法解析的外部符号 "int __cdecl Bar22::f(void)" (?f@Bar22@@YAHXZ::<!ModuleA>)，函数 main 中引用了该符号
-MyProgram.obj : error LNK2019: 无法解析的外部符号 "double __cdecl Bar22::d(void)" (?d@Bar22@@YANXZ::<!ModuleA>)，函数 main 中引用了该符号
-G:\C++Notes\x64\Debug\21模块.exe : fatal error LNK1120: 2 个无法解析的外部命令
+  注解.cpp
+  正在生成代码...
+MyProgram.obj : error LNK2019: 无法解析的外部符号 "int __cdecl Bar22::f(void)" (?f@Bar22@@YAHXZ::<!ModuleA>)，函数 "int __cdecl main210201(void)" (?main210201@@YAHXZ) 中引用了该符号
+MyProgram.obj : error LNK2019: 无法解析的外部符号 "double __cdecl Bar22::d(void)" (?d@Bar22@@YANXZ::<!ModuleA>)，函数 "int __cdecl main210201(void)" (?main210201@@YAHXZ) 中引用了该符号
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+G:\C++Notes\x64\Debug\21模块.exe : fatal error LNK1120: 3 个无法解析的外部命令
