@@ -6,9 +6,9 @@ template<class T> void f(T t)
 // 显式特化 f 和'char' 与
 // template argument explicitly specified:
 //
-template<> void f<char>(char c)
-{
-}
+//template<> void f<char>(char c)
+//{
+//}
 
 // 显式特化 f 和'double' 与
 // 模板参数推导:

@@ -158,6 +158,12 @@
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
     <ClCompile Include="函数模板实例化.cpp" />
+    <ClCompile Include="函数模板的显式专用化.cpp" />
+    <ClCompile Include="函数模板的部分排序.cpp" />
+    <ClCompile Include="成员函数模板.cpp" />
+    <ClCompile Include="显式实例化.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

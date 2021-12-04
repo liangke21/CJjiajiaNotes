@@ -11,15 +11,15 @@
 
 
 
-template<class T> void f(T) { }
-
-//使用明确指定的模板实例化 f。
-// argument 'int'
+//template<class T> void f(T) { }
 //
-template void f<int>(int);
-
-// 用推导出的模板参数实例化 f 'char'.
-template void f(char);
+////使用明确指定的模板实例化 f。
+//// argument 'int'
+////
+//template void f<int>(int);
+//
+//// 用推导出的模板参数实例化 f 'char'.
+//template void f(char);
 int main22040201()
 {
 

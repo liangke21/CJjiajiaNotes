@@ -31,6 +31,18 @@
     <Filter Include="源文件\04函数模板\02函数模板实例化">
       <UniqueIdentifier>{2a382e95-0907-4048-951c-4661b3c2a78a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\04函数模板\03显式实例化">
+      <UniqueIdentifier>{954ea2e5-f263-4e21-8197-1c58c69de764}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04函数模板\04函数模板的显式专用化">
+      <UniqueIdentifier>{e910e82d-4c91-4be6-8da6-573f8e1f843e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04函数模板\05函数模板的部分排序">
+      <UniqueIdentifier>{27565290-d3f2-4c28-a55f-75a8e10bb67b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04函数模板\06成员函数模板">
+      <UniqueIdentifier>{4e4b507c-3194-4566-98ee-1b8b05e65584}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01定义模板.cpp">
@@ -77,6 +89,18 @@
     </ClCompile>
     <ClCompile Include="函数模板实例化.cpp">
       <Filter>源文件\04函数模板\02函数模板实例化</Filter>
+    </ClCompile>
+    <ClCompile Include="显式实例化.cpp">
+      <Filter>源文件\04函数模板\03显式实例化</Filter>
+    </ClCompile>
+    <ClCompile Include="函数模板的显式专用化.cpp">
+      <Filter>源文件\04函数模板\04函数模板的显式专用化</Filter>
+    </ClCompile>
+    <ClCompile Include="函数模板的部分排序.cpp">
+      <Filter>源文件\04函数模板\05函数模板的部分排序</Filter>
+    </ClCompile>
+    <ClCompile Include="成员函数模板.cpp">
+      <Filter>源文件\04函数模板\06成员函数模板</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
