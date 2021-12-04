@@ -1,3 +1,2 @@
-﻿  01定义模板.cpp
-G:\C++Notes\22模板\01定义模板.cpp(19,9): error C2374: “i”: 重定义；多次初始化
-G:\C++Notes\22模板\01定义模板.cpp(17): message : 参见“i”的声明
+﻿  02类型参数.cpp
+  22模板.vcxproj -> G:\C++Notes\x64\Debug\22模板.exe

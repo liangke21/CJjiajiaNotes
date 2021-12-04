@@ -14,7 +14,7 @@ int main220101() {
 
     int a = 20;
     int b = 30;
-    int i = minimum<int>(a, b);//ok 的
+  //  int i = minimum<int>(a, b);//ok 的
     //但是，由于这是一个函数模板，并且编译器可以 T 从参数 T 和 b推导的类型，因此可以像普通函数一样调用它：
     int i = minimum(a, b);//ko
     cout << i << endl;

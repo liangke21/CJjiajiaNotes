@@ -21,5 +21,8 @@
     <ClCompile Include="01定义模板.cpp">
       <Filter>源文件\01模板</Filter>
     </ClCompile>
+    <ClCompile Include="02类型参数.cpp">
+      <Filter>源文件\01模板</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
