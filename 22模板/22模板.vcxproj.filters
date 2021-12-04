@@ -16,6 +16,12 @@
     <Filter Include="源文件\01模板">
       <UniqueIdentifier>{14f450d1-d693-4742-8445-706d09bc5faa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\02typename">
+      <UniqueIdentifier>{82da0b56-d9b1-4280-814a-c85c54447548}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03类模板">
+      <UniqueIdentifier>{4db159b2-9b86-48c3-8300-b732cf63a8d5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01定义模板.cpp">
@@ -32,6 +38,18 @@
     </ClCompile>
     <ClCompile Include="05默认模板参数.cpp">
       <Filter>源文件\01模板</Filter>
+    </ClCompile>
+    <ClCompile Include="06模板特殊化.cpp">
+      <Filter>源文件\01模板</Filter>
+    </ClCompile>
+    <ClCompile Include="typename.cpp">
+      <Filter>源文件\02typename</Filter>
+    </ClCompile>
+    <ClCompile Include="01类模板的成员函数.cpp">
+      <Filter>源文件\03类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="02嵌套类模板.cpp">
+      <Filter>源文件\03类模板</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
