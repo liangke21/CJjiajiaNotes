@@ -1,2 +1,44 @@
-﻿  02嵌套类模板.cpp
-  22模板.vcxproj -> G:\C++Notes\x64\Debug\22模板.exe
+﻿  03模板朋友.cpp
+G:\C++Notes\22模板\03模板朋友.cpp(134,2): error C2953: “Array”: 类模板已经定义
+G:\C++Notes\22模板\03模板朋友.cpp(93): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(138,1): error C2955: “Array”: 使用 类 模板 需要 模板 参数列表
+G:\C++Notes\22模板\03模板朋友.cpp(93): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(138,18): error C2955: “Array”: 使用 类 模板 需要 模板 参数列表
+G:\C++Notes\22模板\03模板朋友.cpp(93): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(145,9): error C2955: “Array”: 使用 类 模板 需要 模板 参数列表
+G:\C++Notes\22模板\03模板朋友.cpp(93): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(145,31): error C2955: “Array”: 使用 类 模板 需要 模板 参数列表
+G:\C++Notes\22模板\03模板朋友.cpp(93): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(146,1): error C2912: 显式专用化；“void f(Array &)”不是函数模板的专用化
+G:\C++Notes\22模板\03模板朋友.cpp(152,19): error C2641: 无法推导“Array”的模板参数
+G:\C++Notes\22模板\03模板朋友.cpp(152,22): error C2784: “Array<T> Array(const Array<T> &)”: 未能从“int”为“const Array<T> &”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(22): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(152,22): error C2784: “Array<T> Array(const Array<T> &)”: 未能从“int”为“const Array<T> &”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(22): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(152,19): error C2783: “Array<T> Array(int)”: 未能为“T”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(17): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(152,22): error C2784: “Array<T> Array(Array<T>)”: 未能从“int”为“Array<T>”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(93): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(152,22): error C2784: “Array<T> Array(Array<T>)”: 未能从“int”为“Array<T>”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(93): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(153,5): error C2672: “f”: 未找到匹配的重载函数
+G:\C++Notes\22模板\03模板朋友.cpp(153,5): error C2783: “void f(Array &)”: 未能为“T”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(138): message : 参见“f”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(153,9): error C2784: “void f(Array<T> &)”: 未能从“Array”为“Array<T> &”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(91): message : 参见“f”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(155,17): error C2641: 无法推导“Array”的模板参数
+G:\C++Notes\22模板\03模板朋友.cpp(155,20): error C2784: “Array<T> Array(const Array<T> &)”: 未能从“int”为“const Array<T> &”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(22): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(155,20): error C2784: “Array<T> Array(const Array<T> &)”: 未能从“int”为“const Array<T> &”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(22): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(155,17): error C2783: “Array<T> Array(int)”: 未能为“T”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(17): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(155,20): error C2784: “Array<T> Array(Array<T>)”: 未能从“int”为“Array<T>”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(93): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(155,20): error C2784: “Array<T> Array(Array<T>)”: 未能从“int”为“Array<T>”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(93): message : 参见“Array”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(156,5): error C2672: “f”: 未找到匹配的重载函数
+G:\C++Notes\22模板\03模板朋友.cpp(156,5): error C2783: “void f(Array &)”: 未能为“T”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(138): message : 参见“f”的声明
+G:\C++Notes\22模板\03模板朋友.cpp(156,8): error C2784: “void f(Array<T> &)”: 未能从“Array”为“Array<T> &”推导 模板 参数
+G:\C++Notes\22模板\03模板朋友.cpp(91): message : 参见“f”的声明

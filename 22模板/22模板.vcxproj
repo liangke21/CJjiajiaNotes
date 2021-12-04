@@ -143,6 +143,9 @@
     <ClCompile Include="01类模板的成员函数.cpp" />
     <ClCompile Include="02嵌套类模板.cpp" />
     <ClCompile Include="02类型参数.cpp" />
+    <ClCompile Include="03模板朋友.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
+    </ClCompile>
     <ClCompile Include="03非类型参数.cpp" />
     <ClCompile Include="04非类型模板参数的类型推导.cpp" />
     <ClCompile Include="05默认模板参数.cpp" />

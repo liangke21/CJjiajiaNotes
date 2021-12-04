@@ -51,5 +51,8 @@
     <ClCompile Include="02嵌套类模板.cpp">
       <Filter>源文件\03类模板</Filter>
     </ClCompile>
+    <ClCompile Include="03模板朋友.cpp">
+      <Filter>源文件\03类模板</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -95,7 +95,7 @@ X<T>::Y<U>::~Y()
     delete u;
 }
 
-int main()
+int main22030202()
 {
     X<int>* xi = new X<int>(10);
     X<char>* xc = new X<char>('c');
@@ -103,6 +103,7 @@ int main()
     xc->print();
     delete xi;
     delete xc;
+    return 0;
 }
 
 //Output:
