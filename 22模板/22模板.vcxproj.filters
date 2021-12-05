@@ -55,6 +55,9 @@
     <Filter Include="源文件\06模板和名称解析\02依赖类型的名称解析">
       <UniqueIdentifier>{66dbb4a7-52ad-4e2a-bf07-42dd194837dc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\06模板和名称解析\03本地声明名称的名称解析">
+      <UniqueIdentifier>{fb402f05-efae-42dd-b12f-4751ba4b70ac}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01定义模板.cpp">
@@ -128,6 +131,21 @@
     </ClCompile>
     <ClCompile Include="01依赖类型的名称解析.cpp">
       <Filter>源文件\06模板和名称解析\02依赖类型的名称解析</Filter>
+    </ClCompile>
+    <ClCompile Include="01本地声明名称的名称解析.cpp">
+      <Filter>源文件\06模板和名称解析\03本地声明名称的名称解析</Filter>
+    </ClCompile>
+    <ClCompile Include="02模板参数和对象之间的名称冲突.cpp">
+      <Filter>源文件\06模板和名称解析\03本地声明名称的名称解析</Filter>
+    </ClCompile>
+    <ClCompile Include="03在类模板外部定义成员函数.cpp">
+      <Filter>源文件\06模板和名称解析\03本地声明名称的名称解析</Filter>
+    </ClCompile>
+    <ClCompile Include="04在命名空间外部定义模板或成员函数.cpp">
+      <Filter>源文件\06模板和名称解析\03本地声明名称的名称解析</Filter>
+    </ClCompile>
+    <ClCompile Include="05基类或成员名称隐藏模板参数.cpp">
+      <Filter>源文件\06模板和名称解析\03本地声明名称的名称解析</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

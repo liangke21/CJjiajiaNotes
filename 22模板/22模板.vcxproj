@@ -146,14 +146,18 @@
     <ClCompile Include="01类模板的成员函数.cpp" />
     <ClCompile Include="02嵌套类模板.cpp" />
     <ClCompile Include="02指针类型的部分专用化.cpp" />
+    <ClCompile Include="02模板参数和对象之间的名称冲突.cpp" />
     <ClCompile Include="02类型参数.cpp" />
+    <ClCompile Include="03在类模板外部定义成员函数.cpp" />
     <ClCompile Include="03定义部分专用化，使一种类型为 int.cpp" />
     <ClCompile Include="03模板朋友.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
     <ClCompile Include="03非类型参数.cpp" />
     <ClCompile Include="04具有模板专用化的友.cpp" />
+    <ClCompile Include="04在命名空间外部定义模板或成员函数.cpp" />
     <ClCompile Include="04非类型模板参数的类型推导.cpp" />
+    <ClCompile Include="05基类或成员名称隐藏模板参数.cpp" />
     <ClCompile Include="05类模板中声明的友元类模板.cpp" />
     <ClCompile Include="05默认模板参数.cpp" />
     <ClCompile Include="06模板特殊化.cpp" />
@@ -169,6 +173,7 @@
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
     <ClCompile Include="01类模板的部分专用化.cpp" />
+    <ClCompile Include="01本地声明名称的名称解析.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
