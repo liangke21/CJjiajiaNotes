@@ -139,8 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01依赖类型的名称解析.cpp" />
     <ClCompile Include="01函数模板.cpp" />
     <ClCompile Include="01定义模板.cpp" />
+    <ClCompile Include="01模板和名称解析.cpp" />
     <ClCompile Include="01类模板的成员函数.cpp" />
     <ClCompile Include="02嵌套类模板.cpp" />
     <ClCompile Include="02指针类型的部分专用化.cpp" />

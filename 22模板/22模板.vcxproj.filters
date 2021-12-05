@@ -49,6 +49,12 @@
     <Filter Include="源文件\06模板和名称解析">
       <UniqueIdentifier>{52b5dde6-c3f2-4538-b0e1-f49cb4a5c13c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\06模板和名称解析\01模板和名称解析">
+      <UniqueIdentifier>{c2029fe9-3180-4c9d-a374-c6853ad48cbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\06模板和名称解析\02依赖类型的名称解析">
+      <UniqueIdentifier>{66dbb4a7-52ad-4e2a-bf07-42dd194837dc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01定义模板.cpp">
@@ -116,6 +122,12 @@
     </ClCompile>
     <ClCompile Include="03定义部分专用化，使一种类型为 int.cpp">
       <Filter>源文件\05模板特殊化</Filter>
+    </ClCompile>
+    <ClCompile Include="01模板和名称解析.cpp">
+      <Filter>源文件\06模板和名称解析\01模板和名称解析</Filter>
+    </ClCompile>
+    <ClCompile Include="01依赖类型的名称解析.cpp">
+      <Filter>源文件\06模板和名称解析\02依赖类型的名称解析</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
