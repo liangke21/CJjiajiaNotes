@@ -46,6 +46,9 @@
     <Filter Include="源文件\05模板特殊化">
       <UniqueIdentifier>{b6241a4b-20ab-4835-b870-5f11cf77a9f8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\06模板和名称解析">
+      <UniqueIdentifier>{52b5dde6-c3f2-4538-b0e1-f49cb4a5c13c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01定义模板.cpp">
