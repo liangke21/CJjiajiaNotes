@@ -162,6 +162,7 @@
     <ClCompile Include="05默认模板参数.cpp" />
     <ClCompile Include="06模板特殊化.cpp" />
     <ClCompile Include="06重用模板参数.cpp" />
+    <ClCompile Include="MyArray.cpp" />
     <ClCompile Include="typename.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
     </ClCompile>
@@ -176,6 +177,9 @@
     <ClCompile Include="01本地声明名称的名称解析.cpp" />
     <ClCompile Include="选择非模板函数.cpp" />
     <ClCompile Include="首选完全匹配模板函数.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

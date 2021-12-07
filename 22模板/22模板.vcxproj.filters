@@ -61,6 +61,9 @@
     <Filter Include="源文件\06模板和名称解析\04函数模板调用的重载解析">
       <UniqueIdentifier>{7805f7e7-d87c-41ee-b25a-b0977e4bd1ad}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\07源代码组织">
+      <UniqueIdentifier>{337541ea-a946-4295-8455-25f39a31ae30}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01定义模板.cpp">
@@ -156,5 +159,13 @@
     <ClCompile Include="首选完全匹配模板函数.cpp">
       <Filter>源文件\06模板和名称解析\04函数模板调用的重载解析</Filter>
     </ClCompile>
+    <ClCompile Include="MyArray.cpp">
+      <Filter>源文件\07源代码组织</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyArray.h">
+      <Filter>源文件\07源代码组织</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
