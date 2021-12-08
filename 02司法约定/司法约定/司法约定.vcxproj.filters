@@ -15,12 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\Desktop\注释.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="D:\Desktop\Microsoft 专用.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="数值_布尔和指针文本.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
